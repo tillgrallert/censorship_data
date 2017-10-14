@@ -111,8 +111,8 @@
                <tei:cell n="2">S</tei:cell>
                <tei:cell n="3">yes</tei:cell>
                <tei:cell n="4">Lisān al-Ḥāl</tei:cell>
-               <cell n="5">No reasons given. Lisān's gap in publication between #52 (<date>15 Apr</date>) and
-                  #53 (<date>13 May</date>)</cell>
+               <cell n="5">No reasons given. Lisān's gap in publication between #52 (<date when="1878-04-15">15 Apr</date>) and
+                  #53 (<date when="1878-05-13">13 May</date>)</cell>
                <tei:cell n="6">
                   <tei:ref type="SenteCitationID" target="thamarat+149">Thamarāt 7 Mar 1878 (#149)</tei:ref>
                </tei:cell>
@@ -263,8 +263,7 @@
                <tei:cell n="2">S</tei:cell>
                <tei:cell n="3">yes</tei:cell>
                <tei:cell n="4">Lisān al-Ḥāl</tei:cell>
-               <cell n="5">No reasons given. Lisān's gap of publication of 3 numbers at some point
-                  between <date>23 Dec</date> and <date>13 Jan</date>.</cell>
+               <cell n="5">No reasons given. Lisān's gap of publication of 3 numbers at some point between <date when="1880-12-23">23 Dec</date> and <date when="1881-01-13">13 Jan</date>.</cell>
                <tei:cell n="6">
                   <tei:ref type="SenteCitationID" target="thamarat+311">Thamarāt 27 Dec 1880 (#311)</tei:ref>
                </tei:cell>
@@ -2242,7 +2241,7 @@
                <tei:cell n="3">no</tei:cell>
                <tei:cell n="4">Lisān al-Ḥāl</tei:cell>
                <cell n="5">Violation of the basic principle of the Press Law. No gap in publication
-                  dates after #3879 (<date>22 Nov</date>)</cell>
+                  dates after #3879 (<date when="1901-11-22">22 Nov</date>)</cell>
                <tei:cell n="6">
                   <tei:ref type="SenteCitationID" target="lisan+3885 tf-oib+1359">Lisān 29 Nov 1901 (#3885), Thamarāt 16 Dec 1901 (#1359)</tei:ref>
                   
@@ -2420,8 +2419,8 @@
                <tei:cell n="3">yes</tei:cell>
                <tei:cell n="4">Lisān al-Ḥāl</tei:cell>
                <cell n="5">Publication of articles which violated the basic principle of the Press
-                  Law. publication gap of ten days, between #4446 (<date>6 Nov</date>) and #4447
-                     (<date>15 Nov</date>). Henceforth they have to comply with the basic principles
+                  Law. publication gap of ten days, between #4446 (<date when="1903-11-06">6 Nov</date>) and #4447
+                     (<date when="1903-11-15">15 Nov</date>). Henceforth they have to comply with the basic principles
                   [of the press law].</cell>
                <tei:cell n="6">
                   <tei:ref type="SenteCitationID" target="lisan+4446">Lisān 17 Nov 1903 (#4446)</tei:ref>, TF 1455:6 </tei:cell>
@@ -2642,8 +2641,7 @@
                <tei:cell n="2">S</tei:cell>
                <tei:cell n="3">yes</tei:cell>
                <tei:cell n="4">Thamarāt al-Funūn</tei:cell>
-               <cell n="5">For an unnamed reason. Gap in publication between #1500 (<date>14
-                     Nov</date>) and #1501 (<date>27 Feb</date>)</cell>
+                <cell n="5">For an unnamed reason. Gap in publication between #1500 (<date when="1904-11-14">14 Nov</date>) and #1501 (<date when="1905-02-27">27 Feb</date>)</cell>
                <tei:cell n="6">
                   <tei:ref type="SenteCitationID" target="tf-oib+1500 tf-oib+1501">Thamarāt 14
                      Nov 1904 (#1500), 27 Feb 1905 (#1501)</tei:ref> , Iq 76:6 </tei:cell>
@@ -2750,9 +2748,7 @@
                <tei:cell n="2">S</tei:cell>
                <tei:cell n="3">yes</tei:cell>
                <tei:cell n="4">Lisān al-Ḥāl</tei:cell>
-               <cell n="5">For an unnamed reason. Corresponding gap of a total of 12 weeks at some
-                  point between #4741 (<date>23 Dec 1904</date>) and #4883 (<date>1 Sep
-                  1905</date>).</cell>
+               <cell n="5">For an unnamed reason. Corresponding gap of a total of 12 weeks at some point between #4741 (<date when="1904-12-23">23 Dec 1904</date>) and #4883 (<date when="1905-09-01">1 Sep 1905</date>).</cell>
                <tei:cell n="6">
                   <tei:ref type="SenteCitationID" target="tf-oib+1515">Thamarāt 5 Jun 1905
                      (#1515)</tei:ref>
@@ -2768,8 +2764,7 @@
                <tei:cell n="2">W</tei:cell>
                <tei:cell n="3"/>
                <tei:cell n="4">Bayrūt, private</tei:cell>
-               <cell n="5">Mistakes resulting from careless editing. Repetition of the offence will
-                  cause suspension</cell>
+               <cell n="5">Mistakes resulting from careless editing. Repetition of the offence will cause suspension</cell>
                <tei:cell n="6">
                   <tei:ref type="SenteCitationID" target="thamarat+1590">Thamarāt 17 Sep 1906 (#1590)</tei:ref>
                </tei:cell>
@@ -2784,8 +2779,7 @@
                <tei:cell n="2">P</tei:cell>
                <tei:cell n="3"/>
                <tei:cell n="4">Mawārid al-Ḥikma</tei:cell>
-               <cell n="5">Permit was given to publish the newspaper Mawārid al-Ḥikma in
-                  Damascus</cell>
+               <cell n="5">Permit was given to publish the newspaper Mawārid al-Ḥikma in Damascus</cell>
                <tei:cell n="6">
                   <tei:ref type="SenteCitationID" target="BoaYaRes15114+1907">BOA YA Res 151/14, 23 Nov 1907</tei:ref>
                </tei:cell>
