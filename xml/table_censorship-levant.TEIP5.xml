@@ -15,16 +15,22 @@
       </fileDesc>
       <tei:encodingDesc>
          <tei:refsDecl>
-            <tei:p>Bibliographic notes are marked with the note element. This
-                                element carries the attribute @type identifying the source of the
-                                reference – usually a reference managing software. The @corresp
-                                attribute contains the placeholder tag used by the software
-                                identified in @type to refer to an individual reference or a group
-                                of references.</tei:p>
+            <cRefPattern matchPattern="(.+)" replacementPattern="sente:///BachBibliographie/$1"></cRefPattern>
          </tei:refsDecl>
+         <refsDecl>
+            <tei:p>Bibliographic notes are marked with the <tei:gi>ref</tei:gi> element. This
+               element carries the attribute <tei:att>type</tei:att> identifying the source of the
+               reference – usually a reference managing software.<tei:tag>ref
+                  type="SenteCitationID"</tei:tag> identifies Sente as the reference manager. The
+               <tei:att>target</tei:att> attribute contains the placeholder tag used by the
+               software identified in <tei:att>type</tei:att> to refer to an individual reference or
+               a group of references.</tei:p>
+         </refsDecl>
       </tei:encodingDesc>
       <revisionDesc>
          <change when="2015-06-22">Added data for al-Muqtabas in 1912</change>
+         <change when="2015-06-22">Changed all <gi>note</gi> with <att>type</att>='SenteCitationID' to <gi>ref</gi> elements</change>
+         <change when="2015-06-22">corrected the faulty attribute values of <att>corresp</att> on <gi>note</gi> elements: the internal spaces in Sente IDs were replaced with "+" and the separating ";" has been replaced with whitespaces</change>
          <change when="2014-03-03">Created by automatic conversion from OmniOutliner</change>
       </revisionDesc>
    </teiHeader>
@@ -56,10 +62,10 @@
                </tei:cell>
                <cell n="5"/>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID"
-                     corresp="thamarat 134; thamarat 135; thamarat 138; thamarat 139">Thamarāt 22
+                  <tei:ref type="SenteCitationID"
+                     target="thamarat+134 thamarat+135 thamarat+138 thamarat+139">Thamarāt 22
                      Nov 1877 (#134), 29 Nov 1877 (#135), 20 Dec 1877 (#138), 27 Dec 1877
-                     (#139)</tei:note>
+                     (#139)</tei:ref>
                   
                   
                   
@@ -79,7 +85,7 @@
                <cell n="5">Aḥmad ʿIzzat Bey and Aḥmad ʿArafī Bey obtain the official permit to
                   publish a weekly (Wednesday) in Damascus.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 383">Bashīr 11 Jan 1878 (#383)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+383">Bashīr 11 Jan 1878 (#383)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -108,7 +114,7 @@
                <cell n="5">No reasons given. Lisān's gap in publication between #52 (<date>15 Apr</date>) and
                   #53 (<date>13 May</date>)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 149">Thamarāt 7 Mar 1878 (#149)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+149">Thamarāt 7 Mar 1878 (#149)</tei:ref>
                </tei:cell>
                <tei:cell n="7">4 months</tei:cell>
                <tei:cell n="8">
@@ -127,7 +133,7 @@
                <tei:cell n="4">al-Jawāʾib</tei:cell>
                <cell n="5">unkown reasons</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 167a">Thamarāt 11 Jul 1878 (#167)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+167a">Thamarāt 11 Jul 1878 (#167)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -145,7 +151,7 @@
                   weekly political and literary paper in Damascus and to open a printing press for
                   this purpose</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaMfMkt5880 1878">BOA MF Mkt 58/80, 26 Nov 1878</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaMfMkt5880+1878">BOA MF Mkt 58/80, 26 Nov 1878</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -160,7 +166,7 @@
                <tei:cell n="4">al-Janna</tei:cell>
                <cell n="5">Incitement to tax evasion and a false report</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 221a">Thamarāt 24 Mar 1879 (#221)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+221a">Thamarāt 24 Mar 1879 (#221)</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -174,10 +180,10 @@
                <tei:cell n="3"/>
                <tei:cell n="4">al-Shām</tei:cell>
                <cell n="5">Amīn Efendi Tarakci obtained the permit to publish a weekly, Ottoman and
-                  Arabic speaking newspaper under the title of<hi rend="italic"> al-Shām</hi> in
+                  Arabic speaking newspaper under the title of <hi rend="italic">al-Shām</hi> in
                   Damascus</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaMfMkt6390 1879">BOA MF Mkt 63/90, 11 Jul 1879</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaMfMkt6390+1879">BOA MF Mkt 63/90, 11 Jul 1879</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -194,12 +200,12 @@
                <cell n="5">permit to resume its publication in Arabic and Ottoman after being shut
                   down for some months</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 181; thamarat 240; muqtataf 4:4"
+                  <tei:ref type="SenteCitationID" target="lisan+181 thamarat+240 muqtataf+4:4"
                      >Lisān 4 Aug 1879 (#181), Thamarāt 4 Aug 1879 (#240),  <tei:emph
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         xmlns:xs="http://www.w3.org/2001/XMLSchema" style="font-style:italic"
-                        >Muqtaṭaf</tei:emph>, 4(4), Sep 1879:116</tei:note>
+                        >Muqtaṭaf</tei:emph>, 4(4), Sep 1879:116</tei:ref>
                   
                   
                </tei:cell>
@@ -216,7 +222,7 @@
                <tei:cell n="4">al-iʿtidāl</tei:cell>
                <cell n="5">Complaints about its contents</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 252">Thamarāt 27 Oct 1879 (#252)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+252">Thamarāt 27 Oct 1879 (#252)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -244,7 +250,7 @@
                <tei:cell n="4">All newspapers</tei:cell>
                <cell n="5">Harmful and contradictory news</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 310">Thamarāt 20 Dec 1880 (#310)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+310">Thamarāt 20 Dec 1880 (#310)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -260,7 +266,7 @@
                <cell n="5">No reasons given. Lisān's gap of publication of 3 numbers at some point
                   between <date>23 Dec</date> and <date>13 Jan</date>.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 311">Thamarāt 27 Dec 1880 (#311)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+311">Thamarāt 27 Dec 1880 (#311)</tei:ref>
                </tei:cell>
                <tei:cell n="7">15 days</tei:cell>
                <tei:cell n="8"/>
@@ -277,7 +283,7 @@
                <cell n="5">Ministry of the Interior sent instructions to ban all reports on the
                   death of Sultan ʿAbdulaziz</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 561a">Bashīr 9 Jun 1881 (#561)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+561a">Bashīr 9 Jun 1881 (#561)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -292,7 +298,7 @@
                <tei:cell n="4">al-Bashīr</tei:cell>
                <cell n="5">Inciting religious fanaticism</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 347">Thamarāt 12 Sep 1881 (#347)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+347">Thamarāt 12 Sep 1881 (#347)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -307,7 +313,7 @@
                <tei:cell n="4">al-Janna</tei:cell>
                <cell n="5">False news about the government of Lebanon</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 348">Thamarāt 19 Sep 1881 (#348)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+348">Thamarāt 19 Sep 1881 (#348)</tei:ref>
                </tei:cell>
                <tei:cell n="7">2 months</tei:cell>
                <tei:cell n="8"/>
@@ -322,7 +328,7 @@
                <tei:cell n="4">al-Janna</tei:cell>
                <cell n="5">False news about the government of Lebanon</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 348">Thamarāt 19 Sep 1881 (#348)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+348">Thamarāt 19 Sep 1881 (#348)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -337,7 +343,7 @@
                <tei:cell n="4">al-Miṣbāḥ</tei:cell>
                <cell n="5">Prejudiced report on Lebanon</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 348">Thamarāt 19 Sep 1881 (#348)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+348">Thamarāt 19 Sep 1881 (#348)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -354,7 +360,7 @@
                      calendar="#cal_islamic" when="1881-11-15">22 Dhu II 1298 (15 Nov 1881)</date>
                </cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 357; lisan 420">Thamarāt 28 Nov 1881 (#357), Lisān 28 Nov 1881 (#420)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+357 lisan+420">Thamarāt 28 Nov 1881 (#357), Lisān 28 Nov 1881 (#420)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">2 months <ref type="noteAnchor" target="#fnText4">C</ref>, 1 month
@@ -373,7 +379,7 @@
                </tei:cell>
                <cell n="5">No reason provided</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 420">Lisān 28 Nov 1881 (#420)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+420">Lisān 28 Nov 1881 (#420)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -388,7 +394,7 @@
                <tei:cell n="4">al-Taqaddum</tei:cell>
                <cell n="5">Insult to the sultan</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 358">Thamarāt 5 Dec 1881 (#358)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+358">Thamarāt 5 Dec 1881 (#358)</tei:ref>
                </tei:cell>
                <tei:cell n="7">2 months</tei:cell>
                <tei:cell n="8"/>
@@ -403,7 +409,7 @@
                <tei:cell n="4">al-Janna</tei:cell>
                <cell n="5">Personal invective</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 360">Thamarāt 19 Dec 1881 (#360)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+360">Thamarāt 19 Dec 1881 (#360)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -418,7 +424,7 @@
                <tei:cell n="4">All newspapers</tei:cell>
                <cell n="5">Rumors from Egypt</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 377">Thamarāt 17 Apr 1882 (#377)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+377">Thamarāt 17 Apr 1882 (#377)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -433,7 +439,7 @@
                <tei:cell n="4">al-Taqaddum</tei:cell>
                <cell n="5">insulting the Druze community in #123</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 387a; lisan 493d">Thamarāt 26 Jun 1882 (#387), Lisān 14 Aug 1882 (#493)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+387a lisan+493d">Thamarāt 26 Jun 1882 (#387), Lisān 14 Aug 1882 (#493)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">1 month</tei:cell>
@@ -449,7 +455,7 @@
                <tei:cell n="4">a number / all newspapers</tei:cell>
                <cell n="5">For news from Alexandria</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 487; bashir 619a; thamarat 391">Bashīr 20 Jul 1882 (#619), Lisān 24 Jul 1882 (#487), Thamarāt 24 Jul 1882 (#391)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+487 bashir+619a thamarat+391">Bashīr 20 Jul 1882 (#619), Lisān 24 Jul 1882 (#487), Thamarāt 24 Jul 1882 (#391)</tei:ref>
                   
                   
                </tei:cell>
@@ -467,7 +473,7 @@
                </tei:cell>
                <cell n="5">For news from Alexandria</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 619d">Bashīr 20 Jul 1882 (#619)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+619d">Bashīr 20 Jul 1882 (#619)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -482,7 +488,7 @@
                <tei:cell n="4">al-Janna</tei:cell>
                <cell n="5">False news about evens in Alexandria</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 619a; thamarat 391; lisan 487">Bashīr 20 Jul 1882 (#619), Thamarāt 24 Jul 1882 (#391), Lisān 24 Jul 1882 (#487)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+619a thamarat+391 lisan+487">Bashīr 20 Jul 1882 (#619), Thamarāt 24 Jul 1882 (#391), Lisān 24 Jul 1882 (#487)</tei:ref>
                   
                   
                </tei:cell>
@@ -500,7 +506,7 @@
                </tei:cell>
                <cell n="5">insulting the Druze community, repeated punishment, imperial order</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 493d">Lisān 14 Aug 1882 (#493)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+493d">Lisān 14 Aug 1882 (#493)</tei:ref>
                </tei:cell>
                <tei:cell n="7">6 months</tei:cell>
                <tei:cell n="8"/>
@@ -529,7 +535,7 @@
                </tei:cell>
                <cell n="5">false reports on the cordon sanitaire around Beirut in #83</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 599">Lisān 23 Aug 1883 (#599)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+599">Lisān 23 Aug 1883 (#599)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -545,7 +551,7 @@
                </tei:cell>
                <cell n="5">False news from Lebanon</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 637">Lisān 3 Jan 1884 (#637)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+637">Lisān 3 Jan 1884 (#637)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -560,7 +566,7 @@
                <tei:cell n="4">Lisān al-Ḥāl</tei:cell>
                <cell n="5">False and exaggerated news about Lebanon</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 460; lisan 637">Lisān 3 Jan 1884 (#637), Thamarāt 7 Jan 1884 (#460)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+460 lisan+637">Lisān 3 Jan 1884 (#637), Thamarāt 7 Jan 1884 (#460)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -576,7 +582,7 @@
                <tei:cell n="4">al-Taqaddum</tei:cell>
                <cell n="5">Upsetting news. over article in #122</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 474; lisan 663">Lisān 3 Apr 1884 (#663), Thamarāt 14 Apr 1884 (#474)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+474 lisan+663">Lisān 3 Apr 1884 (#663), Thamarāt 14 Apr 1884 (#474)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -593,7 +599,7 @@
                </tei:cell>
                <cell n="5">For a report on the Shūf</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 684">Lisān 16 Jun 1884 (#684)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+684">Lisān 16 Jun 1884 (#684)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -609,7 +615,7 @@
                </tei:cell>
                <cell n="5">For a report on the Shūf</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 684">Lisān 16 Jun 1884 (#684)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+684">Lisān 16 Jun 1884 (#684)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -624,11 +630,11 @@
                <tei:cell n="4">al-Janna</tei:cell>
                <cell n="5">Lies about Midḥat Pasha and ʿAbdul ʿAzīz</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID"
-                            corresp="Dickson 1884ac; hadiqat 1346; lisan 685; thamarat 484">MECA GB165-0086, Dickson <tei:emph xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                  <tei:ref type="SenteCitationID"
+                            target="Dickson+1884ac hadiqat+1346 lisan+685 thamarat+484">MECA GB165-0086, Dickson <tei:emph xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                                xmlns:html="http://www.w3.org/1999/xhtml"
                                xmlns:xs="http://www.w3.org/2001/XMLSchema"
-                               style="font-style:italic">Journal 1882-1885</tei:emph>,  Damascus, entry of 5 Jun 1884, Ḥadīqat 19 Jun 1884 (#1346), Lisān 19 Jun 1884 (#685), Thamarāt 23 Jun 1884 (#484)</tei:note>
+                               style="font-style:italic">Journal 1882-1885</tei:emph>,  Damascus, entry of 5 Jun 1884, Ḥadīqat 19 Jun 1884 (#1346), Lisān 19 Jun 1884 (#685), Thamarāt 23 Jun 1884 (#484)</tei:ref>
                   
                   
                   
@@ -652,7 +658,7 @@
                <cell n="5">For <hi rend="italic">al-Bashīr</hi>'s number on the occasion of the
                   Sultan's birthday</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 707">Lisān 4 Sep 1884 (#707)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+707">Lisān 4 Sep 1884 (#707)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -668,8 +674,8 @@
                <cell n="5">A controversy about Voltaire involving personal invective and incitement
                   to public disturbances</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 495">Thamarāt 8 Sep 1884
-                     (#495)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+495">Thamarāt 8 Sep 1884
+                     (#495)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -685,8 +691,8 @@
                <cell n="5">A controversy about Voltaire involving personal invective and incitement
                   to public disturbances</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 495">Thamarāt 8 Sep 1884
-                     (#495)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+495">Thamarāt 8 Sep 1884
+                     (#495)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -703,7 +709,7 @@
                <cell n="5">Najīb Efendi al-Bustānī received the permit to resume publication two
                   months after the death of Salīm al-Bustānī</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 727">Lisān 17 Nov 1884 (#727)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+727">Lisān 17 Nov 1884 (#727)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -720,7 +726,7 @@
                <cell n="5">Najīb Efendi al-Bustānī received the permit to resume publication two
                   months after the death of Salīm al-Bustānī</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 727">Lisān 17 Nov 1884 (#727)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+727">Lisān 17 Nov 1884 (#727)</tei:ref>
                </tei:cell>
                <tei:cell n="7">2 months</tei:cell>
                <tei:cell n="8">
@@ -740,7 +746,7 @@
                </tei:cell>
                <cell n="5">orders to destroy all newspapers from Egypt upon arrival</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Eldridge 1884a">PRO FO 195/1480 Beirut 40, Eldridge to Wyndham, 10 Dec 1884</tei:note>
+                  <tei:ref type="SenteCitationID" target="Eldridge+1884a">PRO FO 195/1480 Beirut 40, Eldridge to Wyndham, 10 Dec 1884</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -756,7 +762,7 @@
                </tei:cell>
                <cell n="5">for news from Egypt</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 766; lisna 765">Lisān 30 Mar 1885 (#765),  25 Jun 1885 (#766)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+766 lisna+765">Lisān 30 Mar 1885 (#765),  25 Jun 1885 (#766)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">3 months</tei:cell>
@@ -777,7 +783,7 @@
                </tei:cell>
                <cell n="5">for news from Egypt</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 766; lisna 765">Lisān 30 Mar 1885 (#765),  25 Jun 1885 (#766)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+766 lisna+765">Lisān 30 Mar 1885 (#765),  25 Jun 1885 (#766)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">3 months</tei:cell>
@@ -798,7 +804,7 @@
                </tei:cell>
                <cell n="5">For publishing certain comments on the Mutaṣarrif of Lebanon</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="hadiqat 1411">Ḥadīqat 17 Sep 1885 (#1411)</tei:note>
+                  <tei:ref type="SenteCitationID" target="hadiqat+1411">Ḥadīqat 17 Sep 1885 (#1411)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -814,7 +820,7 @@
                </tei:cell>
                <cell n="5">For publishing certain comments on the Mutaṣarrif of Lebanon</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="hadiqat 1411">Ḥadīqat 17 Sep 1885 (#1411)</tei:note>
+                  <tei:ref type="SenteCitationID" target="hadiqat+1411">Ḥadīqat 17 Sep 1885 (#1411)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -829,8 +835,8 @@
                <tei:cell n="4">al-Janna</tei:cell>
                <cell n="5">False reports of disturbances in Damascus on <date when="1885-09-23">19 Dhu II 1302 (23 Sep 1885)</date></cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID"
-                            corresp="hadiqat 1414; thamarat 552; hadiqat 1416">Ḥadīqat 8 Oct 1885 (#1414),  22 Oct 1885 (#1416), Thamarāt 26 Oct 1885 (#552)</tei:note>
+                  <tei:ref type="SenteCitationID"
+                            target="hadiqat+1414 thamarat+552 hadiqat+1416">Ḥadīqat 8 Oct 1885 (#1414),  22 Oct 1885 (#1416), Thamarāt 26 Oct 1885 (#552)</tei:ref>
                   
                   
                </tei:cell>
@@ -847,8 +853,8 @@
                <tei:cell n="4">All newspapers</tei:cell>
                <cell n="5">False reports about government actions</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 576">Thamarāt 12 Apr 1886
-                     (#576)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+576">Thamarāt 12 Apr 1886
+                     (#576)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -864,7 +870,7 @@
                <cell n="5">Banned from publication for one
                   month for reports on the Tzar's journey in #928 of <date when="1887-01-13">13 Jan 1887</date></cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 931; hadiqat 1482">Lisān 24 Jan 1887 (#931), Ḥadīqat 27 Jan 1887 (#1482)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+931 hadiqat+1482">Lisān 24 Jan 1887 (#931), Ḥadīqat 27 Jan 1887 (#1482)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">1 month</tei:cell>
@@ -884,8 +890,8 @@
                <tei:cell n="4">All newspapers</tei:cell>
                <cell n="5">Disturbing and harmful political news</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 619">Thamarāt 21 Feb 1887
-                     (#619)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+619">Thamarāt 21 Feb 1887
+                     (#619)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -901,7 +907,7 @@
                </tei:cell>
                <cell n="5">False reports on the Anglo-Turkish talks.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 973">Lisān 14 Jul 1887 (#973)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+973">Lisān 14 Jul 1887 (#973)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -917,7 +923,7 @@
                <cell n="5">Untrue reports on the Anglo-Turkish talks. Prohibition to quote from
                   foreign newspapers</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 640; hadiqat 1506">Ḥadīqat 14 Jul 1887 (#1506), Thamarāt 18 Jul 1887 (#640)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+640 hadiqat+1506">Ḥadīqat 14 Jul 1887 (#1506), Thamarāt 18 Jul 1887 (#640)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -934,7 +940,7 @@
                </tei:cell>
                <cell n="5">prohibition to quote from foreign newspapers</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 640">Thamarāt 18 Jul 1887 (#640)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+640">Thamarāt 18 Jul 1887 (#640)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -969,8 +975,8 @@
                <tei:cell n="4">al-Taqaddum</tei:cell>
                <cell n="5">False news that incited the people to riot</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 669">Thamarāt 13 Feb 1888
-                     (#669)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+669">Thamarāt 13 Feb 1888
+                     (#669)</tei:ref>
                </tei:cell>
                <tei:cell n="7">1 month <ref type="noteAnchor" target="#fnText4">C</ref>,
                      indefinite<ref type="noteAnchor" target="#fnText3">T</ref>
@@ -991,8 +997,8 @@
                <tei:cell n="4">al-Taqaddum</tei:cell>
                <cell n="5">Resumed publication</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 674">Thamarāt 19 Mar 1888
-                     (#674)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+674">Thamarāt 19 Mar 1888
+                     (#674)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8">
@@ -1013,7 +1019,7 @@
                <cell n="5">Permit issued for an Arabic, Ottoman, and French speaking newspaper in
                   Damascus</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaİDh107784503 1888">BOA İ DH 1077/84503, 26 Mar 1888</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaİDh107784503+1888">BOA İ DH 1077/84503, 26 Mar 1888</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1030,7 +1036,7 @@
                   probably banned for a month as there are only 26 numbers for the 7 months between
                   mid-Mar and mid-Oct</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 1048; tf-oib 676">Lisān 2 Apr 1888 (#1048), Thamarāt 2 Apr 1888 (#676)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+1048 tf-oib+676">Lisān 2 Apr 1888 (#1048), Thamarāt 2 Apr 1888 (#676)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -1050,8 +1056,8 @@
                      al-Afkār</hi>
                </cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID"
-                            corresp="BoaDhMkt149415 1888; BoaDhMkt150013 1888">BOA DH Mkt 1494/15, 14 Mar 1888, BOA DH Mkt 1500/13, 11 Apr 1888</tei:note>
+                  <tei:ref type="SenteCitationID"
+                            target="BoaDhMkt149415+1888 BoaDhMkt150013+1888">BOA DH Mkt 1494/15, 14 Mar 1888, BOA DH Mkt 1500/13, 11 Apr 1888</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1067,8 +1073,8 @@
                <cell n="5">Offending the Sultan. Gap of publication between  #968 (<date when="1889-05-11">11 May</date>) and #969
                   (<date when="1899-06-08">8 Jun</date>)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 739; tf-oib 734">Thamarāt 20 May
-                     1889 (#734), 1 Jul 1889 (#739)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+739 tf-oib+734">Thamarāt 20 May
+                     1889 (#734), 1 Jul 1889 (#739)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">1 month <ref type="noteAnchor" target="#fnText4">C</ref>, indefinite
@@ -1091,8 +1097,8 @@
                <cell n="5">Failure to print the necessary titles and praises with the Sultan's
                   name</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 734; tf-oib 744">Thamarāt 20 May
-                     1889 (#734), 5 Aug 1889 (#744)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+734 tf-oib+744">Thamarāt 20 May
+                     1889 (#734), 5 Aug 1889 (#744)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">3 months <ref type="noteAnchor" target="#fnText4">C</ref>, indefinite
@@ -1112,7 +1118,7 @@
                   after the ban speaks of 2 months only (between #1168 and #1169), but does not
                   elaborate on the reasons</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 736; lisan 1169">Thamarāt 10 Jun 1889 (#736), Lisān 30 Sep 1889 (#1169)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+736 lisan+1169">Thamarāt 10 Jun 1889 (#736), Lisān 30 Sep 1889 (#1169)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">indefinite <ref type="noteAnchor" target="#fnText4">C</ref>, 2 months
@@ -1149,7 +1155,7 @@
                <cell n="5">Warning to comply with censorship. Orders issued to the post
                   to not deliver copies to the subscribers without prior compliance</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 750">Thamarāt 23 Sep 1889 (#750)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+750">Thamarāt 23 Sep 1889 (#750)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1169,7 +1175,7 @@
                   months the paper got a new permit as a religious newspaper, henceforth prohibiting
                   any political news</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 996a; Jessup 1910@549-550">Bashīr 15 Jan 1890 (#996), Jessup 1910:549-552</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+996a Jessup+1910@549-550">Bashīr 15 Jan 1890 (#996), Jessup 1910:549-552</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1188,7 +1194,7 @@
                <cell n="5">prohibition of import of the Armenian paper <hi rend="italic">Sur
                      Hintak</hi> from the USA into the Ottoman Empire</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1004">Bashīr 12 Mar 1890 (#1004)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1004">Bashīr 12 Mar 1890 (#1004)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1204,7 +1210,7 @@
                </tei:cell>
                <cell n="5">official permit to resume publication</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 778@4">Thamarāt 7 Apr 1890 (#778):4</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+778@4">Thamarāt 7 Apr 1890 (#778):4</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1236,7 +1242,7 @@
                </tei:cell>
                <cell n="5">publication of the paper banned indefinitely</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaİDh117992223 1890">BOA İ DH 1179/92223, 30 Apr 1890</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaİDh117992223+1890">BOA İ DH 1179/92223, 30 Apr 1890</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -1253,8 +1259,8 @@
                   Ottoman Arabic newspaper under the title <hi rend="italic">Ruḥta al-Shām</hi> in
                   Damascus</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID"
-                            corresp="BoaDhMkt171821 1890; BoaDhMkt172769 1890">BOA DH Mkt 1718/21, 16 Apr 1890, BOA DH Mkt 1727/69, 30 May 1890</tei:note>
+                  <tei:ref type="SenteCitationID"
+                            target="BoaDhMkt171821+1890 BoaDhMkt172769+1890">BOA DH Mkt 1718/21, 16 Apr 1890, BOA DH Mkt 1727/69, 30 May 1890</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1271,8 +1277,8 @@
                      <hi rend="italic">Rawḍat al-Shām</hi> is granted to Khālid Efendi
                   al-Qārislī</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 1251">Lisān 21 Jul 1890 (#1251)</tei:note>
-                  <tei:note type="SenteCitationID" corresp="bashir 1022">Bashīr 23 Jul 1890 (#1022)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+1251">Lisān 21 Jul 1890 (#1251)</tei:ref>
+                  <tei:ref type="SenteCitationID" target="bashir+1022">Bashīr 23 Jul 1890 (#1022)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1290,7 +1296,7 @@
                   Missing from the AUB collection, but the numbering indicates a ban of 5 months
                   prior to March 1892</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1072">Bashīr 8 Jul 1891 (#1072)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1072">Bashīr 8 Jul 1891 (#1072)</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -1306,8 +1312,8 @@
                <cell n="5">The Ministry of the Interior issued a permit to resume publication, which
                   began on <date when="1891-10-24">24 October</date>. No reason given.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 856">Thamarāt 26 Oct 1891
-                     (#856)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+856">Thamarāt 26 Oct 1891
+                     (#856)</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -1323,10 +1329,10 @@
                <cell n="5">Permit for the newspaper <hi rend="italic">al-Shām</hi>, to be published
                   in Damascus by Muṣṭafā Wāṣif Efendi</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt188829 1891">BOA DH Mkt 1888/29, 19 Nov 1891</tei:note>
-                  <tei:note type="SenteCitationID" corresp="BoaİDh125198113 1891">BOA İ DH 1251/98113, 29 Nov 1891</tei:note>
-                  <tei:note type="SenteCitationID" corresp="thamarat 865">Thamarāt 28 Dec 1891 (#865)</tei:note>
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt191359 1892">BOA DH Mkt 1913/59, 19 Jan 1892</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt188829+1891">BOA DH Mkt 1888/29, 19 Nov 1891</tei:ref>
+                  <tei:ref type="SenteCitationID" target="BoaİDh125198113+1891">BOA İ DH 1251/98113, 29 Nov 1891</tei:ref>
+                  <tei:ref type="SenteCitationID" target="thamarat+865">Thamarāt 28 Dec 1891 (#865)</tei:ref>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt191359+1892">BOA DH Mkt 1913/59, 19 Jan 1892</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1360,7 +1366,7 @@
                      >al-Shām</hi>. Muṣṭafā Wāṣif is the proprietor and Adīb Naẓmī the editor and
                   director.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 1418">Lisān 20 Jun 1892 (#1418)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+1418">Lisān 20 Jun 1892 (#1418)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1376,7 +1382,7 @@
                   >T</ref></tei:cell>
                <cell n="5">2 months' gap in publication which is not commented on.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 890; thamarat 891">Thamarāt 27 Jun 1892 (#890),  15 Aug 1892 (#891)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+890 thamarat+891">Thamarāt 27 Jun 1892 (#890),  15 Aug 1892 (#891)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">2 months</tei:cell>
@@ -1397,7 +1403,7 @@
                <cell n="5">Violation of the censor's warning. Gap of publication between #1045 (5
                   Oct) and #1046 (9 Nov), or #1046 (12 Oct.) and #1047 (16 Nov)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 899; bashir a1047">Thamarāt 10 Oct 1892 (#899), Bashīr 16 Nov 1892 (#1047)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+899 bashir+a1047">Thamarāt 10 Oct 1892 (#899), Bashīr 16 Nov 1892 (#1047)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">2 months <ref type="noteAnchor" target="#fnText4">C</ref>, 1 month
@@ -1446,7 +1452,7 @@
                <cell n="5">the owner of the librairie universelle Amīn Efendi al-Khūrī obtained the
                   concession to publish <hi rend="italic">Kawkab al-Sharq</hi> in Beirut</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1118">Bashīr 28 Mar 1894 (#1118)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1118">Bashīr 28 Mar 1894 (#1118)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1461,7 +1467,7 @@
                <tei:cell n="4">al-Bashīr</tei:cell>
                <cell n="5">Printing something not in the draft copy</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 976; lisan 1606">Thamarāt 23 Apr 1894 (#976), Lisān 23 Apr 1894 (#1606)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+976 lisan+1606">Thamarāt 23 Apr 1894 (#976), Lisān 23 Apr 1894 (#1606)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -1477,7 +1483,7 @@
                <tei:cell n="4">Bayrūt</tei:cell>
                <cell n="5">Violation of the censor's warning</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 1606; thamarat 976">Lisān 23 Apr 1894 (#1606), Thamarāt 23 Apr 1894 (#976)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+1606 thamarat+976">Lisān 23 Apr 1894 (#1606), Thamarāt 23 Apr 1894 (#976)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -1493,7 +1499,7 @@
                <tei:cell n="4">Lisān al-Ḥāl</tei:cell>
                <cell n="5">Violation of the censor's warning</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 976">Thamarāt 23 Apr 1894 (#976)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+976">Thamarāt 23 Apr 1894 (#976)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1508,7 +1514,7 @@
                <tei:cell n="4">Thamarāt al-Funūn</tei:cell>
                <cell n="5">Violation of the censor's warning</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 976; lisan 1606">Thamarāt 23 Apr 1894 (#976), Lisān 23 Apr 1894 (#1606)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+976 lisan+1606">Thamarāt 23 Apr 1894 (#976), Lisān 23 Apr 1894 (#1606)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -1524,7 +1530,7 @@
                <tei:cell n="4">al-Aḥwāl</tei:cell>
                <cell n="5">Publication of two sentences not in the draft copy</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 977">Thamarāt 30 Apr 1894 (#977)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+977">Thamarāt 30 Apr 1894 (#977)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1539,7 +1545,7 @@
                <tei:cell n="4">Thamarāt al-Funūn</tei:cell>
                <cell n="5">Violation of the censor's warning</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 980b">Thamarāt 21 May 1894 (#980)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+980b">Thamarāt 21 May 1894 (#980)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1554,7 +1560,7 @@
                <tei:cell n="4">al-Aḥwāl</tei:cell>
                <cell n="5">False news</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 1013b">Thamarāt 21 Jan 1895 (#1013)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+1013b">Thamarāt 21 Jan 1895 (#1013)</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -1569,7 +1575,7 @@
                <tei:cell n="4">al-Miṣbāḥ</tei:cell>
                <cell n="5">False news</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 1013b">Thamarāt 21 Jan 1895 (#1013)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+1013b">Thamarāt 21 Jan 1895 (#1013)</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -1584,7 +1590,7 @@
                <tei:cell n="4">Lisān al-Ḥāl</tei:cell>
                <cell n="5">False news</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 1013b">Thamarāt 21 Jan 1895 (#1013)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+1013b">Thamarāt 21 Jan 1895 (#1013)</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -1599,7 +1605,7 @@
                <tei:cell n="4">Jarīdat Lubān</tei:cell>
                <cell n="5">Permit to recommence publication</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 1021b">Thamarāt 18 Mar 1895 (#1021)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+1021b">Thamarāt 18 Mar 1895 (#1021)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1653,8 +1659,8 @@
                <tei:cell n="4">al-Aḥwāl</tei:cell>
                <cell n="5">Publishing deleted material</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1132">Thamarāt 7 Jun 1897
-                     (#1132)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1132">Thamarāt 7 Jun 1897
+                     (#1132)</tei:ref>
                </tei:cell>
                <tei:cell n="7">2 days <ref type="noteAnchor" target="#fnText4">C</ref>, 7 days <ref type="noteAnchor" target="#fnText3">T</ref>
                </tei:cell>
@@ -1676,8 +1682,8 @@
                <cell n="5">Permit granted under the condition that the proprietor will never again
                   violate the law</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1132">Thamarāt 7 Jun 1897
-                     (#1132)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1132">Thamarāt 7 Jun 1897
+                     (#1132)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1692,7 +1698,7 @@
                <tei:cell n="4">al-Miṣbāḥ</tei:cell>
                <cell n="5">Publication of uncensored issue</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1303">Bashīr 11 Oct 1897 (#1303)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1303">Bashīr 11 Oct 1897 (#1303)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1721,7 +1727,7 @@
                </tei:cell>
                <cell n="5">After 40 days <hi rend="italic">al-Arz</hi> resumed publication</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1183">Thamarāt 6 Jun 1898 (#1183)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1183">Thamarāt 6 Jun 1898 (#1183)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1736,8 +1742,8 @@
                <tei:cell n="4">al-Miṣbāḥ</tei:cell>
                <cell n="5">Publishing uncensored articles</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1187">Thamarāt 4 Jul 1898
-                     (#1187)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1187">Thamarāt 4 Jul 1898
+                     (#1187)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1752,8 +1758,8 @@
                <tei:cell n="4">al-Aḥwāl</tei:cell>
                <cell n="5">Publishing announcements not permitted by the terms of its license</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1192">Thamarāt 8 Aug 1898
-                     (#1192)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1192">Thamarāt 8 Aug 1898
+                     (#1192)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1768,8 +1774,8 @@
                <tei:cell n="4">al-Bashīr</tei:cell>
                <cell n="5">Publishing announcements not permitted by the terms of its license</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1192">Thamarāt 8 Aug 1898
-                     (#1192)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1192">Thamarāt 8 Aug 1898
+                     (#1192)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1784,8 +1790,8 @@
                <tei:cell n="4">Lisān al-Ḥāl</tei:cell>
                <cell n="5">Publishing announcements not permitted by the terms of its license</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1192">Thamarāt 8 Aug 1898
-                     (#1192)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1192">Thamarāt 8 Aug 1898
+                     (#1192)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1801,8 +1807,8 @@
                <cell n="5">Publishing uncensored material, changing words and substituting sentences
                   in the approved draft</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1234">Thamarāt 12 Jun 1899
-                     (#1234)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1234">Thamarāt 12 Jun 1899
+                     (#1234)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1817,8 +1823,8 @@
                <tei:cell n="4">al-Maḥabba</tei:cell>
                <cell n="5">Publishing deleted articles, starting forbidden controversies</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1235">Thamarāt 19 Jun 1899
-                     (#1235)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1235">Thamarāt 19 Jun 1899
+                     (#1235)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1834,8 +1840,8 @@
                <cell n="5">General warning prohibiting the publication of uncensored articles and
                   altering words in approved articles</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1245">Thamarāt 28 Aug 1899
-                     (#1245)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1245">Thamarāt 28 Aug 1899
+                     (#1245)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1852,8 +1858,8 @@
                   Damascus granted to Muṣṭafā Wāṣif Efendi. Publication interval not
                   specified</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID"
-                            corresp="BoaDhMkt22302 1899; BoaBeo136410225624 1899; suriye 1731">BOA DH Mkt 2230/2, 7 Aug 1899, BOA BEO 1364/102256, 1 Sep 1899, Suriye 28 Sep 1899 (#1731)</tei:note>
+                  <tei:ref type="SenteCitationID"
+                            target="BoaDhMkt22302+1899 BoaBeo136410225624+1899 suriye+1731">BOA DH Mkt 2230/2, 7 Aug 1899, BOA BEO 1364/102256, 1 Sep 1899, Suriye 28 Sep 1899 (#1731)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1870,8 +1876,8 @@
                   Damascus, obtained the imperial permit to publish a fortnightly scientific journal
                   in Damascus.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaMfMkt44010 1899; bashir 1411a">BOA MF Mkt 440/10, 25 Mar 1899, Bashīr 20 Nov 1899 (#1411)</tei:note>
-                  <tei:note type="SenteCitationID" corresp="bashir 1450">Bashīr 18 Aug 1900 (#1450)</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaMfMkt44010+1899 bashir+1411a">BOA MF Mkt 440/10, 25 Mar 1899, Bashīr 20 Nov 1899 (#1411)</tei:ref>
+                  <tei:ref type="SenteCitationID" target="bashir+1450">Bashīr 18 Aug 1900 (#1450)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1886,8 +1892,8 @@
                <tei:cell n="4">Rawḍat al-Maʿārif</tei:cell>
                <cell n="5">Violating the censor's warning</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1259">Thamarāt 4 Dec 1899
-                     (#1259)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1259">Thamarāt 4 Dec 1899
+                     (#1259)</tei:ref>
                </tei:cell>
                <tei:cell n="7">15 days</tei:cell>
                <tei:cell n="8"/>
@@ -1902,8 +1908,8 @@
                <tei:cell n="4">al-Miṣbāḥ</tei:cell>
                <cell n="5">Publication of uncensored material</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1424; tf-oib 1269">Bashīr 19 Feb
-                     1900 (#1424), Thamarāt 19 Feb 1900 (#1269)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1424 tf-oib+1269">Bashīr 19 Feb
+                     1900 (#1424), Thamarāt 19 Feb 1900 (#1269)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -1921,8 +1927,8 @@
                <cell n="5">repeated publishing of uncensored material by <hi rend="italic"
                      >al-Miṣbāḥ</hi> or any other paper will be punished with ban</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1269; bashir 1424">Thamarāt 19
-                     Feb 1900 (#1269), Bashīr 19 Feb 1900 (#1424)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1269 bashir+1424">Thamarāt 19
+                     Feb 1900 (#1269), Bashīr 19 Feb 1900 (#1424)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -1938,7 +1944,7 @@
                <tei:cell n="4">al-Aḥwāl</tei:cell>
                <cell n="5">Publication of French announcements without license</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1273">Thamarāt 1273(26), 19 Mar 1900 (OIB copy)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1273">Thamarāt 1273(26), 19 Mar 1900 (OIB copy)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1953,8 +1959,8 @@
                <tei:cell n="4">al-Aḥwāl</tei:cell>
                <cell n="5">Publication of material in contravention of earlier warnings</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1283">Thamarāt 28 May 1900
-                     (#1283)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1283">Thamarāt 28 May 1900
+                     (#1283)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -1969,8 +1975,8 @@
                <tei:cell n="4">al-Aḥwāl</tei:cell>
                <cell n="5">Publication of deleted material</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1290">Thamarāt 16 Jul 1900
-                     (#1290)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1290">Thamarāt 16 Jul 1900
+                     (#1290)</tei:ref>
                </tei:cell>
                <tei:cell n="7">1 week<ref type="noteAnchor" target="#fnText4">C</ref>, not specified
                      <ref type="noteAnchor" target="#fnText3">T</ref>
@@ -1988,7 +1994,7 @@
                </tei:cell>
                <cell n="5">Permit for resuming publication</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 3478">Lisān 23 Jul 1900 (#3478)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+3478">Lisān 23 Jul 1900 (#3478)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2003,8 +2009,8 @@
                <tei:cell n="4">Bayrūt</tei:cell>
                <cell n="5">Violation of the basic principle of the Press Law</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1293">Thamarāt 6 Aug 1900
-                     (#1293)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1293">Thamarāt 6 Aug 1900
+                     (#1293)</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -2020,8 +2026,8 @@
                <cell n="5">Violation of the basic principle of the Press Law by publishing
                   uncensored materials</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1304; bashir 1460a">Thamarāt 29
-                     Oct 1900 (#1304), Bashīr 29 Oct 1900 (#1460)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1304 bashir+1460a">Thamarāt 29
+                     Oct 1900 (#1304), Bashīr 29 Oct 1900 (#1460)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -2038,8 +2044,8 @@
                <cell n="5">Violation of the basic principle of the Press Law by publishing
                   uncensored materials</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1304; bashir 1460a">Thamarāt 29
-                     Oct 1900 (#1304), Bashīr 29 Oct 1900 (#1460)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1304 bashir+1460a">Thamarāt 29
+                     Oct 1900 (#1304), Bashīr 29 Oct 1900 (#1460)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -2055,7 +2061,7 @@
                <tei:cell n="4">Thamarāt al-Funūn</tei:cell>
                <cell n="5">Violation of the basic principle of the Press Law</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1470; tf-oib 1314">Bashīr 7 Jan 1901 (#1470), Thamarāt 7 Jan 1901 (#1314)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1470 tf-oib+1314">Bashīr 7 Jan 1901 (#1470), Thamarāt 7 Jan 1901 (#1314)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -2071,8 +2077,8 @@
                <tei:cell n="4">al-Bashīr</tei:cell>
                <cell n="5">A false and uncensored article</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="mahabba 5-eap; tf-oib 1319">Thamarāt 18
-                     Feb 1901 (#1319), Maḥabba 23 Feb 1901 (#105)</tei:note>
+                  <tei:ref type="SenteCitationID" target="mahabba+5-eap tf-oib+1319">Thamarāt 18
+                     Feb 1901 (#1319), Maḥabba 23 Feb 1901 (#105)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -2088,8 +2094,8 @@
                <tei:cell n="4">al-Maḥabba</tei:cell>
                <cell n="5">Violation of the basic principle of the Press Law</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID"
-                            corresp="bashir 1478a; mahabba 9-eap; tf-oib 1321">Bashīr 4 Mar 1901 (#1478), Thamarāt 4 Mar 1901 (#1321), Maḥabba 23 Mar 1901 (#109)</tei:note>
+                  <tei:ref type="SenteCitationID"
+                            target="bashir+1478a mahabba+9-eap tf-oib+1321">Bashīr 4 Mar 1901 (#1478), Thamarāt 4 Mar 1901 (#1321), Maḥabba 23 Mar 1901 (#109)</tei:ref>
                   
                   
                </tei:cell>
@@ -2106,8 +2112,8 @@
                <tei:cell n="4">al-Manār (Beirut)</tei:cell>
                <cell n="5">Violation of the basic principle of the Press Law</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID"
-                            corresp="bashir 1478a; mahabba 9-eap; tf-oib 1321">Bashīr 4 Mar 1901 (#1478), Thamarāt 4 Mar 1901 (#1321), Maḥabba 23 Mar 1901 (#109)</tei:note>
+                  <tei:ref type="SenteCitationID"
+                            target="bashir+1478a mahabba+9-eap tf-oib+1321">Bashīr 4 Mar 1901 (#1478), Thamarāt 4 Mar 1901 (#1321), Maḥabba 23 Mar 1901 (#109)</tei:ref>
                   
                   
                </tei:cell>
@@ -2124,8 +2130,8 @@
                <tei:cell n="4">Lisān al-Ḥāl</tei:cell>
                <cell n="5">an uncensored article</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1327">Thamarāt 29 Apr 1901
-                     (#1327)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1327">Thamarāt 29 Apr 1901
+                     (#1327)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2140,8 +2146,8 @@
                <tei:cell n="4">al-Aḥwāl</tei:cell>
                <cell n="5">Violation of the basic principle of the Press Law.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1331; mahabba 18-eap">Thamarāt 27
-                     May 1901 (#1331), Maḥabba 1 Jun 1901 (#118)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1331 mahabba+18-eap">Thamarāt 27
+                     May 1901 (#1331), Maḥabba 1 Jun 1901 (#118)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">7 days</tei:cell>
@@ -2159,7 +2165,7 @@
                <cell n="5">after a long absence, <hi rend="italic">al-Miṣbāḥ</hi> recommenced
                   publication.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="mahabba 20-eap">Maḥabba 15 Jun 1901 (#120)</tei:note>
+                  <tei:ref type="SenteCitationID" target="mahabba+20-eap">Maḥabba 15 Jun 1901 (#120)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2175,7 +2181,7 @@
                </tei:cell>
                <cell n="5">Violation of the basic principle of the Press Law</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 3885">Lisān 29 Nov 1901 (#3885)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+3885">Lisān 29 Nov 1901 (#3885)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2191,7 +2197,7 @@
                </tei:cell>
                <cell n="5">Violation of the basic principle of the Press Law.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 3885">Lisān 29 Nov 1901 (#3885)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+3885">Lisān 29 Nov 1901 (#3885)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2206,7 +2212,7 @@
                <tei:cell n="4">al-Aḥwāl</tei:cell>
                <cell n="5">Violation of the basic principle of the Press Law</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1359">Thamarāt 16 Dec 1901 (#1359)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1359">Thamarāt 16 Dec 1901 (#1359)</tei:ref>
                </tei:cell>
                <tei:cell n="7">3 days</tei:cell>
                <tei:cell n="8"/>
@@ -2222,7 +2228,7 @@
                <cell n="5">Violation of the basic principle of the Press Law. No gap in publication
                   dates</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1359">Thamarāt 16 Dec 1901 (#1359)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1359">Thamarāt 16 Dec 1901 (#1359)</tei:ref>
                </tei:cell>
                <tei:cell n="7">1 week</tei:cell>
                <tei:cell n="8"/>
@@ -2238,7 +2244,7 @@
                <cell n="5">Violation of the basic principle of the Press Law. No gap in publication
                   dates after #3879 (<date>22 Nov</date>)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 3885; tf-oib 1359">Lisān 29 Nov 1901 (#3885), Thamarāt 16 Dec 1901 (#1359)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+3885 tf-oib+1359">Lisān 29 Nov 1901 (#3885), Thamarāt 16 Dec 1901 (#1359)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">7 days <ref type="noteAnchor" target="#fnText4">C</ref>, 3 days<ref type="noteAnchor" target="#fnText3">T</ref>
@@ -2255,7 +2261,7 @@
                <tei:cell n="4">Thamarāt al-Funūn</tei:cell>
                <cell n="5">Violation of the basic principle of the Press Law</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1358; tf-oib 1359">Thamarāt 2 Dec 1901 (#1358), 16 Dec 1901 (#1359)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1358 tf-oib+1359">Thamarāt 2 Dec 1901 (#1358), 16 Dec 1901 (#1359)</tei:ref>
                </tei:cell>
                <tei:cell n="7">1 week</tei:cell>
                <tei:cell n="8"><date when="1901-12-03">1901-12-03</date></tei:cell>
@@ -2311,7 +2317,7 @@
                </tei:cell>
                <cell n="5">first issue after a ban of 4 months</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1582; lisan 4206">Lisān 24 Jan 1903 (#4206), Bashīr 23 Feb 1903 (#1582)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1582 lisan+4206">Lisān 24 Jan 1903 (#4206), Bashīr 23 Feb 1903 (#1582)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">4 months</tei:cell>
@@ -2386,7 +2392,7 @@
                <cell n="5">the permit depends on  henceforth complying with the bases, communiqués,
                   and instructions of censorship (<hi rend="italic">murāqaba</hi>)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 4432">Lisān 22 Oct 1903 (#4432)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+4432">Lisān 22 Oct 1903 (#4432)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2418,7 +2424,7 @@
                      (<date>15 Nov</date>). Henceforth they have to comply with the basic principles
                   [of the press law].</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 4446">Lisān 17 Nov 1903 (#4446)</tei:note>, TF 1455:6 </tei:cell>
+                  <tei:ref type="SenteCitationID" target="lisan+4446">Lisān 17 Nov 1903 (#4446)</tei:ref>, TF 1455:6 </tei:cell>
                <tei:cell n="7">7 days <ref type="noteAnchor" target="#fnText4">C</ref>, 10 days <ref type="noteAnchor" target="#fnText3">T</ref>
                </tei:cell>
                <tei:cell n="8">
@@ -2439,7 +2445,7 @@
                <cell n="5">Henceforth they have to comply with the basic principles [of the press
                   law] </cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 4446">Lisān 17 Nov 1903 (#4446)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+4446">Lisān 17 Nov 1903 (#4446)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2454,7 +2460,7 @@
                <tei:cell n="4">al-Iqbāl</tei:cell>
                <cell n="5">Disregarding the censor's warning</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1468">Thamarāt 15 Feb 1904 (#1468)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1468">Thamarāt 15 Feb 1904 (#1468)</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -2470,7 +2476,7 @@
                </tei:cell>
                <cell n="5">Publication of articles without authorisation</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1633">Bashīr 15 Feb 1904 (#1633)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1633">Bashīr 15 Feb 1904 (#1633)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2486,7 +2492,7 @@
                <cell n="5">Violation of the basic principles of censorship (<hi rend="italics">uṣūl
                      al-murāqaba</hi>)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1476">Thamarāt 18 Apr 1904 (#1476)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1476">Thamarāt 18 Apr 1904 (#1476)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2502,7 +2508,7 @@
                <cell n="5">Violation of the basic principles of censorship (<hi rend="italics">uṣūl
                      al-murāqaba</hi>)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1476">Thamarāt 18 Apr 1904 (#1476)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1476">Thamarāt 18 Apr 1904 (#1476)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2518,7 +2524,7 @@
                <cell n="5">Violation of the basic principles of censorship (<hi rend="italics">uṣūl
                      al-murāqaba</hi>)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1478">Thamarāt 2 May 1904 (#1478)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1478">Thamarāt 2 May 1904 (#1478)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2534,8 +2540,8 @@
                <cell n="5">Publication of articles prohibited by the censors for unnamed
                   reasons</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1484">Thamarāt 13 Jun 1904
-                     (#1484)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1484">Thamarāt 13 Jun 1904
+                     (#1484)</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -2550,7 +2556,7 @@
                <tei:cell n="4">Bayrūt, private</tei:cell>
                <cell n="5">Violating the laws</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1488">Thamarāt 11 Jul 1904 (#1488)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1488">Thamarāt 11 Jul 1904 (#1488)</tei:ref>
                </tei:cell>
                <tei:cell n="7">21 days <ref type="noteAnchor" target="#fnText4">C</ref>, indefinite
                      <ref type="noteAnchor" target="#fnText3">T</ref>
@@ -2572,7 +2578,7 @@
                </tei:cell>
                <cell n="5">permit to resume publication</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1491">Thamarāt 1 Aug 1904 (#1491)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1491">Thamarāt 1 Aug 1904 (#1491)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2589,7 +2595,7 @@
                <cell n="5">Violation of the basic principles of censorship (<hi rend="italics">uṣūl
                      al-murāqaba</hi>)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1493">Thamarāt 15 Aug 1904 (#1493)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1493">Thamarāt 15 Aug 1904 (#1493)</tei:ref>
                </tei:cell>
                <tei:cell n="7">indefinite</tei:cell>
                <tei:cell n="8"/>
@@ -2605,7 +2611,7 @@
                <cell n="5">Publication of uncensored phrases. Immediate and indefinite ban from today
                   onwards</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1667">Bashīr 19 Sep 1904 (#1667)</tei:note>, TF 1499:4, Iq 73:6 </tei:cell>
+                  <tei:ref type="SenteCitationID" target="bashir+1667">Bashīr 19 Sep 1904 (#1667)</tei:ref>, TF 1499:4, Iq 73:6 </tei:cell>
                <tei:cell n="7">1 month <ref type="noteAnchor" target="#fnText4">C</ref>, indefinite
                      <ref type="noteAnchor" target="#fnText3">T</ref>
                </tei:cell>
@@ -2639,8 +2645,8 @@
                <cell n="5">For an unnamed reason. Gap in publication between #1500 (<date>14
                      Nov</date>) and #1501 (<date>27 Feb</date>)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1500; tf-oib 1501">Thamarāt 14
-                     Nov 1904 (#1500), 27 Feb 1905 (#1501)</tei:note> , Iq 76:6 </tei:cell>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1500 tf-oib+1501">Thamarāt 14
+                     Nov 1904 (#1500), 27 Feb 1905 (#1501)</tei:ref> , Iq 76:6 </tei:cell>
                <tei:cell n="7">100 days</tei:cell>
                <tei:cell n="8">
                   <tei:date when="1904-11-15">1904-11-15</tei:date>
@@ -2679,7 +2685,7 @@
                <cell n="5">Permit for resuming publication after one month of suspension (since <date when="1904-11-15">7
                   Ram 1322 [15 Nov 1904]</date>)</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1680; lisan 4736">Lisān 17 Dec 1904 (#4736), Bashīr 19 Dec 1904 (#1680)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1680 lisan+4736">Lisān 17 Dec 1904 (#4736), Bashīr 19 Dec 1904 (#1680)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7">1 month</tei:cell>
@@ -2714,7 +2720,7 @@
                <cell n="5"> Thamarāt resumed publication after it received an imperial
                   permit.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1501">Thamarāt 27 Feb 1905 (#1501)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1501">Thamarāt 27 Feb 1905 (#1501)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2730,8 +2736,8 @@
                </tei:cell>
                <cell n="5">Permit to resume publication</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1506">Thamarāt 3 Apr 1905
-                     (#1506)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1506">Thamarāt 3 Apr 1905
+                     (#1506)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2748,8 +2754,8 @@
                   point between #4741 (<date>23 Dec 1904</date>) and #4883 (<date>1 Sep
                   1905</date>).</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1515">Thamarāt 5 Jun 1905
-                     (#1515)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1515">Thamarāt 5 Jun 1905
+                     (#1515)</tei:ref>
                </tei:cell>
                <tei:cell n="7">3 months</tei:cell>
                <tei:cell n="8"/>
@@ -2765,7 +2771,7 @@
                <cell n="5">Mistakes resulting from careless editing. Repetition of the offence will
                   cause suspension</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 1590">Thamarāt 17 Sep 1906 (#1590)</tei:note>
+                  <tei:ref type="SenteCitationID" target="thamarat+1590">Thamarāt 17 Sep 1906 (#1590)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2781,7 +2787,7 @@
                <cell n="5">Permit was given to publish the newspaper Mawārid al-Ḥikma in
                   Damascus</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaYaRes15114 1907">BOA YA Res 151/14, 23 Nov 1907</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaYaRes15114+1907">BOA YA Res 151/14, 23 Nov 1907</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2797,7 +2803,7 @@
                <cell n="5">Violation of the basic principle of the Press Law. al-Maḥabba resumed
                   publication after a month</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 1653a">Thamarāt 23 Dec 1907 (#1653)</tei:note>, Iq 227:6 </tei:cell>
+                  <tei:ref type="SenteCitationID" target="thamarat+1653a">Thamarāt 23 Dec 1907 (#1653)</tei:ref>, Iq 227:6 </tei:cell>
                <tei:cell n="7">20 days</tei:cell>
                <tei:cell n="8"/>
                <tei:cell n="9"/>
@@ -2812,7 +2818,7 @@
                </tei:cell>
                <cell n="5"/>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1655">Thamarāt 6 Jan 1908 (#1655)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1655">Thamarāt 6 Jan 1908 (#1655)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2827,7 +2833,7 @@
                <tei:cell n="4">Bayrūt, private</tei:cell>
                <cell n="5">Disregarding the censor's warning in #1504 </cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="thamarat 1660a">Thamarāt 23 Feb 1908 (#1660)</tei:note>, Iq 236:5 </tei:cell>
+                  <tei:ref type="SenteCitationID" target="thamarat+1660a">Thamarāt 23 Feb 1908 (#1660)</tei:ref>, Iq 236:5 </tei:cell>
                <tei:cell n="7">20 days</tei:cell>
                <tei:cell n="8"/>
                <tei:cell n="9"/>
@@ -2842,7 +2848,7 @@
                </tei:cell>
                <cell n="5"/>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="tf-oib 1663">Thamarāt 9 Mar 1908 (#1663)</tei:note>
+                  <tei:ref type="SenteCitationID" target="tf-oib+1663">Thamarāt 9 Mar 1908 (#1663)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2858,7 +2864,7 @@
                <cell n="5">ʿAbd al-Qādir Badrān Efendi obtained the permit to publish the weekly
                   newspaper <hi rend="italic">Mawārid al-Ḥikma</hi> in Damascus.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt128018 1908">BOA DH Mkt 1280/18, 13 Aug 1908</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt128018+1908">BOA DH Mkt 1280/18, 13 Aug 1908</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2873,7 +2879,7 @@
                <tei:cell n="4">al-ʿAṣr al-Jadīd</tei:cell>
                <cell n="5">Nāṣīf Bey obtained a permit for the Arabic-speaking weekly <hi rend="italic">al-ʿAṣr al-Jadīd</hi> in Damascus</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt129831 1908">BOA DH Mkt 1298/31, 20 Sep 1908</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt129831+1908">BOA DH Mkt 1298/31, 20 Sep 1908</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2890,7 +2896,7 @@
                   publish the Turkish-speaking daily newspaper  <hi rend="italic">Tekemmül</hi>
                </cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt129831 1908">BOA DH Mkt 1298/31, 20 Sep 1908</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt129831+1908">BOA DH Mkt 1298/31, 20 Sep 1908</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2907,7 +2913,7 @@
                   newspaper under the title of <hi rend="italic">Dimashq</hi>
                </cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt261497 1908">BOA DH Mkt 2614/97, 25 Sep 1908</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt261497+1908">BOA DH Mkt 2614/97, 25 Sep 1908</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2923,7 +2929,7 @@
                <cell n="5">daily published in Beirut by Iskandar Efendi Khūrī and Khalīl Efendi
                   Zayniyah</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1881">Bashīr 26 Oct 1908 (#1881)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1881">Bashīr 26 Oct 1908 (#1881)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2939,7 +2945,7 @@
                <cell n="5">ʿAbd al-Qāḍīr Efendi Qabbānī announced that he will discontinue his
                   newspaper after 35 years</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1881">Bashīr 26 Oct 1908 (#1881)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1881">Bashīr 26 Oct 1908 (#1881)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2954,8 +2960,8 @@
                <tei:cell n="4">al-Rawḍa</tei:cell>
                <cell n="5">Thrice a week.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1881">Bashīr 26 Oct 1908 (#1881)</tei:note>
-                  <tei:note type="SenteCitationID" corresp="jarmuq 6">Jarīdat al-Muqtabas 22 Dec 1908 (#6)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1881">Bashīr 26 Oct 1908 (#1881)</tei:ref>
+                  <tei:ref type="SenteCitationID" target="jarmuq+6">Jarīdat al-Muqtabas 22 Dec 1908 (#6)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2973,7 +2979,7 @@
                      rend="italic">Kashf al-Ḥijāb</hi>. He did so in compliance with the law on
                   printing presses, which is enforced by the ministry of gendarmerie</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt265122 1908">BOA DH Mkt 2651/22, 9 Nov 1908</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt265122+1908">BOA DH Mkt 2651/22, 9 Nov 1908</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -2990,7 +2996,7 @@
                   Damascus obtained the permit to open a printing press and to publish a daily
                   newspaper under the title of <hi rend="italic">al-Muqtabas</hi></cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt267017 1908">BOA DH Mkt 2670/17, 26 Nov 1908</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt267017+1908">BOA DH Mkt 2670/17, 26 Nov 1908</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3007,7 +3013,7 @@
                   graduate of the AUB, obtained the permit to publish a daily newspaper under the
                   title of <hi rend="italic">al-Band</hi> in Damascus</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt269923 1909">BOA DH Mkt 2699/23, 2 Jan 1909</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt269923+1909">BOA DH Mkt 2699/23, 2 Jan 1909</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3022,7 +3028,7 @@
                <tei:cell n="4">al-Muqtabas</tei:cell>
                <cell n="5">Daily in Damascus by Muḥammad Kurd ʿAlī</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="jarmuq 1">Jarīdat al-Muqtabas 17 Dec 1908 (#1)</tei:note>
+                  <tei:ref type="SenteCitationID" target="jarmuq+1">Jarīdat al-Muqtabas 17 Dec 1908 (#1)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3037,7 +3043,7 @@
                <tei:cell n="4">al-Murāqib</tei:cell>
                <cell n="5">New weekly published in Beirut by Jirjī Efendi Shāḥin ʿAṭiyya</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="jarmuq 11c">Jarīdat al-Muqtabas 28 Dec 1908 (#11)</tei:note>
+                  <tei:ref type="SenteCitationID" target="jarmuq+11c">Jarīdat al-Muqtabas 28 Dec 1908 (#11)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3053,7 +3059,7 @@
                <cell n="5">The permit to publish a newspaper was sent to Ṣāliḥ Efendi, municipal
                   doctor and member of the medical association in Damascus</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt269923 1909">BOA DH Mkt 2699/23, 2 Jan 1909</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt269923+1909">BOA DH Mkt 2699/23, 2 Jan 1909</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3068,8 +3074,8 @@
                <tei:cell n="4">al-Mufīd</tei:cell>
                <cell n="5">Daily, published by ʿAbd al-Ghannī al-ʿUraysī in Beirut</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Tauber 1990@176-177">Tauber
-                     1990:176-177</tei:note>
+                  <tei:ref type="SenteCitationID" target="Tauber+1990@176-177">Tauber
+                     1990:176-177</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3086,7 +3092,7 @@
                   press (<emph style="font-style:italic">al-Ḥikma</emph>) and to publish two newspapers, <emph  style="font-style:italic">al-Ḥikma</emph> and <emph style="font-style:italic">al-Rafīq</emph>, in his
                   hometown</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt2772119 1909">BOA DH Mkt 2772/119, 22 Mar 1909</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt2772119+1909">BOA DH Mkt 2772/119, 22 Mar 1909</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3101,7 +3107,7 @@
                <tei:cell n="4">al-Lubnāniyya</tei:cell>
                <cell n="5">biweekly in Beirut</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1903">Bashīr 22 Mar 1909 (#1903)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1903">Bashīr 22 Mar 1909 (#1903)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3119,7 +3125,7 @@
                   newspaper under the title <emph style="font-style:italic">al-Sharq</emph> after he had handed in all the required
                   stuff</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt282036 1909">BOA DH Mkt 2820/36, 22 May 1909</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt282036+1909">BOA DH Mkt 2820/36, 22 May 1909</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3136,7 +3142,7 @@
                   the weekly newspaper <emph style="font-style:italic">Faṣl a-Khiṭāb</emph> and to open the <emph style="font-style:italic">al-Maṭbaʿa
                      al-ʿUmūmiyya</emph> printing press</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt282413 1909">BOA DH Mkt 2824/13, 27 May 1909</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt282413+1909">BOA DH Mkt 2824/13, 27 May 1909</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3153,7 +3159,7 @@
                   Arabic speaking daily newspaper under the title of <emph style="font-style:italic"
                      >al-Nāqid al-Sūrī</emph>, which he had applied for</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMkt287781 1909">BOA DH Mkt 2877/81, 17 Jul 1909</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMkt287781+1909">BOA DH Mkt 2877/81, 17 Jul 1909</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3182,7 +3188,7 @@
                <cell n="5">Numerous raids of its offices  in connection with their opposition to the
                   new press law</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 6113; lisan 6117; lisan 6114">Lisān 4 Sep 1909 (#6113),  5 Sep 1909 (#6114),  9 Sep 1909 (#6117)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+6113 lisan+6117 lisan+6114">Lisān 4 Sep 1909 (#6113),  5 Sep 1909 (#6114),  9 Sep 1909 (#6117)</tei:ref>
                   
                   
                </tei:cell>
@@ -3199,14 +3205,14 @@
                <tei:cell n="4">al-Muqtabas</tei:cell>
                <cell n="5">For publishing a treasonous article </cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID"
-                            corresp="lisan 6123; lisan 6141; Devey 1910; Devey 1909a">Lisān 17 Sep 1909 (#6123), PRO FO 618/3 Damascus Draft 50, Devey to Lowther,  <tei:emph xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                  <tei:ref type="SenteCitationID"
+                            target="lisan+6123 lisan+6141 Devey+1910 Devey+1909a">Lisān 17 Sep 1909 (#6123), PRO FO 618/3 Damascus Draft 50, Devey to Lowther,  <tei:emph xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                                xmlns:html="http://www.w3.org/1999/xhtml"
                                xmlns:xs="http://www.w3.org/2001/XMLSchema"
                                style="font-style:italic">Quarterly Report</tei:emph>, 4 Oct 1909, Lisān 8 Oct 1909 (#6141), PRO FO 618/3 Damascus Draft 1, Devey to Lowther,  <tei:emph xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                                xmlns:html="http://www.w3.org/1999/xhtml"
                                xmlns:xs="http://www.w3.org/2001/XMLSchema"
-                               style="font-style:italic">Quarterly Report</tei:emph>, 2 Jan 1910</tei:note>
+                               style="font-style:italic">Quarterly Report</tei:emph>, 2 Jan 1910</tei:ref>
                   
                   
                   
@@ -3224,7 +3230,7 @@
                <tei:cell n="4">al-Iqbāl</tei:cell>
                <cell n="5">Trial of the publisher for charges levelled by the municipality</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="lisan 6141">Lisān 8 Oct 1909 (#6141)</tei:note>
+                  <tei:ref type="SenteCitationID" target="lisan+6141">Lisān 8 Oct 1909 (#6141)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3240,9 +3246,9 @@
                <cell n="5">Aḥmad Kurd ʿAlī obtained the permit to publish the daily
                   <emph style="font-style:italic">al-Umma</emph> in Damascus. Continuing from <hi rend="italic">al-Muqtabas</hi>.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="BoaDhMui30115 1909">BOA DH Mui 30-1/15, 4 Nov 1909</tei:note>
-                  <tei:note type="SenteCitationID" corresp="lisan 6192a">Lisān 7 Dec 1909 (#6192)</tei:note>
-                  <tei:note type="SenteCitationID" corresp="bashir 1941a">Bashīr 11 Dec 1909 (#1941)</tei:note>
+                  <tei:ref type="SenteCitationID" target="BoaDhMui30115+1909">BOA DH Mui 30-1/15, 4 Nov 1909</tei:ref>
+                  <tei:ref type="SenteCitationID" target="lisan+6192a">Lisān 7 Dec 1909 (#6192)</tei:ref>
+                  <tei:ref type="SenteCitationID" target="bashir+1941a">Bashīr 11 Dec 1909 (#1941)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3258,7 +3264,7 @@
                <cell n="5">first number of the daily <hi rend="italic">al-Sharq</hi> arrived from
                   Damascus.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="bashir 1943">Bashīr 24 Dec 1909 (#1943)</tei:note>
+                  <tei:ref type="SenteCitationID" target="bashir+1943">Bashīr 24 Dec 1909 (#1943)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3273,7 +3279,7 @@
                <tei:cell n="4">al-Muqtabas</tei:cell>
                <cell n="5">After Muḥammad Kurd ʿAlī was cleared from the alleged treason, all <hi rend="italic">al-Umma</hi> reverted back to its old name <hi rend="italic">al-Muqtabas</hi>.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="muqtabas 57-eap">Jarīdat al-Muqtabas 9 Mar 1910 (#313)</tei:note>
+                  <tei:ref type="SenteCitationID" target="muqtabas+57-eap">Jarīdat al-Muqtabas 9 Mar 1910 (#313)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3287,8 +3293,8 @@
                <tei:cell n="3"/>
                <tei:cell n="4">al-Hilāl al-ʿUthmānī</tei:cell>
                <cell n="5">Resumed publication with 3 issues per week</cell>
-               <tei:cell n="6"><tei:note type="SenteCitationID" corresp="muqtabas 111-eap; muqtabas 109-eap; jarmuq 402a">Jarīdat
-                     al-Muqtabas 9 Jun 1910 (#392), 12 Jun 1910 (#394), 21 Jun 1910 (#402) </tei:note>
+               <tei:cell n="6"><tei:ref type="SenteCitationID" target="muqtabas+111-eap muqtabas+109-eap jarmuq+402a">Jarīdat
+                     al-Muqtabas 9 Jun 1910 (#392), 12 Jun 1910 (#394), 21 Jun 1910 (#402) </tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -3305,8 +3311,8 @@
                <cell n="5">published on Sat and Tue, owner is the  teacher Shaykh Aḥmad al-ʿAṭṭār,
                   editor is Adīb Efendi Naẓmī</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="jarmuq 431">Jarīdat al-Muqtabas 26 Jul 1910 (#431)</tei:note>
-                  <tei:note type="SenteCitationID" corresp="muqtabas 173-eap">Jarīdat al-Muqtabas 29 Aug 1910 (#460)</tei:note>
+                  <tei:ref type="SenteCitationID" target="jarmuq+431">Jarīdat al-Muqtabas 26 Jul 1910 (#431)</tei:ref>
+                  <tei:ref type="SenteCitationID" target="muqtabas+173-eap">Jarīdat al-Muqtabas 29 Aug 1910 (#460)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3321,12 +3327,23 @@
                <tei:cell n="4">al-Barīqa</tei:cell>
                <cell n="5">New bi-lingual in Damascus, published thrice per week</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="muqtabas 258-eap">Jarīdat al-Muqtabas 30 Apr 1911 (#664)</tei:note>
+                  <tei:ref type="SenteCitationID" target="muqtabas+258-eap">Jarīdat al-Muqtabas 30 Apr 1911 (#664)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
                <tei:cell n="9"/>
             </tei:row>
+            <row>
+               <cell>1912-04-16</cell>
+               <cell>S</cell>
+               <cell>yes</cell>
+               <cell>al-Muqtabas</cell>
+               <cell>For publishing a <hi rend="italic">qaṣīda</hi> by Shaykh Ibrāhīm al-Uskūbī</cell>
+               <cell><ref type="SenteCitationID" target="muqtabas+482-eap Devey+1912e "></ref></cell>
+               <cell>4</cell>
+               <cell><date when="1912-04-17">1912-04-17</date></cell>
+               <cell><date when="1912-08-08">1912-08-08</date></cell>
+            </row>
             <tei:row role="data" n="226">
                <tei:cell n="1">
                   <tei:date notBefore="1912-05-01" notAfter="1912-05-31">1912-05-01</tei:date>
@@ -3337,8 +3354,8 @@
                <cell n="5">Paper closed down, reappeared as <hi rend="italic">Ṣadā al-Mufīd</hi>
                   within a few days.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Tauber 1990@176-177">Tauber
-                     1990:176-177</tei:note>
+                  <tei:ref type="SenteCitationID" target="Tauber+1990@176-177">Tauber
+                     1990:176-177</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3354,8 +3371,8 @@
                <cell n="5">continuing from <hi rend="italic">al-Mufīd</hi>
                </cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Tauber 1990@176-177">Tauber
-                     1990:176-177</tei:note>
+                  <tei:ref type="SenteCitationID" target="Tauber+1990@176-177">Tauber
+                     1990:176-177</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3371,8 +3388,8 @@
                <cell n="5">Paper closed down, reappeared as <hi rend="italic">Lisān al-ʿArab</hi>
                   within a few days.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Tauber 1990@176-177">Tauber
-                     1990:176-177</tei:note>
+                  <tei:ref type="SenteCitationID" target="Tauber+1990@176-177">Tauber
+                     1990:176-177</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3388,8 +3405,8 @@
                <cell n="5">continuing from <hi rend="italic">Ṣadā al-Mufīd</hi>
                </cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Tauber 1990@176-177">Tauber
-                     1990:176-177</tei:note>
+                  <tei:ref type="SenteCitationID" target="Tauber+1990@176-177">Tauber
+                     1990:176-177</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3405,8 +3422,8 @@
                <cell n="5">Paper closed down, reappeared as <hi rend="italic">al-Fatā al-ʿArabī</hi>
                   within a few days.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Tauber 1990@176-177">Tauber
-                     1990:176-177</tei:note>
+                  <tei:ref type="SenteCitationID" target="Tauber+1990@176-177">Tauber
+                     1990:176-177</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3422,8 +3439,8 @@
                <cell n="5">continuing from <hi rend="italic">Lisān al-ʿArab</hi>
                </cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Tauber 1990@176-177">Tauber
-                     1990:176-177</tei:note>
+                  <tei:ref type="SenteCitationID" target="Tauber+1990@176-177">Tauber
+                     1990:176-177</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3434,11 +3451,11 @@
                   <tei:date when="1913-09-25">1913-09-25</tei:date>
                </tei:cell>
                <tei:cell n="2">S</tei:cell>
-               <tei:cell n="3"/>
+               <tei:cell n="3">yes</tei:cell>
                <tei:cell n="4">al-Muqtabas</tei:cell>
                <cell n="5">Ceased publication for a week and was continued as <hi rend="italic">al-Qabas</hi>.</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="muqtabas 621-eap">Jarīdat al-Muqtabas 24 Sep 1913 (#1300)</tei:note>
+                  <tei:ref type="SenteCitationID" target="muqtabas+621-eap">Jarīdat al-Muqtabas 24 Sep 1913 (#1300)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3454,7 +3471,7 @@
                <cell n="5">100 issues of <hi rend="italic">al-Qabas</hi> continued <hi rend="italic"
                      >al-Muqtabas</hi>' counting</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="qabas 33-eap; qabas 1-eap">Qabas 30 Sep 1913 (#1301-1),  1400-100(1), 29 Jan 1914 [1 Rab I 1332aH] (EAP copy)</tei:note>
+                  <tei:ref type="SenteCitationID" target="qabas+33-eap qabas+1-eap">Qabas 30 Sep 1913 (#1301-1),  1400-100(1), 29 Jan 1914 [1 Rab I 1332aH] (EAP copy)</tei:ref>
                   
                </tei:cell>
                <tei:cell n="7"/>
@@ -3471,8 +3488,8 @@
                <cell n="5">Paper closed down, reappeared as <hi rend="italic">Fatā
                   al-ʿArab</hi></cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Tauber 1990@176-177">Tauber
-                     1990:176-177</tei:note>
+                  <tei:ref type="SenteCitationID" target="Tauber+1990@176-177">Tauber
+                     1990:176-177</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3487,8 +3504,8 @@
                <tei:cell n="4">Fatā al-ʿArab</tei:cell>
                <cell n="5">continuing from <hi rend="italic">al-Fatā al-ʿArabī</hi></cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Tauber 1990@176-177">Tauber
-                     1990:176-177</tei:note>
+                  <tei:ref type="SenteCitationID" target="Tauber+1990@176-177">Tauber
+                     1990:176-177</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3503,7 +3520,7 @@
                <tei:cell n="4">al-Iʾtilāf al-ʿUthmānī</tei:cell>
                <cell n="5">Banned and offices raided</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Cioeta 1979a@344">Cioeta 1979:344</tei:note>
+                  <tei:ref type="SenteCitationID" target="Cioeta+1979a@344">Cioeta 1979:344</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3518,7 +3535,7 @@
                <tei:cell n="4">al-Mufīd</tei:cell>
                <cell n="5">Banned and offices raided</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="Cioeta 1979a@344">Cioeta 1979:344</tei:note>
+                  <tei:ref type="SenteCitationID" target="Cioeta+1979a@344">Cioeta 1979:344</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3533,8 +3550,8 @@
                <tei:cell n="4">al-Muqtabas</tei:cell>
                <cell n="5">Resumed publication under the old name</cell>
                <tei:cell n="6">
-                  <tei:note type="SenteCitationID" corresp="muqtabas 622-eap">Jarīdat al-Muqtabas
-                     10 Feb 1914 (#1614)</tei:note>
+                  <tei:ref type="SenteCitationID" target="muqtabas+622-eap">Jarīdat al-Muqtabas
+                     10 Feb 1914 (#1614)</tei:ref>
                </tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
@@ -3546,7 +3563,7 @@
                <tei:cell n="3">yes</tei:cell>
                <tei:cell n="4">al-Muqtabas</tei:cell>
                <tei:cell n="5"/>
-               <tei:cell n="6"><note type="SenteCitationID" corresp="Hermann 1990@109">Hermann 1990:109</note></tei:cell>
+               <tei:cell n="6"><ref type="SenteCitationID" target="Hermann+1990@109">Hermann 1990:109</ref></tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"><date when="1914-04-14">1914-04-14</date></tei:cell>
                <tei:cell n="9"><date when="1915-02-11">1915-02-11</date></tei:cell>
@@ -3557,7 +3574,7 @@
                <tei:cell n="3"/>
                <tei:cell n="4">al-Muqtabas</tei:cell>
                <tei:cell n="5"/>
-               <tei:cell n="6"><note type="SenteCitationID" corresp="Hermann 1990@109">Hermann 1990:109</note></tei:cell>
+               <tei:cell n="6"><ref type="SenteCitationID" target="Hermann+1990@109">Hermann 1990:109</ref></tei:cell>
                <tei:cell n="7"/>
                <tei:cell n="8"/>
                <tei:cell n="9"/>
