@@ -58,7 +58,8 @@
                     <cell n="3"/>
                     <cell n="4">al-Ahrām <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
                     <cell>Cairo</cell>
-                    <cell n="5">declaration in Damascus calling for a ban on import for <title level="j">al-Ahrām</title></cell>
+                    <cell n="5">declaration in Damascus calling for a ban on import for <title
+                        level="j">al-Ahrām</title></cell>
                     <cell n="6"> <ref type="SenteCitationID"
                         target="thamarat+134 thamarat+135 thamarat+138 thamarat+139"
                         >Thamarāt 22 Nov 1877 (#134), 29 Nov 1877 (#135), 20 Dec 1877 (#138), 27 Dec 1877 (#139)</ref> </cell>
@@ -1589,10 +1590,9 @@
                     <cell n="3"/>
                     <cell n="4">Ruġbet</cell>
                     <cell>Bulgaria</cell>
-                    <cell n="5"><title level="j">ruġbet</title> is a new political newspaper in Ottoman turkish published in the capital of the Bulgarian Imāret by its owner and director <persName>Aḥmad Ḥāfiẓ Efendi</persName>. The first issue arrived in Beirut
-                    </cell>
-                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1269@5"
-                        ></ref> </cell>
+                    <cell n="5"><title level="j"
+                        >ruġbet</title> is a new political newspaper in Ottoman turkish published in the capital of the Bulgarian Imāret by its owner and director <persName>Aḥmad Ḥāfiẓ Efendi</persName>. The first issue arrived in Beirut </cell>
+                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1269@5"/> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1643,7 +1643,8 @@
                     <cell n="3"/>
                     <cell n="4">Nūr al-Islām</cell>
                     <cell>Cairo</cell>
-                    <cell n="5">The first issue of <title level="j">Nūr al-Islām</title>, published by <persName>Amīn Efendi Abū Yūsuf</persName> and <persName>Maḥmūd Efendi ʿAbd al-Karīm</persName>, arrived in Beirut</cell>
+                    <cell n="5">The first issue of <title level="j"
+                        >Nūr al-Islām</title>, published by <persName>Amīn Efendi Abū Yūsuf</persName> and <persName>Maḥmūd Efendi ʿAbd al-Karīm</persName>, arrived in Beirut</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1283@5"
                         >Thamarāt 28 May 1900 (#1283)</ref> </cell>
                     <cell n="7"/>
@@ -2844,6 +2845,22 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date when="1910-03-29">1910-03-29</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Nafīr</cell>
+                    <cell>Jerusalem</cell>
+                    <cell n="5">the owner of <title level="j"
+                        >al-Nafīr</title>, <persName>Jūrjī Ḥanāniyā Efendi Ḥabīb</persName> [sic], is prosecuted for the opening article in #370 of <title
+                        level="j"
+                        >al-Nafīr</title> published on 16 Mārt 1326 M under the title "man sall Sayf al-Baghī qatal bihi", which was a reply to an article in <title
+                        level="j">al-Quds</title></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="al-quds-2-173@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row role="data" n="221">
                     <cell n="1"> <date when="1910-06-11">1910-06-11</date> </cell>
                     <cell n="2">RP</cell>
@@ -2854,6 +2871,20 @@
                     <cell n="6"><ref type="SenteCitationID"
                         target="muqtabas+111-eap muqtabas+109-eap jarmuq+402a"
                         >Jarīdat al-Muqtabas 9 Jun 1910 (#392), 12 Jun 1910 (#394), 21 Jun 1910 (#402) </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1910-07-01">1910-07-01</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Intiqād</cell>
+                    <cell>?</cell>
+                    <cell n="5"> <title level="j"
+                        >al-Intiqād</title> was warned by the al-Majlis al-ʿArafī / al-ʿUrfī (educational council?) for having published something violating the personal rights of <persName>Muḥammad ʿAbīd Allah</persName>, the Nāʾib of Izmir and owner of the newspaper <title
+                        level="j">al-ʿArab</title></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="al-quds-2-158@3"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2886,6 +2917,30 @@
                     <cell n="9"/>
                 </row>
                 <row>
+                    <cell n="1"><date when="1910-08-16">1910-08-16</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">Miṣbāḥ al-Sharq</cell>
+                    <cell>Baghdad</cell>
+                    <cell n="5">New weekly newspaper</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+164-eap@4"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1">1910-08-20</cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Nafīr</cell>
+                    <cell>Jerusalem</cell>
+                    <cell n="5">the owner of <title level="j">al-Nafīr</title>is in prison</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="al-quds-2-174@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"><date notAfter="1910-08-30">1910-08-30</date></cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -2910,25 +2965,16 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1"><date when="1910-08-16">1910-08-16</date></cell>
-                    <cell n="2">P</cell>
-                    <cell n="3"/>
-                    <cell n="4">Miṣbāḥ al-Sharq</cell>
-                    <cell>Baghdad</cell>
-                    <cell n="5">New weekly newspaper</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+164-eap@4"/></cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-                <row>
                     <cell n="1"><date when="1910-09-24">1910-09-24</date></cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
                     <cell>Beirut</cell>
-                    <cell n="5">the bidāya penal court issued the verdict in the trial of the concessionary of <title level="j">al-aḥwāl</title>: one week detention and a penalty payment of £T 10</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+188-eap@2"></ref></cell>
+                    <cell n="5"
+                        >the bidāya penal court issued the verdict in the trial of the concessionary of <title
+                        level="j"
+                        >al-aḥwāl</title>: one week detention and a penalty payment of £T 10</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+188-eap@2"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2942,6 +2988,21 @@
                     <cell n="5">New bi-lingual in Damascus, published thrice per week</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="muqtabas+258-eap"
                         >Jarīdat al-Muqtabas 30 Apr 1911 (#664)</ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-05-30">1911-05-30</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Naṣīr</cell>
+                    <cell>?</cell>
+                    <cell n="5"
+                        ><persName>Jirjī Efendi ʿAwaḍ</persName>, director of the newspaper <title
+                        level="j"
+                        >al-Naṣīr</title>, was sentenced to six months imprisonment for publishing this newspaper in contravention of the law</cell>
+                    <cell n="6"><ref target="muqtabas+263-eap@2" type="SenteCitationID"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2983,42 +3044,6 @@
                         >the imperial educational war divan (*al-dīwān al-ḥarb al-ʿarafī*) banned the newspaper <title
                         level="j">Lātūrkī</title></cell>
                     <cell n="6"><ref type="SenteCitationID" target="muqtabas+340-eap@3"/></cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-                <row>
-                    <cell n="1"><date when="1910-07-01">1910-07-01</date></cell>
-                    <cell n="2">S</cell>
-                    <cell n="3"/>
-                    <cell n="4">al-Intiqād</cell>
-                    <cell>?</cell>
-                    <cell n="5"> <title level="j">al-Intiqād</title> was warned by the al-Majlis al-ʿArafī / al-ʿUrfī (educational council?) for having published something violating the personal rights of <persName>Muḥammad ʿAbīd Allah</persName>, the Nāʾib of Izmir and owner of the newspaper <title level="j">al-ʿArab</title></cell>
-                    <cell n="6"><ref type="SenteCitationID" target="al-quds-2-158@3"/></cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-                <row>
-                    <cell n="1"><date when="1910-03-29">1910-03-29</date></cell>
-                    <cell n="2">Trial</cell>
-                    <cell n="3"/>
-                    <cell n="4">al-Nafīr</cell>
-                    <cell>Jerusalem</cell>
-                    <cell n="5">the owner of <title level="j">al-Nafīr</title>, <persName>Jūrjī Ḥanāniyā Efendi Ḥabīb</persName> [sic], is prosecuted for the opening article in #370 of <title level="j">al-Nafīr</title> published on 16 Mārt 1326 M under the title "man sall Sayf al-Baghī qatal bihi", which was a reply to an article in <title level="j">al-Quds</title></cell>
-                    <cell n="6"><ref type="SenteCitationID" target="al-quds-2-173@3"/></cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-                <row>
-                    <cell n="1">1910-08-20</cell>
-                    <cell n="2">Trial</cell>
-                    <cell n="3"/>
-                    <cell n="4">al-Nafīr</cell>
-                    <cell>Jerusalem</cell>
-                    <cell n="5">the owner of <title level="j">al-Nafīr</title>is in prison</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="al-quds-2-174@2"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -3299,7 +3324,7 @@
                     <cell n="4">al-Dustūr</cell>
                     <cell>Jaffa</cell>
                     <cell n="5">the first issue of the new newspaper <title level="j"
-                        >al-Dustūr</title>, published in Jaffa to replace  <title level="j"
+                        >al-Dustūr</title>, published in Jaffa to replace <title level="j"
                         >Filasṭīn</title>, which has been suspended, arrived in Damascus. The responsible director is <persName>Jamīl Efendi al-Khālidī</persName>, the editor in chief is <persName>Yūsuf Efendi al-ʿĪsā</persName></cell>
                     <cell n="6"><ref target="qabas+23-eap@3"/></cell>
                     <cell n="7"/>
@@ -3400,7 +3425,7 @@
                     <cell n="4">al-Muqtabas</cell>
                     <cell>Damascus </cell>
                     <cell n="5"/>
-                    <cell n="6"><ref type="SenteCitationID" target="Hermann+1990@109"
+                    <cell n="6"><ref type="SenteCitationID" target="Hermann+1990@109 Devey+1914"
                         >Hermann 1990:109</ref></cell>
                     <cell n="7"/>
                     <cell n="8"><date when="1914-04-14">1914-04-14</date></cell>
@@ -3410,9 +3435,10 @@
                     <cell n="1"><date when="1914-09-11">1914-09-11</date></cell>
                     <cell n="2">CP</cell>
                     <cell n="3"/>
-                    <cell n="4">Fatāt Lubān</cell>
+                    <cell n="4">Lisān al-Ḥāl</cell>
                     <cell>Beirut</cell>
-                    <cell n="5">There will be no issue until the end of the war in Europe</cell>
+                    <cell n="5"><title level="j"
+                        >Lisān al-Ḥāl</title> had been published on smaller paper for some issues due to the hardships of the current situation, but even this measure won't sustain the paper, which will cease publication</cell>
                     <cell n="6"><ref type="SenteCitationID" target="lisan-37-7648@1"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
