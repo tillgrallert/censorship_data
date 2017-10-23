@@ -2917,6 +2917,18 @@
                     <cell n="9"/>
                 </row>
                 <row>
+                    <cell n="1"><date notAfter="1910-07-14">1910-07-14</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3">yes</cell>
+                    <cell n="4">al-ʿArab</cell>
+                    <cell>Constantinople</cell>
+                    <cell n="5"/>
+                    <cell n="6"><ref type="SenteCitationID" target="lisan+6351@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"><date when="1910-08-16">1910-08-16</date></cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -2947,7 +2959,8 @@
                     <cell n="4">al-Ahālī</cell>
                     <cell>Aleppo</cell>
                     <cell n="5">the province of Aleppo arrested the director of the newspaper <title level="j">al-Ahālī</title>, <persName>Muṣṭafā ʿĀṣim Bey</persName>,  on accusations of owning some banned newspapers published by Sharīf Pasha from Paris</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+165-eap@2"/></cell>
+                    <cell n="6"><ref type="SenteCitationID"
+                        target="muqtabas+165-eap@2 bashir+1980@3 bashir+1979b@3"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2965,13 +2978,15 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1"><date notAfter="1910-08-30">1910-08-30</date></cell>
+                    <cell n="1"><date notAfter="1910-08-27">1910-08-27</date></cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
                     <cell n="4">al-Muʿayyad</cell>
                     <cell>Cairo</cell>
-                    <cell n="5">Reports on violent clashes in Syria</cell>
-                    <cell n="6"><ref target="ittihad+595@2" type="SenteCitationID"/></cell>
+                    <cell n="5"
+                        >Banned from import into the Ottoman Empire. Reports on violent clashes in Syria</cell>
+                    <cell n="6"><ref target="ittihad+595@2 bashir+1978@3" type="SenteCitationID"
+                        /></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2999,6 +3014,30 @@
                         level="j"
                         >al-aḥwāl</title>: one week detention and a penalty payment of £T 10</cell>
                     <cell n="6"><ref type="SenteCitationID" target="muqtabas+188-eap@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1910-09-26">1910-09-26</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3">yes</cell>
+                    <cell n="4">al-Aḥwāl</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">the editor of <title level="j">al-Aḥwāl</title> has been sentenced to a fiscal penalty and the paper has been suspended for a week</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="iqbal+9-366@5"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1910-09-26">1910-09-26</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Mufīd</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">Numerous trials and libel cases. Fiscal penalties</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="iqbal+9-366@5"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
