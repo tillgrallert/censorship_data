@@ -58,7 +58,7 @@
                     <cell n="3"/>
                     <cell n="4">al-Ahrām <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
                     <cell>Cairo</cell>
-                    <cell n="5"/>
+                    <cell n="5">declaration in Damascus calling for a ban on import for <title level="j">al-Ahrām</title></cell>
                     <cell n="6"> <ref type="SenteCitationID"
                         target="thamarat+134 thamarat+135 thamarat+138 thamarat+139"
                         >Thamarāt 22 Nov 1877 (#134), 29 Nov 1877 (#135), 20 Dec 1877 (#138), 27 Dec 1877 (#139)</ref> </cell>
@@ -112,8 +112,9 @@
                     <cell n="2">BI</cell>
                     <cell n="3"/>
                     <cell n="4">al-Jawāʾib</cell>
-                    <cell/>
-                    <cell n="5">unkown reasons</cell>
+                    <cell>Constantinople</cell>
+                    <cell n="5"
+                        >Orders to ban the import of al-Jawāʾib into Syria for unkown reasons</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+167a"
                         >Thamarāt 11 Jul 1878 (#167)</ref> </cell>
                     <cell n="7"/>
@@ -1576,8 +1577,22 @@
                     <cell n="4">al-Miṣbāḥ</cell>
                     <cell>Beirut</cell>
                     <cell n="5">Publication of uncensored material</cell>
-                    <cell n="6"> <ref type="SenteCitationID" target="bashir+1424 tf-oib+1269"
+                    <cell n="6"> <ref type="SenteCitationID" target="bashir+1424 tf-oib+1269@5"
                         >Bashīr 19 Feb 1900 (#1424), Thamarāt 19 Feb 1900 (#1269)</ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row role="data" n="125">
+                    <cell n="1"> <date notAfter="1900-02-16">1900-02-16</date> </cell>
+                    <cell n="2">W</cell>
+                    <cell n="3"/>
+                    <cell n="4">Ruġbet</cell>
+                    <cell>Bulgaria</cell>
+                    <cell n="5"><title level="j">ruġbet</title> is a new political newspaper in Ottoman turkish published in the capital of the Bulgarian Imāret by its owner and director <persName>Aḥmad Ḥāfiẓ Efendi</persName>. The first issue arrived in Beirut
+                    </cell>
+                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1269@5"
+                        ></ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1590,7 +1605,7 @@
                     <cell>Beirut</cell>
                     <cell n="5">repeated publishing of uncensored material by <hi rend="italic"
                         >al-Miṣbāḥ</hi> or any other paper will be punished with ban</cell>
-                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1269 bashir+1424"
+                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1269@5 bashir+1424"
                         >Thamarāt 19 Feb 1900 (#1269), Bashīr 19 Feb 1900 (#1424)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -1603,7 +1618,7 @@
                     <cell n="4">al-Aḥwāl</cell>
                     <cell>Beirut</cell>
                     <cell n="5">Publication of French announcements without license</cell>
-                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1273"
+                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1273@5"
                         >Thamarāt 1273(26), 19 Mar 1900 (OIB copy)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -2871,6 +2886,30 @@
                     <cell n="9"/>
                 </row>
                 <row>
+                    <cell n="1"><date notAfter="1910-08-30">1910-08-30</date></cell>
+                    <cell n="2">BI</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Muʿayyad</cell>
+                    <cell>Cairo</cell>
+                    <cell n="5">Reports on violent clashes in Syria</cell>
+                    <cell n="6"><ref target="ittihad+595@2" type="SenteCitationID"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1910-08-30">1910-08-30</date></cell>
+                    <cell n="2">PR</cell>
+                    <cell n="3"/>
+                    <cell n="4">İştirāk</cell>
+                    <cell>Constantinople </cell>
+                    <cell n="5">received permit to resume publication</cell>
+                    <cell n="6"><ref target="ittihad+595@2" type="SenteCitationID"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"><date when="1910-08-16">1910-08-16</date></cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -3081,6 +3120,30 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date notAfter="1912-08-16">1912-08-16</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">Ṭanīn</cell>
+                    <cell>Constantinople </cell>
+                    <cell n="5">suspended for slander</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+484-eap@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1912-08-16">1912-08-16</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ghālib</cell>
+                    <cell>Constantinople </cell>
+                    <cell n="5">suspended for slander</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+484-eap@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row role="data" n="227">
                     <cell n="1"> <date notBefore="1912-09-01" notAfter="1912-09-30"
                         >1912-09-01</date> </cell>
@@ -3218,6 +3281,32 @@
                     <cell n="9"/>
                 </row>
                 <row>
+                    <cell n="1"><date notAfter="1913-12-01">1913-12-01</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">Filasṭīn</cell>
+                    <cell>Jaffa</cell>
+                    <cell n="5"/>
+                    <cell n="6"><ref target="qabas+23-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1913-12-01">1913-12-01</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Dustūr</cell>
+                    <cell>Jaffa</cell>
+                    <cell n="5">the first issue of the new newspaper <title level="j"
+                        >al-Dustūr</title>, published in Jaffa to replace  <title level="j"
+                        >Filasṭīn</title>, which has been suspended, arrived in Damascus. The responsible director is <persName>Jamīl Efendi al-Khālidī</persName>, the editor in chief is <persName>Yūsuf Efendi al-ʿĪsā</persName></cell>
+                    <cell n="6"><ref target="qabas+23-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"><date when="1913-12-17">1913-12-17</date></cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -3318,6 +3407,30 @@
                     <cell n="9"><date when="1915-02-11">1915-02-11</date></cell>
                 </row>
                 <row>
+                    <cell n="1"><date when="1914-09-11">1914-09-11</date></cell>
+                    <cell n="2">CP</cell>
+                    <cell n="3"/>
+                    <cell n="4">Fatāt Lubān</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">There will be no issue until the end of the war in Europe</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="lisan-37-7648@1"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1914-10-21">1914-10-21</date></cell>
+                    <cell n="2">CP</cell>
+                    <cell n="3"/>
+                    <cell n="4">Majallat al-Āthār</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">ceased publication due to the current situation</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="bashir-45-2560@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"><date when="1915-02-11">1915-02-11</date></cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -3340,10 +3453,10 @@
                periodical they were printed in. The dates are always different from Cioeta's as he
                confused the Ottoman fiscal (<hi rend="italic">mālī</hi>) or Julian calendars for
                Gregorian reckoning.</note>
-            <note xml:id="fnText2" type="footnote">
-               <ref type="noteAnchor" target="#fnRef2">2</ref> BI: Ban on import; P: Permit or
-               first publication; PR: Permit to resume publication; RP: Resumed publication; S:
-               Suspension (<emph style="font-style:italic">taʿṭīl</emph>); W: Warning (<emph style="font-style:italic">ikhṭar</emph>)</note>
+            <note xml:id="fnText2" type="footnote"> <ref type="noteAnchor" target="#fnRef2"
+                    >2</ref> BI: Ban on import; CS: Ceased publication; P: Permit or first publication; PR: Permit to resume publication; PI: Permit for import; RP: Resumed publication; S: Suspension (<emph
+                    style="font-style:italic">taʿṭīl</emph>); W: Warning (<emph
+                    style="font-style:italic">ikhṭar</emph>)</note>
             <note xml:id="fnText5" type="footnote">
                <ref type="noteAnchor" target="#fnRef5">5</ref> Sources abbreviated as "TF" (<emph style="font-style:italic">Thamarāt al-Funūn</emph>) and "Iq" (<emph style="font-style:italic">al-Iqbāl</emph>) were solely provided by Cioeta</note>
             <note xml:id="fnText6" type="footnote">
