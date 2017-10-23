@@ -2876,6 +2876,18 @@
                     <cell n="9"/>
                 </row>
                 <row>
+                    <cell n="1"><date notAfter="1910-06-26">1910-06-26</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Bāshqīm</cell>
+                    <cell>Albania</cell>
+                    <cell n="5">the editor of the Albanian newspaper <title level="j">al-bāshqīm</title> was arrested for claims  he had made over the existence of books in Albanian language and scripture</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="jarmuq+406@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"><date when="1910-07-01">1910-07-01</date></cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -3148,7 +3160,7 @@
                     <cell>al-Muqtabas</cell>
                     <cell>Damascus </cell>
                     <cell>For publishing a <hi rend="italic"
-                        >qaṣīda</hi> by Shaykh Ibrāhīm al-Uskūbī</cell>
+                        >qaṣīda</hi> by Shaykh Ibrāhīm al-Uskūbī. Arrest of Aḥmad Kurd ʿAlī; attempted arrest of Muḥammad Kurd ʿAlī</cell>
                     <cell><ref type="SenteCitationID" target="muqtabas+482-eap Devey+1912e "
                         /></cell>
                     <cell>4</cell>
@@ -3243,6 +3255,18 @@
                         >Lisān al-ʿArab</hi> within a few days.</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="Tauber+1990@176-177"
                         >Tauber 1990:176-177</ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1912-09-09">1912-09-09</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">Baradā</cell>
+                    <cell>Damascus </cell>
+                    <cell n="5">Ban to enforce the publication of compliant articles</cell>
+                    <cell n="6"><ref target="BoaBeo4082306107Şamda+1912"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
