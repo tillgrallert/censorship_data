@@ -46,8 +46,7 @@
                     <cell n="4">Newspaper</cell>
                     <cell>Location</cell>
                     <cell n="5">Comment</cell>
-                    <cell n="6">Source <ref type="noteAnchor" target="#fnText5"
-                        >3</ref></cell>
+                    <cell n="6">Source <ref type="noteAnchor" target="#fnText5">3</ref></cell>
                     <cell n="7">Period of suspension <ref type="noteAnchor" target="#fnText6"
                         >4</ref></cell>
                     <cell n="8">Start of S</cell>
@@ -308,7 +307,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Miṣbāḥ</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Insult to the sultan's consort in its #21 of <date
                         calendar="#cal_islamic" when="1881-11-15"
                         >22 Dhu II 1298 (15 Nov 1881)</date> </cell>
@@ -324,7 +323,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Aleppo</cell>
                     <cell n="5">No reason provided</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+420"
                         >Lisān 28 Nov 1881 (#420)</ref> </cell>
@@ -337,7 +336,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum</cell>
-                    <cell/>
+                    <cell>Aleppo</cell>
                     <cell n="5">Insult to the sultan</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+358"
                         >Thamarāt 5 Dec 1881 (#358)</ref> </cell>
@@ -350,7 +349,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Janna</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Personal invective</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+360"
                         >Thamarāt 19 Dec 1881 (#360)</ref> </cell>
@@ -376,10 +375,9 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum</cell>
-                    <cell/>
+                    <cell>Aleppo</cell>
                     <cell n="5">insulting the Druze community in #123</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="thamarat+387a lisan+493d"
+                    <cell n="6"> <ref type="SenteCitationID" target="thamarat+387a lisan+493d"
                         >Thamarāt 26 Jun 1882 (#387), Lisān 14 Aug 1882 (#493)</ref> </cell>
                     <cell n="7">1 month</cell>
                     <cell n="8"/>
@@ -404,7 +402,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Bashīr <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">For news from Alexandria</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="bashir+619d"
                         >Bashīr 20 Jul 1882 (#619)</ref> </cell>
@@ -417,7 +415,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Janna</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">False news about evens in Alexandria</cell>
                     <cell n="6"> <ref type="SenteCitationID"
                         target="bashir+619a thamarat+391 lisan+487"
@@ -431,7 +429,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Aleppo</cell>
                     <cell n="5"
                         >insulting the Druze community, repeated punishment, imperial order</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+493d"
@@ -445,7 +443,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Thamarāt al-Funūn</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Personal invective</cell>
                     <cell n="6">Thamarāt 19 Feb. 1883 (#416):4</cell>
                     <cell n="7"/>
@@ -457,7 +455,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Aleppo</cell>
                     <cell n="5">false reports on the cordon sanitaire around Beirut in #83</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+599"
                         >Lisān 23 Aug 1883 (#599)</ref> </cell>
@@ -469,8 +467,8 @@
                     <cell n="1"> <date when="1884-01-03">1884-01-03</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
-                    <cell n="4">a number / all newspapers <ref type="noteAnchor"
-                        target="#fnText2">T</ref> </cell>
+                    <cell n="4">a number / all newspapers <ref type="noteAnchor" target="#fnText2"
+                        >T</ref> </cell>
                     <cell/>
                     <cell n="5">False news from Lebanon</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+637"
@@ -484,7 +482,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">False and exaggerated news about Lebanon</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+460 lisan+637"
                         >Lisān 3 Jan 1884 (#637), Thamarāt 7 Jan 1884 (#460)</ref> </cell>
@@ -497,7 +495,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum</cell>
-                    <cell/>
+                    <cell>Aleppo</cell>
                     <cell n="5">Upsetting news. over article in #122</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+474 lisan+663"
                         >Lisān 3 Apr 1884 (#663), Thamarāt 14 Apr 1884 (#474)</ref> </cell>
@@ -523,7 +521,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Lisān al-Ḥāl <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">For a report on the Shūf</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+684"
                         >Lisān 16 Jun 1884 (#684)</ref> </cell>
@@ -536,7 +534,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">al-Janna</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Lies about Midḥat Pasha and ʿAbdul ʿAzīz</cell>
                     <cell n="6"> <ref type="SenteCitationID"
                         target="Dickson+1884ac hadiqat+1346 lisan+685 thamarat+484"
@@ -554,7 +552,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Bashīr <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">For <hi rend="italic"
                         >al-Bashīr</hi>'s number on the occasion of the Sultan's birthday</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+707"
@@ -568,7 +566,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Bashīr</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >A controversy about Voltaire involving personal invective and incitement to public disturbances</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+495"
@@ -582,7 +580,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Muqtaṭaf</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >A controversy about Voltaire involving personal invective and incitement to public disturbances</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+495"
@@ -596,7 +594,7 @@
                     <cell n="2">PR</cell>
                     <cell n="3"/>
                     <cell n="4">al-Janna <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Najīb Efendi al-Bustānī received the permit to resume publication two months after the death of Salīm al-Bustānī</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+727"
@@ -610,7 +608,7 @@
                     <cell n="2">PR</cell>
                     <cell n="3"/>
                     <cell n="4">al-Jinān <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Najīb Efendi al-Bustānī received the permit to resume publication two months after the death of Salīm al-Bustānī</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+727"
@@ -625,7 +623,7 @@
                     <cell n="3"/>
                     <cell n="4">All Egyptian newspapers <ref type="noteAnchor" target="#fnText2"
                         >T</ref> </cell>
-                    <cell/>
+                    <cell>Egypt</cell>
                     <cell n="5">orders to destroy all newspapers from Egypt upon arrival</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="Eldridge+1884a"
                         >PRO FO 195/1480 Beirut 40, Eldridge to Wyndham, 10 Dec 1884</ref> </cell>
@@ -638,7 +636,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">all newspapers <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">for news from Egypt</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+766 lisna+765"
                         >Lisān 30 Mar 1885 (#765), 25 Jun 1885 (#766)</ref> </cell>
@@ -651,7 +649,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">Lisān al-Ḥāl <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">for news from Egypt</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+766 lisna+765"
                         >Lisān 30 Mar 1885 (#765), 25 Jun 1885 (#766)</ref> </cell>
@@ -664,7 +662,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Janna <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">For publishing certain comments on the Mutaṣarrif of Lebanon</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="hadiqat+1411"
                         >Ḥadīqat 17 Sep 1885 (#1411)</ref> </cell>
@@ -677,7 +675,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Jinān <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">For publishing certain comments on the Mutaṣarrif of Lebanon</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="hadiqat+1411"
                         >Ḥadīqat 17 Sep 1885 (#1411)</ref> </cell>
@@ -690,7 +688,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">al-Janna</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">False reports of disturbances in Damascus on <date when="1885-09-23"
                         >19 Dhu II 1302 (23 Sep 1885)</date></cell>
                     <cell n="6"> <ref type="SenteCitationID"
@@ -746,7 +744,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Bayrūt, private <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">False reports on the Anglo-Turkish talks.</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+973"
                         >Lisān 14 Jul 1887 (#973)</ref> </cell>
@@ -759,11 +757,10 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">All newspapers</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Untrue reports on the Anglo-Turkish talks. Prohibition to quote from foreign newspapers</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="thamarat+640 hadiqat+1506"
+                    <cell n="6"> <ref type="SenteCitationID" target="thamarat+640 hadiqat+1506"
                         >Ḥadīqat 14 Jul 1887 (#1506), Thamarāt 18 Jul 1887 (#640)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -773,9 +770,8 @@
                     <cell n="1"> <date when="1887-07-18">1887-07-18</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
-                    <cell n="4">Thamarāt al-Funūn <ref type="noteAnchor" target="#fnText2"
-                        >T</ref> </cell>
-                    <cell/>
+                    <cell n="4">Thamarāt al-Funūn <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
+                    <cell>Beirut</cell>
                     <cell n="5">prohibition to quote from foreign newspapers</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+640"
                         >Thamarāt 18 Jul 1887 (#640)</ref> </cell>
@@ -808,7 +804,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">al-Taqaddum</cell>
-                    <cell/>
+                    <cell>Aleppo</cell>
                     <cell n="5">False news that incited the people to riot</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+669"
                         >Thamarāt 13 Feb 1888 (#669)</ref> </cell>
@@ -822,7 +818,7 @@
                     <cell n="2">RP</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum</cell>
-                    <cell/>
+                    <cell>Aleppo</cell>
                     <cell n="5">Resumed publication</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+674"
                         >Thamarāt 19 Mar 1888 (#674)</ref> </cell>
@@ -835,7 +831,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Unknown paper <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5"
                         >Permit issued for an Arabic, Ottoman, and French speaking newspaper in Damascus</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="BoaİDh107784503+1888"
@@ -849,7 +845,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Bashīr</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Excitement of religious controversy. For #915 [Cioeta wrongly noted 515], probably banned for a month as there are only 26 numbers for the 7 months between mid-Mar and mid-Oct</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+1048 tf-oib+676"
@@ -863,7 +859,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Riyāḥāt al-Afkār</cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5"
                         >Ṭāhir Efendi, former director of education, obtained the permit to publish an Ottoman, Arabic, and French-speaking newspaper in Damascus and Syria and to open a printing press under the title of <hi
                         rend="italic">Riyāḥāt al-Afkār</hi> </cell>
@@ -879,7 +875,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">al-Bashīr</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Offending the Sultan. Gap of publication between #968 (<date
                         when="1889-05-11">11 May</date>) and #969 (<date when="1899-06-08"
                         >8 Jun</date>)</cell>
@@ -895,7 +891,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Miṣbāḥ</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Failure to print the necessary titles and praises with the Sultan's name</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+734 tf-oib+744"
@@ -910,12 +906,11 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Harming the public interest in #1160 of <date when="1889-05-06"
                         >6 May</date> (thrown out of court, <date when="1889-09-09"
                         >9 Sep 1889</date>). The first number after the ban speaks of 2 months only (between #1168 and #1169), but does not elaborate on the reasons</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="thamarat+736 lisan+1169"
+                    <cell n="6"> <ref type="SenteCitationID" target="thamarat+736 lisan+1169"
                         >Thamarāt 10 Jun 1889 (#736), Lisān 30 Sep 1889 (#1169)</ref> </cell>
                     <cell n="7">indefinite <ref type="noteAnchor" target="#fnText4"
                         >C</ref>, 2 months <ref type="noteAnchor" target="#fnText3">T</ref> </cell>
@@ -927,7 +922,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Bayrūt</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publishing a forbidden expression</cell>
                     <cell n="6">Thamarāt 20 Aug. 1889 (#746):1</cell>
                     <cell n="7"/>
@@ -938,9 +933,8 @@
                     <cell n="1"> <date when="1889-09-23">1889-09-23</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
-                    <cell n="4">Thamarāt al-Funūn <ref type="noteAnchor" target="#fnText2"
-                        >T</ref> </cell>
-                    <cell/>
+                    <cell n="4">Thamarāt al-Funūn <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Warning to comply with censorship. Orders issued to the post to not deliver copies to the subscribers without prior compliance</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+750"
@@ -955,7 +949,7 @@
                     <cell n="3">yes</cell>
                     <cell n="4">al-Nashra al-Usbūʿiyya <ref type="noteAnchor" target="#fnText2"
                         >T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">For not having an <hi rend="italic"
                         >irāde</hi> for publication and printing a telegram in #46 that was similarly reproduced by <hi
                         rend="italic"
@@ -972,7 +966,7 @@
                     <cell n="2">BI</cell>
                     <cell n="3"/>
                     <cell n="4">Sur Hintak <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>USA</cell>
                     <cell n="5">prohibition of import of the Armenian paper <hi rend="italic"
                         >Sur Hintak</hi> from the USA into the Ottoman Empire</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="bashir+1004"
@@ -986,7 +980,7 @@
                     <cell n="2">PR</cell>
                     <cell n="3"/>
                     <cell n="4">al-Bashīr <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">official permit to resume publication</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+778@4"
                         >Thamarāt 7 Apr 1890 (#778):4</ref> </cell>
@@ -1028,7 +1022,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Ruḥta al-Shām</cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5"
                         >Khālid Efendi from Kars obtained the permit to publish a bi-lingual Ottoman Arabic newspaper under the title <hi
                         rend="italic">Ruḥta al-Shām</hi> in Damascus</cell>
@@ -1044,7 +1038,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Rawḍat al-shām</cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5"
                         >concession to publish a newspaper in Ottoman and Arabic under the title <hi
                         rend="italic"
@@ -1061,7 +1055,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">Lisān al-Ḥāl <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >the Ministry of the Interior issued an indefinite ban against the paper. Missing from the AUB collection, but the numbering indicates a ban of 5 months prior to March 1892</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="bashir+1072"
@@ -1075,7 +1069,7 @@
                     <cell n="2">PR</cell>
                     <cell n="3"/>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >The Ministry of the Interior issued a permit to resume publication, which began on <date
                         when="1891-10-24">24 October</date>. No reason given.</cell>
@@ -1090,13 +1084,13 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">al-Shām</cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5">Permit for the newspaper <hi rend="italic"
                         >al-Shām</hi>, to be published in Damascus by Muṣṭafā Wāṣif Efendi</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="BoaDhMkt188829+1891"
                         >BOA DH Mkt 1888/29, 19 Nov 1891</ref> <ref type="SenteCitationID"
-                        target="BoaİDh125198113+1891">BOA İ DH 1251/98113, 29 Nov 1891</ref>
-                        <ref type="SenteCitationID" target="thamarat+865"
+                        target="BoaİDh125198113+1891">BOA İ DH 1251/98113, 29 Nov 1891</ref> <ref
+                        type="SenteCitationID" target="thamarat+865"
                         >Thamarāt 28 Dec 1891 (#865)</ref> <ref type="SenteCitationID"
                         target="BoaDhMkt191359+1892">BOA DH Mkt 1913/59, 19 Jan 1892</ref> </cell>
                     <cell n="7"/>
@@ -1125,7 +1119,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">al-Shām</cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5">announcing the publication of the new newspaper <hi rend="italic"
                         >al-Shām</hi>. Muṣṭafā Wāṣif is the proprietor and Adīb Naẓmī the editor and director.</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+1418"
@@ -1140,10 +1134,9 @@
                     <cell n="3"/>
                     <cell n="4">Thamarāt al-Funūn <ref type="noteAnchor" target="#fnText3"
                         >T</ref></cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">2 months' gap in publication which is not commented on.</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="thamarat+890 thamarat+891"
+                    <cell n="6"> <ref type="SenteCitationID" target="thamarat+890 thamarat+891"
                         >Thamarāt 27 Jun 1892 (#890), 15 Aug 1892 (#891)</ref> </cell>
                     <cell n="7">2 months</cell>
                     <cell n="8"> <date when="1892-06-28">1892-06-28</date> </cell>
@@ -1154,11 +1147,10 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">al-Bashīr</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Violation of the censor's warning. Gap of publication between #1045 (5 Oct) and #1046 (9 Nov), or #1046 (12 Oct.) and #1047 (16 Nov)</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="thamarat+899 bashir+a1047"
+                    <cell n="6"> <ref type="SenteCitationID" target="thamarat+899 bashir+a1047"
                         >Thamarāt 10 Oct 1892 (#899), Bashīr 16 Nov 1892 (#1047)</ref> </cell>
                     <cell n="7">2 months <ref type="noteAnchor" target="#fnText4"
                         >C</ref>, 1 month <ref type="noteAnchor" target="#fnText3">T</ref> </cell>
@@ -1170,7 +1162,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">A false news report</cell>
                     <cell n="6">Thamarāt 15 Jan. 1894 (#963):1</cell>
                     <cell n="7">indefinite</cell>
@@ -1182,7 +1174,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Miṣbāḥ</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Printing a deleted expression</cell>
                     <cell n="6">Thamarāt 12 Feb. 1894 (#967):1-2</cell>
                     <cell n="7"/>
@@ -1194,7 +1186,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Kawkab al-Sharq</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >the owner of the librairie universelle Amīn Efendi al-Khūrī obtained the concession to publish <hi
                         rend="italic">Kawkab al-Sharq</hi> in Beirut</cell>
@@ -1209,10 +1201,9 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Bashīr</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Printing something not in the draft copy</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="thamarat+976 lisan+1606"
+                    <cell n="6"> <ref type="SenteCitationID" target="thamarat+976 lisan+1606"
                         >Thamarāt 23 Apr 1894 (#976), Lisān 23 Apr 1894 (#1606)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -1223,10 +1214,9 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Bayrūt</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the censor's warning</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="lisan+1606 thamarat+976"
+                    <cell n="6"> <ref type="SenteCitationID" target="lisan+1606 thamarat+976"
                         >Lisān 23 Apr 1894 (#1606), Thamarāt 23 Apr 1894 (#976)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -1237,7 +1227,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the censor's warning</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+976"
                         >Thamarāt 23 Apr 1894 (#976)</ref> </cell>
@@ -1250,10 +1240,9 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Thamarāt al-Funūn</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the censor's warning</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="thamarat+976 lisan+1606"
+                    <cell n="6"> <ref type="SenteCitationID" target="thamarat+976 lisan+1606"
                         >Thamarāt 23 Apr 1894 (#976), Lisān 23 Apr 1894 (#1606)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -1264,7 +1253,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publication of two sentences not in the draft copy</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+977"
                         >Thamarāt 30 Apr 1894 (#977)</ref> </cell>
@@ -1277,7 +1266,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Thamarāt al-Funūn</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the censor's warning</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+980b"
                         >Thamarāt 21 May 1894 (#980)</ref> </cell>
@@ -1290,7 +1279,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">False news</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+1013b"
                         >Thamarāt 21 Jan 1895 (#1013)</ref> </cell>
@@ -1303,7 +1292,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Miṣbāḥ</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">False news</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+1013b"
                         >Thamarāt 21 Jan 1895 (#1013)</ref> </cell>
@@ -1316,7 +1305,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">False news</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="thamarat+1013b"
                         >Thamarāt 21 Jan 1895 (#1013)</ref> </cell>
@@ -1342,7 +1331,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">Ṭarāblus al-Shām</cell>
-                    <cell/>
+                    <cell>Tripoli</cell>
                     <cell n="5">For errors, perhaps because of a slip of the pen</cell>
                     <cell n="6">Thamarāt 26 Aug. 1895 (#1042):2</cell>
                     <cell n="7">2 weeks</cell>
@@ -1354,7 +1343,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">Ṭarāblus al-Shām</cell>
-                    <cell/>
+                    <cell>Tripoli</cell>
                     <cell n="5">No reason given</cell>
                     <cell n="6">Thamarāt 7 Oct. 1895 (#1048):1</cell>
                     <cell n="7">1 month</cell>
@@ -1366,7 +1355,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">Thamarāt al-Funūn</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publishing deleted material</cell>
                     <cell n="6">TF 1104:2</cell>
                     <cell n="7">15 days</cell>
@@ -1378,12 +1367,12 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publishing deleted material</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1132"
                         >Thamarāt 7 Jun 1897 (#1132)</ref> </cell>
-                    <cell n="7">2 days <ref type="noteAnchor" target="#fnText4"
-                        >C</ref>, 7 days <ref type="noteAnchor" target="#fnText3">T</ref> </cell>
+                    <cell n="7">2 days <ref type="noteAnchor" target="#fnText4">C</ref>, 7 days <ref
+                        type="noteAnchor" target="#fnText3">T</ref> </cell>
                     <cell n="8"> <date when="1897-06-04">1897-06-04</date> </cell>
                     <cell n="9"> <date when="1897-06-04">1897-06-04</date> </cell>
                 </row>
@@ -1392,7 +1381,7 @@
                     <cell n="2">PR</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Permit granted under the condition that the proprietor will never again violate the law</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1132"
@@ -1406,7 +1395,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Miṣbāḥ</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publication of uncensored issue</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="bashir+1303"
                         >Bashīr 11 Oct 1897 (#1303)</ref> </cell>
@@ -1445,7 +1434,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Miṣbāḥ</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publishing uncensored articles</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1187"
                         >Thamarāt 4 Jul 1898 (#1187)</ref> </cell>
@@ -1458,7 +1447,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Publishing announcements not permitted by the terms of its license</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1192"
@@ -1472,7 +1461,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Bashīr</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Publishing announcements not permitted by the terms of its license</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1192"
@@ -1486,7 +1475,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Publishing announcements not permitted by the terms of its license</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1192"
@@ -1500,7 +1489,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Thamarāt al-Funūn</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Publishing uncensored material, changing words and substituting sentences in the approved draft</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1234"
@@ -1514,7 +1503,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Maḥabba</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publishing deleted articles, starting forbidden controversies</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1235"
                         >Thamarāt 19 Jun 1899 (#1235)</ref> </cell>
@@ -1527,7 +1516,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">All newspapers</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >General warning prohibiting the publication of uncensored articles and altering words in approved articles</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1245"
@@ -1541,7 +1530,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Ḥawādis̱-i Müḳtebese</cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5">Permit for <hi rend="italic"
                         >Ḥawādis̱-i Müḳtebese</hi> to be published in Damascus granted to Muṣṭafā Wāṣif Efendi. Publication interval not specified</cell>
                     <cell n="6"> <ref type="SenteCitationID"
@@ -1556,14 +1545,13 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">al-Shams</cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5"
                         >Jirjī Efendi Matti from Acre, teacher at the Greek Orthodox school in Damascus, obtained the imperial permit to publish a fortnightly scientific journal in Damascus.</cell>
                     <cell n="6"> <ref type="SenteCitationID"
                         target="BoaMfMkt44010+1899 bashir+1411a"
-                        >BOA MF Mkt 440/10, 25 Mar 1899, Bashīr 20 Nov 1899 (#1411)</ref>
-                        <ref type="SenteCitationID" target="bashir+1450"
-                        >Bashīr 18 Aug 1900 (#1450)</ref> </cell>
+                        >BOA MF Mkt 440/10, 25 Mar 1899, Bashīr 20 Nov 1899 (#1411)</ref> <ref
+                        type="SenteCitationID" target="bashir+1450">Bashīr 18 Aug 1900 (#1450)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1573,7 +1561,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">Rawḍat al-Maʿārif</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violating the censor's warning</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1259"
                         >Thamarāt 4 Dec 1899 (#1259)</ref> </cell>
@@ -1586,10 +1574,9 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Miṣbāḥ</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publication of uncensored material</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="bashir+1424 tf-oib+1269"
+                    <cell n="6"> <ref type="SenteCitationID" target="bashir+1424 tf-oib+1269"
                         >Bashīr 19 Feb 1900 (#1424), Thamarāt 19 Feb 1900 (#1269)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -1600,11 +1587,10 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">all newspapers <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">repeated publishing of uncensored material by <hi rend="italic"
                         >al-Miṣbāḥ</hi> or any other paper will be punished with ban</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="tf-oib+1269 bashir+1424"
+                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1269 bashir+1424"
                         >Thamarāt 19 Feb 1900 (#1269), Bashīr 19 Feb 1900 (#1424)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -1615,7 +1601,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publication of French announcements without license</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1273"
                         >Thamarāt 1273(26), 19 Mar 1900 (OIB copy)</ref> </cell>
@@ -1628,7 +1614,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publication of material in contravention of earlier warnings</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1283"
                         >Thamarāt 28 May 1900 (#1283)</ref> </cell>
@@ -1641,7 +1627,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Publication of deleted material</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1290"
                         >Thamarāt 16 Jul 1900 (#1290)</ref> </cell>
@@ -1655,7 +1641,7 @@
                     <cell n="2">PR</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Permit for resuming publication</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+3478"
                         >Lisān 23 Jul 1900 (#3478)</ref> </cell>
@@ -1668,7 +1654,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">Bayrūt</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1293"
                         >Thamarāt 6 Aug 1900 (#1293)</ref> </cell>
@@ -1681,11 +1667,10 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Violation of the basic principle of the Press Law by publishing uncensored materials</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="tf-oib+1304 bashir+1460a"
+                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1304 bashir+1460a"
                         >Thamarāt 29 Oct 1900 (#1304), Bashīr 29 Oct 1900 (#1460)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -1696,11 +1681,10 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Violation of the basic principle of the Press Law by publishing uncensored materials</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="tf-oib+1304 bashir+1460a"
+                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1304 bashir+1460a"
                         >Thamarāt 29 Oct 1900 (#1304), Bashīr 29 Oct 1900 (#1460)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -1711,10 +1695,9 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Thamarāt al-Funūn</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="bashir+1470 tf-oib+1314"
+                    <cell n="6"> <ref type="SenteCitationID" target="bashir+1470 tf-oib+1314"
                         >Bashīr 7 Jan 1901 (#1470), Thamarāt 7 Jan 1901 (#1314)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -1725,10 +1708,9 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Bashīr</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">A false and uncensored article</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="mahabba+5-eap tf-oib+1319"
+                    <cell n="6"> <ref type="SenteCitationID" target="mahabba+5-eap tf-oib+1319"
                         >Thamarāt 18 Feb 1901 (#1319), Maḥabba 23 Feb 1901 (#105)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -1739,7 +1721,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Maḥabba</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
                     <cell n="6"> <ref type="SenteCitationID"
                         target="bashir+1478a mahabba+9-eap tf-oib+1321"
@@ -1752,8 +1734,8 @@
                     <cell n="1"> <date when="1901-03-01">1901-03-01</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
-                    <cell n="4">al-Manār (Beirut)</cell>
-                    <cell/>
+                    <cell n="4">al-Manār</cell>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
                     <cell n="6"> <ref type="SenteCitationID"
                         target="bashir+1478a mahabba+9-eap tf-oib+1321"
@@ -1767,7 +1749,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">an uncensored article</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1327"
                         >Thamarāt 29 Apr 1901 (#1327)</ref> </cell>
@@ -1780,10 +1762,9 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law.</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="tf-oib+1331 mahabba+18-eap"
+                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1331 mahabba+18-eap"
                         >Thamarāt 27 May 1901 (#1331), Maḥabba 1 Jun 1901 (#118)</ref> </cell>
                     <cell n="7">7 days</cell>
                     <cell n="8"/>
@@ -1794,7 +1775,7 @@
                     <cell n="2">RP</cell>
                     <cell n="3"/>
                     <cell n="4">al-Miṣbāḥ <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">after a long absence, <hi rend="italic"
                         >al-Miṣbāḥ</hi> recommenced publication.</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="mahabba+20-eap"
@@ -1808,7 +1789,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+3885"
                         >Lisān 29 Nov 1901 (#3885)</ref> </cell>
@@ -1821,7 +1802,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Lisān al-Ḥāl <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law.</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+3885"
                         >Lisān 29 Nov 1901 (#3885)</ref> </cell>
@@ -1834,7 +1815,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1359"
                         >Thamarāt 16 Dec 1901 (#1359)</ref> </cell>
@@ -1847,7 +1828,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">no</cell>
                     <cell n="4">al-Bashīr</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Violation of the basic principle of the Press Law. No gap in publication dates</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1359"
@@ -1861,14 +1842,14 @@
                     <cell n="2">S</cell>
                     <cell n="3">no</cell>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Violation of the basic principle of the Press Law. No gap in publication dates after #3879 (<date
                         when="1901-11-22">22 Nov</date>)</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+3885 tf-oib+1359"
                         >Lisān 29 Nov 1901 (#3885), Thamarāt 16 Dec 1901 (#1359)</ref> </cell>
-                    <cell n="7">7 days <ref type="noteAnchor" target="#fnText4"
-                        >C</ref>, 3 days<ref type="noteAnchor" target="#fnText3">T</ref> </cell>
+                    <cell n="7">7 days <ref type="noteAnchor" target="#fnText4">C</ref>, 3 days<ref
+                        type="noteAnchor" target="#fnText3">T</ref> </cell>
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
@@ -1877,10 +1858,9 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">Thamarāt al-Funūn</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="tf-oib+1358 tf-oib+1359"
+                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1358 tf-oib+1359"
                         >Thamarāt 2 Dec 1901 (#1358), 16 Dec 1901 (#1359)</ref> </cell>
                     <cell n="7">1 week</cell>
                     <cell n="8"><date when="1901-12-03">1901-12-03</date></cell>
@@ -1891,7 +1871,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">No reason given</cell>
                     <cell n="6">TF 1365:5</cell>
                     <cell n="7">indefinite</cell>
@@ -1903,7 +1883,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Mashriq</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">No reason given</cell>
                     <cell n="6">Iq 11:6</cell>
                     <cell n="7">unknown</cell>
@@ -1915,7 +1895,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Publication of an article which violated the principles of the Press Law</cell>
                     <cell n="6">Iq 11:6</cell>
@@ -1928,7 +1908,7 @@
                     <cell n="2">PR</cell>
                     <cell n="3"/>
                     <cell n="4">al-Shām <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5">first issue after a ban of 4 months</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="bashir+1582 lisan+4206"
                         >Lisān 24 Jan 1903 (#4206), Bashīr 23 Feb 1903 (#1582)</ref> </cell>
@@ -1941,7 +1921,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">no</cell>
                     <cell n="4">al-Maḥabba</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
                     <cell n="6">TF 1422:5</cell>
                     <cell n="7">4 days</cell>
@@ -1953,7 +1933,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">no</cell>
                     <cell n="4">Thamarāt al-Funūn</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
                     <cell n="6">TF 1426:4</cell>
                     <cell n="7">3 days</cell>
@@ -1965,7 +1945,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">Bayrūt</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
                     <cell n="6">TF 1452:5</cell>
                     <cell n="7">15 days</cell>
@@ -1977,7 +1957,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Iqbāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Publication of articles which violated the basic principle of the Press Law</cell>
                     <cell n="6">TF 1449:5, Iq 53:6</cell>
@@ -1990,7 +1970,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Bayrūt <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >the permit depends on henceforth complying with the bases, communiqués, and instructions of censorship (<hi
                         rend="italic">murāqaba</hi>)</cell>
@@ -2005,7 +1985,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">Ḥadīqat al-Akhbār</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Publication of articles which violated the basic principle of the Press Law</cell>
                     <cell n="6">TF 1455:6</cell>
@@ -2018,7 +1998,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">Lisān al-Ḥāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Publication of articles which violated the basic principle of the Press Law. publication gap of ten days, between #4446 (<date
                         when="1903-11-06">6 Nov</date>) and #4447 (<date when="1903-11-15"
@@ -2034,9 +2014,8 @@
                     <cell n="1"> <date when="1903-11-01">1903-11-01</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
-                    <cell n="4">Ḥadīqat al-Akhbār <ref type="noteAnchor" target="#fnText2"
-                        >T</ref> </cell>
-                    <cell/>
+                    <cell n="4">Ḥadīqat al-Akhbār <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >Henceforth they have to comply with the basic principles [of the press law] </cell>
                     <cell n="6"> <ref type="SenteCitationID" target="lisan+4446"
@@ -2050,7 +2029,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Iqbāl</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5">Disregarding the censor's warning</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1468"
                         >Thamarāt 15 Feb 1904 (#1468)</ref> </cell>
@@ -2218,8 +2197,7 @@
                     <cell n="5">For an unnamed reason. Gap in publication between #1500 (<date
                         when="1904-11-14">14 Nov</date>) and #1501 (<date when="1905-02-27"
                         >27 Feb</date>)</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="tf-oib+1500 tf-oib+1501"
+                    <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1500 tf-oib+1501"
                         >Thamarāt 14 Nov 1904 (#1500), 27 Feb 1905 (#1501)</ref> , Iq 76:6 </cell>
                     <cell n="7">100 days</cell>
                     <cell n="8"> <date when="1904-11-15">1904-11-15</date> </cell>
@@ -2275,8 +2253,7 @@
                     <cell n="1"> <date when="1905-02-27">1905-02-27</date> </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
-                    <cell n="4">Thamarāt al-Funūn <ref type="noteAnchor" target="#fnText2"
-                        >T</ref> </cell>
+                    <cell n="4">Thamarāt al-Funūn <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
                     <cell>Beirut</cell>
                     <cell n="5"
                         > Thamarāt resumed publication after it received an imperial permit.</cell>
@@ -2290,8 +2267,7 @@
                     <cell n="1"> <date when="1905-04-03">1905-04-03</date> </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
-                    <cell n="4">Ṭarāblus al-Shām <ref type="noteAnchor" target="#fnText2"
-                        >T</ref> </cell>
+                    <cell n="4">Ṭarāblus al-Shām <ref type="noteAnchor" target="#fnText2">T</ref> </cell>
                     <cell/>
                     <cell n="5">Permit to resume publication</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="tf-oib+1506"
@@ -2479,12 +2455,25 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1">1908-09-21</cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ittiḥād al-ʿUthmānī</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5"
+                        >tomorrow, <persName>Aḥmad Ḥasan Ṭabbārah</persName>, the editor of TF, will publish the first issue of the new daily newspaper</cell>
+                    <cell n="6"><ref target="thamarat+1691a@4" type="SenteCitationID"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row role="data" n="191">
                     <cell n="1"> <date when="1908-09-25">1908-09-25</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Dimashq</cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5"
                         >Muḥammad Ḥayrī Efendi Shabīb zade obtained the permit to publish a newspaper under the title of <hi
                         rend="italic">Dimashq</hi> </cell>
@@ -2499,7 +2488,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">al-Thawbāt</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >daily published in Beirut by Iskandar Efendi Khūrī and Khalīl Efendi Zayniyah</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="bashir+1881"
@@ -2513,25 +2502,11 @@
                     <cell n="2">End</cell>
                     <cell n="3"/>
                     <cell n="4">Thamarāt al-Funūn</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >ʿAbd al-Qāḍīr Efendi Qabbānī announced that he will discontinue his newspaper after 35 years</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="bashir+1881"
                         >Bashīr 26 Oct 1908 (#1881)</ref> </cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-                <row role="data" n="196">
-                    <cell n="1"> <date when="1908-11-09">1908-12-21</date> </cell>
-                    <cell n="2">P</cell>
-                    <cell n="3"/>
-                    <cell n="4">al-Rawḍa</cell>
-                    <cell/>
-                    <cell n="5">Thrice a week.</cell>
-                    <cell n="6"> <ref type="SenteCitationID" target="bashir+1881"
-                        >Bashīr 26 Oct 1908 (#1881)</ref> <ref type="SenteCitationID"
-                        target="jarmuq+6">Jarīdat al-Muqtabas 22 Dec 1908 (#6)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2541,7 +2516,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Kashf al-Ḥijāb</cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5"
                         >Muḥammad Mīdānī Efendi did what was necessary to obtain a permit for publishing an Arabic-speaking newspaper in Damascus under the title of <hi
                         rend="italic"
@@ -2557,7 +2532,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">al-Muqtabas</cell>
-                    <cell/>
+                    <cell> Damascus </cell>
                     <cell n="5"
                         >In compliance with the Vali of Syria, Muḥammad Kurd ʿAlī Efendi from Damascus obtained the permit to open a printing press and to publish a daily newspaper under the title of <hi
                         rend="italic">al-Muqtabas</hi></cell>
@@ -2572,7 +2547,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">al-Band</cell>
-                    <cell/>
+                    <cell>Damascus </cell>
                     <cell n="5"
                         >Muḥammad Shākir, graduate of the Mekteb-i Mülkiye, and Fāris Khūri, graduate of the AUB, obtained the permit to publish a daily newspaper under the title of <hi
                         rend="italic">al-Band</hi> in Damascus</cell>
@@ -2591,6 +2566,20 @@
                     <cell n="5">Daily in Damascus by Muḥammad Kurd ʿAlī</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="jarmuq+1"
                         >Jarīdat al-Muqtabas 17 Dec 1908 (#1)</ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row role="data" n="196">
+                    <cell n="1"> <date when="1908-11-09">1908-12-21</date> </cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Rawḍa</cell>
+                    <cell>Damascus </cell>
+                    <cell n="5">Thrice a week.</cell>
+                    <cell n="6"> <ref type="SenteCitationID" target="bashir+1881"
+                        >Bashīr 26 Oct 1908 (#1881)</ref> <ref type="SenteCitationID"
+                        target="jarmuq+6">Jarīdat al-Muqtabas 22 Dec 1908 (#6)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2862,9 +2851,8 @@
                     <cell n="5"
                         >published on Sat and Tue, owner is the teacher Shaykh Aḥmad al-ʿAṭṭār, editor is Adīb Efendi Naẓmī</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="jarmuq+431"
-                        >Jarīdat al-Muqtabas 26 Jul 1910 (#431)</ref> <ref
-                        type="SenteCitationID" target="muqtabas+173-eap"
-                        >Jarīdat al-Muqtabas 29 Aug 1910 (#460)</ref> </cell>
+                        >Jarīdat al-Muqtabas 26 Jul 1910 (#431)</ref> <ref type="SenteCitationID"
+                        target="muqtabas+173-eap">Jarīdat al-Muqtabas 29 Aug 1910 (#460)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2877,6 +2865,18 @@
                     <cell>Baghdad</cell>
                     <cell n="5">New weekly newspaper</cell>
                     <cell n="6"><ref type="SenteCitationID" target="muqtabas+164-eap@4"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1">1910-09-24</cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Aḥwāl</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">the bidāya penal court issued the verdict in the trial of the concessionary of <title level="j">al-aḥwāl</title>: one week detention and a penalty payment of £T 10</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+188-eap@2"></ref></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2895,7 +2895,102 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell>1912-04-16</cell>
+                    <cell n="1"><date when="1911-07-27">1911-07-27</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">Arnāwūṭ</cell>
+                    <cell>Constantinople </cell>
+                    <cell n="5"
+                        >the al-Dīwān al-ʿArafī decided to issue a ban to the newspaper <title
+                        level="j">Arnāwūṭ</title></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+302-eap@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-10-21">1911-10-21</date></cell>
+                    <cell n="2">PI</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Muʿayyad</cell>
+                    <cell>Cairo</cell>
+                    <cell n="5"
+                        >orders to import al-Muʾayyad, the largest Islamic newspaper in Egypt, into the Ottoman Empire, which had hitherto been prohibited.</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+340-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-10-21">1911-10-21</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">Lātūrkī</cell>
+                    <cell>?</cell>
+                    <cell n="5"
+                        >the imperial educational war divan (*al-dīwān al-ḥarb al-ʿarafī*) banned the newspaper <title
+                        level="j">Lātūrkī</title></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+340-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1">1910-07-01</cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Intiqād</cell>
+                    <cell>?</cell>
+                    <cell n="5"> <title level="j">al-Intiqād</title> was warned by the al-Majlis al-ʿArafī / al-ʿUrfī (educational council?) for having published something violating the personal rights of <persName>Muḥammad ʿAbīd Allah</persName>, the Nāʾib of Izmir and owner of the newspaper <title level="j">al-ʿArab</title></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="al-quds-2-158@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1910-03-29">1910-03-29</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Nafīr</cell>
+                    <cell>Jerusalem</cell>
+                    <cell n="5">the owner of <title level="j">al-Nafīr</title>, <persName>Jūrjī Ḥanāniyā Efendi Ḥabīb</persName> [sic], is prosecuted for the opening article in #370 of <title level="j">al-Nafīr</title> published on 16 Mārt 1326 M under the title "man sall Sayf al-Baghī qatal bihi", which was a reply to an article in <title level="j">al-Quds</title></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="al-quds-2-173@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-10-21">1911-10-21</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">Ṭanẓīmāt</cell>
+                    <cell>?</cell>
+                    <cell n="5"
+                        >in reaction to ban by the imperial educational war divan, the newspaper <title
+                        level="j">Tanẓīmāt</title> al continues publication as <title level="j"
+                        >Iṣlāḥāt</title></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+340-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-10-21">1911-10-21</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">Iṣlāḥāt</cell>
+                    <cell>?</cell>
+                    <cell n="5"
+                        >in reaction to ban by the imperial educational war divan, the newspaper <title
+                        level="j">Tanẓīmāt</title> al continues publication as <title level="j"
+                        >Iṣlāḥāt</title></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+340-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell><date when="1912-04-16">1912-04-16</date></cell>
                     <cell>S</cell>
                     <cell>yes</cell>
                     <cell>al-Muqtabas</cell>
@@ -2907,6 +3002,20 @@
                     <cell>4</cell>
                     <cell><date when="1912-04-17">1912-04-17</date></cell>
                     <cell><date when="1912-08-08">1912-08-08</date></cell>
+                </row>
+                <row role="data" n="225">
+                    <cell n="1"> <date notBefore="1912-05-02" notAfter="1912-05-31"
+                        >1912-05-01</date> </cell>
+                    <cell n="2">RP</cell>
+                    <cell n="3"/>
+                    <cell n="4">Ṣadā al-Mufīd</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">continuing from <hi rend="italic">al-Mufīd</hi> </cell>
+                    <cell n="6"> <ref type="SenteCitationID" target="Tauber+1990@176-177"
+                        >Tauber 1990:176-177</ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
                 </row>
                 <row role="data" n="226">
                     <cell n="1"> <date notBefore="1912-05-01" notAfter="1912-05-31"
@@ -2923,16 +3032,14 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row role="data" n="225">
-                    <cell n="1"> <date notBefore="1912-05-02" notAfter="1912-05-31"
-                        >1912-05-01</date> </cell>
+                <row>
+                    <cell n="1"><date when="1912-08-08">1912-08-08</date></cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
-                    <cell n="4">Ṣadā al-Mufīd</cell>
-                    <cell>Beirut</cell>
-                    <cell n="5">continuing from <hi rend="italic">al-Mufīd</hi> </cell>
-                    <cell n="6"> <ref type="SenteCitationID" target="Tauber+1990@176-177"
-                        >Tauber 1990:176-177</ref> </cell>
+                    <cell n="4">al-Muqtabas</cell>
+                    <cell>Damascus </cell>
+                    <cell n="5">After almost four months al-Muqtabas resumed publication</cell>
+                    <cell n="6"><ref target="muqtabas+482-eap@1" type="SenteCitationID"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2945,18 +3052,6 @@
                     <cell>Salonica</cell>
                     <cell n="5"/>
                     <cell n="6"><ref target="muqtabas+482-eap@2" type="SenteCitationID"/></cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-                <row>
-                    <cell n="1"><date when="1912-08-08">1912-08-08</date></cell>
-                    <cell n="2">RP</cell>
-                    <cell n="3"/>
-                    <cell n="4">al-Muqtabas</cell>
-                    <cell>Damascus </cell>
-                    <cell n="5">After almost four months al-Muqtabas resumed publication</cell>
-                    <cell n="6"><ref target="muqtabas+482-eap@1" type="SenteCitationID"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -3016,6 +3111,30 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date when="1913-03-05">1913-03-05</date></cell>
+                    <cell n="2">BI</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Muʾayyad</cell>
+                    <cell>Cairo</cell>
+                    <cell n="5">Ban on import into the Ottoman Empire </cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+566-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1913-03-24">1913-03-24</date></cell>
+                    <cell n="2">BI</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-ʿUmrān</cell>
+                    <cell>Cairo</cell>
+                    <cell n="5">Ban on import into the Ottoman Empire </cell>
+                    <cell n="6"><ref target="muqtabas+574-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row role="data" n="231">
                     <cell n="1"> <date when="1913-09-25">1913-09-25</date> </cell>
                     <cell n="2">S</cell>
@@ -3038,8 +3157,7 @@
                     <cell>Damascus </cell>
                     <cell n="5">100 issues of <hi rend="italic">al-Qabas</hi> continued <hi
                         rend="italic">al-Muqtabas</hi>' counting</cell>
-                    <cell n="6"> <ref type="SenteCitationID"
-                        target="qabas+33-eap qabas+1-eap"
+                    <cell n="6"> <ref type="SenteCitationID" target="qabas+33-eap qabas+1-eap"
                         >Qabas 30 Sep 1913 (#1301-1), 1400-100(1), 29 Jan 1914 [1 Rab I 1332aH] (EAP copy)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -3074,9 +3192,32 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date when="1913-12-17">1913-12-17</date></cell>
+                    <cell n="2">RP</cell>
+                    <cell n="3"/>
+                    <cell n="4">Filasṭīn</cell>
+                    <cell>Jaffa</cell>
+                    <cell n="5">The first issue after the suspension is available</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="qabas+27-eap@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1913-12-25">1913-12-25</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">Filasṭīn</cell>
+                    <cell>Jaffa</cell>
+                    <cell n="5">Trial of the owner cam to a conclusion</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="qabas+27-eap@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row role="data" n="235">
-                    <cell n="1"> <date notBefore="1914-01-01" notAfter="1914-12-31"
-                        >1914</date> </cell>
+                    <cell n="1"> <date notBefore="1914-01-01" notAfter="1914-12-31">1914</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Iʾtilāf al-ʿUthmānī</cell>
@@ -3089,8 +3230,7 @@
                     <cell n="9"/>
                 </row>
                 <row role="data" n="236">
-                    <cell n="1"> <date notBefore="1914-01-01" notAfter="1914-12-31"
-                        >1914</date> </cell>
+                    <cell n="1"> <date notBefore="1914-01-01" notAfter="1914-12-31">1914</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Mufīd</cell>
@@ -3103,8 +3243,7 @@
                     <cell n="9"/>
                 </row>
                 <row role="data" n="237">
-                    <cell n="1"> <date notBefore="1914-02-01" notAfter="1914-02-28"
-                        >1914, feb</date> </cell>
+                    <cell n="1"> <date notBefore="1914-02-01" notAfter="1914-02-28">1914, feb</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
                     <cell n="4">al-Muqtabas</cell>
@@ -3112,6 +3251,30 @@
                     <cell n="5">Resumed publication under the old name</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="muqtabas+622-eap"
                         >Jarīdat al-Muqtabas 10 Feb 1914 (#1614)</ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1914-04-06">1914-04-06</date></cell>
+                    <cell n="2">PR</cell>
+                    <cell n="3"/>
+                    <cell n="4">Nahr al-ʿĀṣī</cell>
+                    <cell>Hama</cell>
+                    <cell n="5">Provincial permit to resume publication</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+635-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1914-04-06">1914-04-06</date></cell>
+                    <cell n="2">PR</cell>
+                    <cell n="3"/>
+                    <cell n="4">Bayān</cell>
+                    <cell>?</cell>
+                    <cell n="5">permit to resume publication</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+635-eap@3"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -3142,82 +3305,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
-                    <cell n="1"><date when="1914-04-06">1914-04-06</date></cell>
-                    <cell n="2">PR</cell>
-                    <cell n="3"/>
-                    <cell n="4">Nahr al-ʿĀṣī</cell>
-                    <cell>Hama</cell>
-                    <cell n="5">Provincial permit to resume publication</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+635-eap@3"
-                        /></cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-             <row>
-                 <cell n="1"><date when="1914-04-06">1914-04-06</date></cell>
-                 <cell n="2">PR</cell>
-                 <cell n="3"/>
-                 <cell n="4">Bayān</cell>
-                 <cell>?</cell>
-                 <cell n="5">permit to resume publication</cell>
-                 <cell n="6"><ref type="SenteCitationID" target="muqtabas+635-eap@3"
-                 /></cell>
-                 <cell n="7"/>
-                 <cell n="8"/>
-                 <cell n="9"/>
-             </row>
-                <row>
-                    <cell n="1"><date when="1913-03-05">1913-03-05</date></cell>
-                    <cell n="2">BI</cell>
-                    <cell n="3"/>
-                    <cell n="4">al-Muʾayyad</cell>
-                    <cell>Cairo</cell>
-                    <cell n="5">Ban on import into the Ottoman Empire </cell>
-                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+566-eap@3"/></cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-                <row>
-                    <cell n="1"><date when="1913-03-24">1913-03-24</date></cell>
-                    <cell n="2">BI</cell>
-                    <cell n="3"/>
-                    <cell n="4">al-ʿUmrān</cell>
-                    <cell>Cairo</cell>
-                    <cell n="5">Ban on import into the Ottoman Empire </cell>
-                    <cell n="6"><ref target="muqtabas+574-eap@3"/></cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-                <row>
-                    <cell n="1"><date when="1913-12-25">1913-12-25</date></cell>
-                    <cell n="2">Trial</cell>
-                    <cell n="3"/>
-                    <cell n="4">Filasṭīn</cell>
-                    <cell>Jaffa</cell>
-                    <cell n="5">Trial of the owner cam to a conclusion</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="qabas+27-eap@2"/></cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-                <row>
-                    <cell n="1"><date when="1913-12-17">1913-12-17</date></cell>
-                    <cell n="2">RP</cell>
-                    <cell n="3"/>
-                    <cell n="4">Filasṭīn</cell>
-                    <cell>Jaffa</cell>
-                    <cell n="5">The first issue after the suspension is available</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="qabas+27-eap@2"/></cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
-             
-         </table>
+            </table>
          <div type="notes">
             <head>Legend</head>
             <p>The table is based on the table of suspensions, bans, and warnings provided by Cioeta, "Ottoman Censorship," 1979:182-185, which covered the years 1878-1908. I augmented his data with my readings, checked for corresponding gaps in publication when possible, corrected the dating, and added information on the years 1908-1914.</p>
