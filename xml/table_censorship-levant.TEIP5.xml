@@ -2929,13 +2929,37 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1">1910-08-20</cell>
+                    <cell n="1"><date when="1910-08-20">1910-08-20</date></cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
                     <cell n="4">al-Nafīr</cell>
                     <cell>Jerusalem</cell>
                     <cell n="5">the owner of <title level="j">al-Nafīr</title>is in prison</cell>
                     <cell n="6"><ref type="SenteCitationID" target="al-quds-2-174@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1910-08-20">1910-08-20</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ahālī</cell>
+                    <cell>Aleppo</cell>
+                    <cell n="5">the province of Aleppo arrested the director of the newspaper <title level="j">al-Ahālī</title>, <persName>Muṣṭafā ʿĀṣim Bey</persName>,  on accusations of owning some banned newspapers published by Sharīf Pasha from Paris</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+165-eap@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1910-08-20">1910-08-20</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-ʿAṣr al-Jadīd</cell>
+                    <cell>Tripoli</cell>
+                    <cell n="5">weekly newspaper was established in Tripoli by <persName>Muḥammad ʿAlī Efendi al-Bārūdī</persName></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+165-eap@2"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
