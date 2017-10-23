@@ -482,14 +482,13 @@
                     <cell n="9"/>
                 </row>
                 <row n="29" role="data">
-                    <cell n="1">
-                        <date when="1882-07-15">1882-07-15</date>
-                    </cell>
+                    <cell n="1"> <date when="1882-07-18">1882-07-18</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">a number / all newspapers</cell>
-                    <cell/>
-                    <cell n="5">For news from Alexandria</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5"
+                        >For news from Alexandria that stir the minds of the people (<foreign>takhdīsh adhḥan al-ahālī</foreign>)</cell>
                     <cell n="6">
                         <ref target="lisan+487 bashir+619a thamarat+391" type="SenteCitationID">Bashīr 20 Jul 1882 (#619), Lisān 24 Jul 1882 (#487), Thamarāt 24 Jul 1882 (#391)</ref>
                     </cell>
@@ -515,14 +514,13 @@
                     <cell n="9"/>
                 </row>
                 <row n="31" role="data">
-                    <cell n="1">
-                        <date when="1882-07-24">1882-07-24</date>
-                    </cell>
+                    <cell n="1"> <date when="1882-07-19">1882-07-19</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Janna</cell>
                     <cell>Beirut</cell>
-                    <cell n="5">False news about evens in Alexandria</cell>
+                    <cell n="5"
+                        >False news about evens in Alexandria that stirred the minds of people in Syria (<foreign>takhdīsh adhhan fī Sūriyya</foreign>)</cell>
                     <cell n="6">
                         <ref target="bashir+619a thamarat+391 lisan+487" type="SenteCitationID">Bashīr 20 Jul 1882 (#619), Thamarāt 24 Jul 1882 (#391), Lisān 24 Jul 1882 (#487)</ref>
                     </cell>
@@ -1049,9 +1047,7 @@
                     <cell n="9"/>
                 </row>
                 <row n="63" role="data">
-                    <cell n="1">
-                        <date when="1888-04-02">1888-04-02</date>
-                    </cell>
+                    <cell n="1"> <date when="1888-03-29">1888-03-29</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Bashīr</cell>
@@ -1618,12 +1614,11 @@
                     </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
-                    <cell n="4">Jarīdat Lubān</cell>
-                    <cell/>
+                    <cell n="4"> Lubān</cell>
+                    <cell>Baʿbdā</cell>
                     <cell n="5">Permit to recommence publication</cell>
-                    <cell n="6">
-                        <ref target="thamarat+1021b" type="SenteCitationID">Thamarāt 18 Mar 1895 (#1021)</ref>
-                    </cell>
+                    <cell n="6"> <ref target="thamarat+1021b@2" type="SenteCitationID"
+                        >Thamarāt 18 Mar 1895 (#1021)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2898,16 +2893,14 @@
                     <cell n="9"/>
                 </row>
                 <row n="183" role="data">
-                    <cell n="1">
-                        <date when="1907-12-03">1907-12-03</date>
-                    </cell>
+                    <cell n="1"> <date when="1907-12-03">1907-12-16</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">al-Maḥabba</cell>
                     <cell>Beirut</cell>
                     <cell n="5">Violation of the basic principle of the Press Law. al-Maḥabba resumed publication after a month</cell>
-                    <cell n="6">
-                        <ref target="thamarat+1653a" type="SenteCitationID">Thamarāt 23 Dec 1907 (#1653)</ref>, Iq 227:6 </cell>
+                    <cell n="6"> <ref target="thamarat+1653a@4" type="SenteCitationID"
+                        >Thamarāt 23 Dec 1907 (#1653)</ref>, Iq 227:6 </cell>
                     <cell n="7">20 days</cell>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2938,8 +2931,8 @@
                     <cell n="4">Bayrūt, private</cell>
                     <cell>Beirut</cell>
                     <cell n="5">Disregarding the censor's warning in #1504 </cell>
-                    <cell n="6">
-                        <ref target="thamarat+1660a" type="SenteCitationID">Thamarāt 23 Feb 1908 (#1660)</ref>, Iq 236:5 </cell>
+                    <cell n="6"> <ref type="SenteCitationID" target="thamarat+1660a@5"
+                        >Thamarāt 23 Feb 1908 (#1660)</ref>, Iq 236:5 </cell>
                     <cell n="7">20 days</cell>
                     <cell n="8"/>
                     <cell n="9"/>
