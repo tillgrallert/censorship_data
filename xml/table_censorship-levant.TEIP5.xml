@@ -1251,7 +1251,7 @@
                     <cell n="9"/>
                 </row>
                 <row role="data" n="98">
-                    <cell n="1"> <date when="1894-04-30">1894-04-30</date> </cell>
+                    <cell n="1"> <date when="1894-04-26">1894-04-26</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl</cell>
@@ -1264,7 +1264,7 @@
                     <cell n="9"/>
                 </row>
                 <row role="data" n="99">
-                    <cell n="1"> <date when="1894-05-21">1894-05-21</date> </cell>
+                    <cell n="1"> <date when="1894-05-15">1894-05-15</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Thamarāt al-Funūn</cell>
@@ -2342,8 +2342,10 @@
                     <cell n="4">Mawārid al-Ḥikma</cell>
                     <cell>Damascus </cell>
                     <cell n="5"
-                        >Permit was given to publish the newspaper Mawārid al-Ḥikma in Damascus</cell>
-                    <cell n="6"> <ref type="SenteCitationID" target="BoaYaRes15114+1907"
+                        >Permit was given to <persName>ʿAbd al-Qādir Badrān</persName> to publish the weekly newspaper <title
+                        level="j">Mawārid al-Ḥikma</title> in Damascus</cell>
+                    <cell n="6"> <ref type="SenteCitationID"
+                        target="BoaYaRes15114+1907 BoaDhMkt12046+1907 BoaDhMkt128018+1908"
                         >BOA YA Res 151/14, 23 Nov 1907</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -3068,6 +3070,32 @@
                     <cell n="9"/>
                 </row>
                 <row>
+                    <cell n="1">1911-04-29</cell>
+                    <cell n="2">BI</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Jarīda al-Adabiyya</cell>
+                    <cell>Egypt</cell>
+                    <cell n="5"
+                        >Council of ministers banned the import into the Ottoman Empire</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+257-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1">1911-04-29</cell>
+                    <cell n="2">BI</cell>
+                    <cell n="3"/>
+                    <cell n="4">Shams</cell>
+                    <cell>Egypt</cell>
+                    <cell n="5"
+                        >Council of ministers banned the import into the Ottoman Empire</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+257-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"><date when="1911-05-30">1911-05-30</date></cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -3260,13 +3288,15 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1"><date when="1912-09-09">1912-09-09</date></cell>
-                    <cell n="2">S</cell>
+                    <cell n="1"><date notBefore="1909-05-01" notAfter="1909-09-09"
+                        >1912, summer</date></cell>
+                    <cell n="2">Trial</cell>
                     <cell n="3"/>
                     <cell n="4">Baradā</cell>
                     <cell>Damascus </cell>
-                    <cell n="5">Ban to enforce the publication of compliant articles</cell>
-                    <cell n="6"><ref target="BoaBeo4082306107Şamda+1912"/></cell>
+                    <cell n="5"
+                        >Ban to enforce the publication of compliant articles. Life imprisonment for the responsible editor <persName>Fahmī Efendi Ghazzī</persName></cell>
+                    <cell n="6"><ref target="Devey+1912g BoaBeo4082306107Şamda+1912"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
