@@ -101,10 +101,10 @@
                     <cell n="4">Dimashq 
                         <ref target="#fnText2" type="noteAnchor">T</ref></cell>
                     <cell>Damascus </cell>
-                    <cell n="5">Aḥmad ʿIzzat Bey and Aḥmad ʿArafī Bey obtain the official permit to publish a weekly (Wednesday) in Damascus.</cell>
-                    <cell n="6">
-                        <ref target="bashir+383" type="SenteCitationID">Bashīr 11 Jan 1878 (#383)</ref>
-                    </cell>
+                    <cell n="5"
+                        >Aḥmad ʿIzzat Bey and Aḥmad ʿArafī Bey obtain the official permit to publish a bilingual weekly (Wednesday) in Damascus.</cell>
+                    <cell n="6"> <ref target="bashir+383 thamarat-3-141@4" type="SenteCitationID"
+                        >Bashīr 11 Jan 1878 (#383)</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
