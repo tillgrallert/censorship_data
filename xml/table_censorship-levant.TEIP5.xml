@@ -4173,6 +4173,19 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date when="1910-10-22">1910-10-22</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Muqtabas</cell>
+                    <cell>Damascus </cell>
+                    <cell n="5"
+                        >Aḥmad Kurd ʿAlī, the responsible editor of al-Muqtabas, was sentenced to one month imprisonment and the payment of £T 5 for the publication of fabricated news</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="qabas+11-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="233" role="data">
                     <cell n="1">
                         <date notAfter="1913-11-30" notBefore="1913-11-01">1913-11-01</date>
@@ -4270,7 +4283,7 @@
                     <cell n="3"/>
                     <cell n="4">Filasṭīn</cell>
                     <cell>Jaffa</cell>
-                    <cell n="5">Trial of the owner cam to a conclusion</cell>
+                    <cell n="5">Trial of the owner came to a conclusion</cell>
                     <cell n="6">
                         <ref target="qabas+27-eap@2" type="SenteCitationID"/>
                     </cell>
