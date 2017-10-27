@@ -3761,11 +3761,11 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1">1911-04-29</cell>
+                    <cell n="1"><date when="1911-04-29">1911-04-29</date></cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
                     <cell n="4">al-Jarīda al-Adabiyya</cell>
-                    <cell>Egypt</cell>
+                    <cell>USA</cell>
                     <cell n="5">Council of ministers banned the import into the Ottoman Empire</cell>
                     <cell n="6">
                         <ref target="muqtabas+257-eap@3" type="SenteCitationID"/>
@@ -3775,7 +3775,7 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1">1911-04-29</cell>
+                    <cell n="1"><date when="1911-04-29">1911-04-29</date></cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
                     <cell n="4">Shams</cell>
@@ -3803,6 +3803,18 @@
                     <cell n="6">
                         <ref target="muqtabas+263-eap@2" type="SenteCitationID"/>
                     </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-06-11">1911-06-11</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">Ḥaṭṭ bi-l-Kharaj</cell>
+                    <cell>?</cell>
+                    <cell n="5"><persName>Ḥilmī Efendi al-Fatiyānī</persName>, responsible director of "<title level="j">Ḥaṭṭ bi-l-Kharaj</title>", informed us that the judiciary of Damascus indicted <persName>ʿĀrif Efendi al-Habl</persName>, the owner of said paper and ordered him to leave the province. the MoJ etc. decided that local authorities have no authority in this matter</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+266-eap@3"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -3880,7 +3892,7 @@
                     <cell n="1">
                         <date when="1911-10-21">1911-10-21</date>
                     </cell>
-                    <cell n="2">S</cell>
+                    <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Iṣlāḥāt</cell>
                     <cell>?</cell>
@@ -4135,6 +4147,19 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1">1913-09-06</cell>
+                    <cell n="2">PI</cell>
+                    <cell n="3"/>
+                    <cell n="4">banned papers</cell>
+                    <cell/>
+                    <cell n="5"
+                        >The province of Beirut allowed the import of hitherto banned papers</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+613-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="231" role="data">
                     <cell n="1">
                         <date when="1913-09-25">1913-09-25</date>
@@ -4174,7 +4199,7 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1"><date when="1910-10-22">1910-10-22</date></cell>
+                    <cell n="1"><date when="1913-10-22">1913-10-22</date></cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
                     <cell n="4">al-Muqtabas</cell>
