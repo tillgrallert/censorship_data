@@ -196,10 +196,20 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date when="1877-12-27">1877-12-27</date></cell>
+                    <cell n="2">BI</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ahrām</cell>
+                    <cell>Jerusalem</cell>
+                    <cell n="5">Ban import of al-Ahrām into Jerusalem</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-3-139@4"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="6" role="data">
-                    <cell n="1">
-                        <date when="1878-01-11">1878-01-11</date>
-                    </cell>
+                    <cell n="1"> <date when="1878-01-10">1878-01-10</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Dimashq 
@@ -212,6 +222,31 @@
                                xmlns:html="http://www.w3.org/1999/xhtml">Bashīr 11 Jan 1878 (#383)</tei:bibl>
                   </ref> 
                </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1878-01-31">1878-01-31</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ḥaqīqa</cell>
+                    <cell>?</cell>
+                    <cell n="5"
+                        >Indefinetly banned from publication for some expressions concerning the Tsar of Russia</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-3-144@4"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1878-02-07">1878-02-07</date></cell>
+                    <cell n="2">W</cell>
+                    <cell n="3"/>
+                    <cell n="4">all newspapers</cell>
+                    <cell>Ottoman Empire </cell>
+                    <cell n="5">Warning to all newspapers  to denounce Russia with one voice</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-3-145@2"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
