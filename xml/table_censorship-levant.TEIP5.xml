@@ -10910,7 +10910,7 @@
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5"
                         >Publishing uncensored material, changing words and substituting sentences in the approved draft</cell>
-                    <cell n="6"> <ref target="tf-oib+1234" type="SenteCitationID"> <tei:bibl
+                    <cell n="6"> <ref target="tf-oib+1234@4" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Thamarāt 12 Jun 1899 (#1234)</tei:bibl> </ref> </cell>
@@ -10937,7 +10937,7 @@
                     <cell n="4">al-Maḥabba</cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Publishing deleted articles, starting forbidden controversies</cell>
-                    <cell n="6"> <ref target="tf-oib+1235" type="SenteCitationID"> <tei:bibl
+                    <cell n="6"> <ref target="tf-oib+1235@5" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Thamarāt 19 Jun 1899 (#1235)</tei:bibl> </ref> </cell>
