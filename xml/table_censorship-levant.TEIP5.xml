@@ -3050,6 +3050,19 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date from="1882-09-05" to="1882-10-02">1882-09-05</date></cell>
+                    <cell n="2">Gap</cell>
+                    <cell n="3"/>
+                    <cell n="4">Thamarāt al-Funūn </cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">One month gap in publication between #396 and #397</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-8-396 thamarat-8-397"
+                        /></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <tei:row role="data">
                     <tei:cell> <date type="start" when="1882-12-25" xml:lang="en">1882-12-25</date> </tei:cell>
                     <tei:cell>P</tei:cell>
@@ -12330,7 +12343,7 @@
                     <cell n="1"><date notAfter="1901-07-01">1901-07-01</date></cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
-                    <cell n="4">Abī al-Hūl</cell>
+                    <cell n="4">Abū al-Hawl</cell>
                     <cell>?</cell>
                     <cell n="5"
                         >republished after suspension, #1 of vol.8 arrived at Thamarāt al-Funūn </cell>
