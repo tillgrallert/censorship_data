@@ -12697,7 +12697,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">Some newspapers <ref target="#fnText2" type="noteAnchor">T</ref> </cell>
-                    <cell/>
+                    <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Publication of articles without authorisation</cell>
                     <cell n="6"> <ref target="bashir+1633" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
@@ -12863,7 +12863,14 @@
                     <cell n="4">al-Aḥwāl</cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Publication of uncensored phrases</cell>
-                    <cell n="6">TF 1499:4, Iq 73:6</cell>
+                    <cell n="6">TF 1499:4, Iq 73:6, <ref target="bashir+1680 lisan+4736"
+                        type="SenteCitationID"> <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        >Lisān 17 Dec 1904 (#4736)</tei:bibl>, <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        >Bashīr 19 Dec 1904 (#1680)</tei:bibl> </ref></cell>
                     <cell n="7">1 month</cell>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -12915,8 +12922,11 @@
                     <cell n="4">Ṭarāblus al-Shām</cell>
                     <cell/>
                     <cell n="5">For an unnamed reason</cell>
-                    <cell n="6">TF 1506:5, Iq 83:6</cell>
-                    <cell n="7">1 month</cell>
+                    <cell n="6"><ref target="tf-oib+1506@5" type="SenteCitationID"> <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        >Thamarāt 3 Apr 1905 (#1506)</tei:bibl> </ref>, Iq 83:6</cell>
+                    <cell n="7">1 month, de facto 3 months</cell>
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
@@ -12943,7 +12953,7 @@
                     <cell n="4">Ṭarāblus al-Shām <ref target="#fnText2" type="noteAnchor">T</ref> </cell>
                     <cell/>
                     <cell n="5">Permit to resume publication</cell>
-                    <cell n="6"> <ref target="tf-oib+1506" type="SenteCitationID"> <tei:bibl
+                    <cell n="6"> <ref target="tf-oib+1506@5" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Thamarāt 3 Apr 1905 (#1506)</tei:bibl> </ref> </cell>
