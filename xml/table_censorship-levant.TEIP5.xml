@@ -13106,8 +13106,8 @@
                     <cell>Constantinople </cell>
                     <cell n="5"
                         >First Arabic-Ottoman newspaper after the restoration of the constitution</cell>
-                    <cell n="6"> <ref target="iqbal+35-261@7" type="SenteCitationID"> <tei:bibl
-                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                    <cell n="6"> <ref target="iqbal+35-261@7 tf-oib+1686@5" type="SenteCitationID">
+                        <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Iqbāl 24 Aug 1908 (#261):7</tei:bibl> </ref> </cell>
                     <cell n="7"/>
@@ -13119,7 +13119,7 @@
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">al-Qusṭān</cell>
-                    <cell>? </cell>
+                    <cell>Constantinople</cell>
                     <cell n="5">Received first issue in <placeName>Beirut</placeName></cell>
                     <cell n="6"> <ref target="iqbal+35-261@7" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
@@ -13189,7 +13189,8 @@
                     <cell n="6"> <ref target="thamarat+1691a@4" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
-                        >Thamarāt 21 Sep 1908 (#1691):4</tei:bibl> </ref> </cell>
+                        >Thamarāt 21 Sep 1908 (#1691):4</tei:bibl> </ref><ref type="SenteCitationID"
+                        target="tf-oib+1686@5"/> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -13445,6 +13446,33 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date notAfter="1909-06-28">1909-06-28</date></cell>
+                    <cell n="2">BI</cell>
+                    <cell n="3"/>
+                    <cell n="4">Nahḍa al-ʿArab</cell>
+                    <cell>Ottoman Empire</cell>
+                    <cell n="5">The newspaper <title level="j"
+                        >Nahḍa al-ʿArab</title> from Paris is banned from import. Yet, newspapers continue to quote from this paper.</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="bashir+1917a@3"/>, <ref
+                        type="SenteCitationID" target="bashir+1931a@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1909-08-30">1909-08-30</date></cell>
+                    <cell n="2">BI</cell>
+                    <cell n="3"/>
+                    <cell n="4">Ser Basti</cell>
+                    <cell>Ottoman Empire </cell>
+                    <cell n="5">The newspaper <title level="j"
+                        >Ser Basti</title> from Paris is banned from import</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="bashir+1926b@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="210" role="data">
                     <cell n="1"> <date when="1909-07-17">1909-07-17</date> </cell>
                     <cell n="2">P</cell>
@@ -13492,7 +13520,8 @@
                     <cell n="3">yes</cell>
                     <cell n="4">al-Muqtabas</cell>
                     <cell><placeName>Damascus</placeName></cell>
-                    <cell n="5">For publishing a treasonous article </cell>
+                    <cell n="5"
+                        >For publishing a treasonous article. This also resulted in a Trial of Muḥammad Kurd ʿAlī. He was acquitted in late December</cell>
                     <cell n="6"> <ref target="lisan+6123 lisan+6141 Devey+1910 Devey+1909a"
                         type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
@@ -13535,6 +13564,19 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date notAfter="1909-10-09">1909-10-09</date></cell>
+                    <cell n="2">BI</cell>
+                    <cell n="3"/>
+                    <cell n="4">Güneş</cell>
+                    <cell>Ottoman Empire </cell>
+                    <cell n="5"
+                        >The paper from Falba is banned from import with reference to Art. 35 of the printing law</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="bashir+1932@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="217" role="data">
                     <cell n="1"> <date when="1909-11-04">1909-11-04</date> </cell>
                     <cell n="2">PR</cell>
@@ -13560,6 +13602,19 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date notAfter="1909-11-20">1909-11-20</date></cell>
+                    <cell n="2">BI</cell>
+                    <cell n="3"/>
+                    <cell n="4">Mashrūṭiyāt</cell>
+                    <cell>Ottoman Empire </cell>
+                    <cell n="5"
+                        >The paper from Paris is banned from import with reference to Art. 35 of the printing law</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="bashir+1938@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="219" role="data">
                     <cell n="1"> <date when="1909-12-24">1909-12-24</date> </cell>
                     <cell n="2">P</cell>
@@ -13572,6 +13627,32 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Bashīr 24 Dec 1909 (#1943)</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1909-12-31">1909-12-31</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">Lisān al-Ḥāl</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5"
+                        >Public prosecutor filed charges for having published false corruption claims</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="bashir+1944@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1909-12-31">1909-12-31</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ittiḥād al-ʿUthmānī</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5"
+                        >Public prosecutor filed charges for having published false corruption claims</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="bashir+1944@2"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -13614,6 +13695,18 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date notAfter="1910-06-06">1910-06-06</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ḥikma</cell>
+                    <cell>Mt. Lebanon</cell>
+                    <cell n="5"/>
+                    <cell n="6"><ref type="SenteCitationID" target="iqbal+9-350@5"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="221" role="data">
                     <cell n="1"> <date when="1910-06-11">1910-06-11</date> </cell>
                     <cell n="2">RP</cell>
@@ -13632,6 +13725,20 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"> 21 Jun 1910 (#402)</tei:bibl>
                         </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1910-06-13">1910-06-13</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-ʿArab</cell>
+                    <cell>Constantinople</cell>
+                    <cell n="5"
+                        >Lisān al-Ḥāl reported the paper was shut down while al-Iqbāl wrote it received #18 in the mail</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="iqbal+9-351@7 lisan+6351@2"
+                        /></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -13672,11 +13779,11 @@
                 </row>
                 <row>
                     <cell n="1"> <date when="1910-07-11">1910-07-11</date> </cell>
-                    <cell n="2">PR</cell>
+                    <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">Kursī-yi milel</cell>
                     <cell>?</cell>
-                    <cell n="5">Permit for republication</cell>
+                    <cell n="5">Suspended for an offensive article</cell>
                     <cell n="6"> <ref target="iqbal+9-355@5" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
@@ -13744,7 +13851,8 @@
                     <cell n="5">the province of Aleppo arrested the director of the newspaper <title
                         level="j"
                         >al-Ahālī</title> , <persName>Muṣṭafā ʿĀṣim Bey</persName> , on accusations of owning some banned newspapers published by Sharīf Pasha from Paris</cell>
-                    <cell n="6"> <ref target="muqtabas+165-eap@2 bashir+1980@3 bashir+1979b@3"
+                    <cell n="6"> <ref
+                        target="muqtabas+165-eap@2 bashir+1980@3 bashir+1979b@3 bashir+1977a@3 ittihad+593@2"
                         type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
@@ -13766,7 +13874,8 @@
                     <cell n="4">al-Nafīr</cell>
                     <cell><placeName>Jerusalem</placeName></cell>
                     <cell n="5">the owner of <title level="j">al-Nafīr</title> is in prison</cell>
-                    <cell n="6"> <ref target="al-quds-2-174@2" type="SenteCitationID"> <tei:bibl
+                    <cell n="6"> <ref target="al-quds-2-174@2 al-quds-2-173@3"
+                        type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >al-Quds: Jarīda ʿilmiyya adabiyya akhbāriyya 2 Sep 1910 (#174):2</tei:bibl>
@@ -13835,7 +13944,8 @@
                         >the bidāya penal court issued the verdict in the trial of the concessionary of <title
                         level="j"
                         >al-aḥwāl</title> : one week detention and a penalty payment of £T 10</cell>
-                    <cell n="6"> <ref target="muqtabas+188-eap@2" type="SenteCitationID"> <tei:bibl
+                    <cell n="6"> <ref target="muqtabas+188-eap@2 iqbal+9-366@5"
+                        type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Muqtabas (j) 24 Sep 1910 (#482):2</tei:bibl> </ref> </cell>
@@ -13870,6 +13980,18 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Iqbāl 26 Sep 1910 (#366):5</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1911-03-14">1911-03-14</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ḥuqūq</cell>
+                    <cell>Baʿbdā</cell>
+                    <cell n="5">legal journal</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="al-quds-3-222@4"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -13940,11 +14062,11 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1"> <date when="1911-06-11">1911-06-11</date> </cell>
+                    <cell n="1"> <date when="1911-06-06">1911-06-06</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
                     <cell n="4">Ḥaṭṭ bi-l-Kharaj</cell>
-                    <cell>?</cell>
+                    <cell>Damascus</cell>
                     <cell n="5">
                         <persName>Ḥilmī Efendi al-Fatiyānī</persName>, responsible director of "<title
                         level="j"
