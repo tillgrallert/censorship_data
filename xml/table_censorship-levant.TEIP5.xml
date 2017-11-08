@@ -1117,7 +1117,32 @@
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Thamarāt al-Funūn</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Beirut</placeName> </tei:cell>
                     <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="thamarat-oib-1-1"
+                        /></tei:cell>
+                    <tei:cell/>
+                    <tei:cell/>
+                    <tei:cell/>
+                </tei:row>
+                <tei:row>
+                    <tei:cell><date notAfter="1875-10-05">1875-10-05</date></tei:cell>
+                    <tei:cell>RP</tei:cell>
+                    <tei:cell/>
+                    <tei:cell>al-Janna</tei:cell>
+                    <tei:cell>Beirut</tei:cell>
+                    <tei:cell>Republished after an unspecified period</tei:cell>
+                    <tei:cell><ref type="SenteCitationID" target="thamarat-oib-1-25@4"/></tei:cell>
+                    <tei:cell/>
+                    <tei:cell/>
+                    <tei:cell/>
+                </tei:row>
+                <tei:row>
+                    <tei:cell><date notAfter="1875-10-05">1875-10-05</date></tei:cell>
+                    <tei:cell>RP</tei:cell>
+                    <tei:cell/>
+                    <tei:cell>al-Taqaddum</tei:cell>
+                    <tei:cell>Beirut</tei:cell>
+                    <tei:cell>Republished 2 months. No explanation</tei:cell>
+                    <tei:cell><ref type="SenteCitationID" target="thamarat-oib-1-25@4"/></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -1168,7 +1193,7 @@
                     <cell n="4">al-Bashīr</cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Orders from Constantinople to cease publication of al-Bashīr</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="thamarat-2-59@4"/></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-oib-2-59@4"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1182,7 +1207,7 @@
                     <cell n="5"
                         >Ceased publication until May 1877 due to a lack of subscribers</cell>
                     <cell n="6"><ref type="SenteCitationID"
-                        target="thamarat-2-62@4 thamarat-3-110@4"/></cell>
+                        target="thamarat-oib-2-62@4 thamarat-oib-3-110@4"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1341,7 +1366,7 @@
                     <cell n="4">al-Shahbāʾ</cell>
                     <cell><placeName>Aleppo</placeName></cell>
                     <cell n="5">New weekly newspaper in <placeName>Aleppo</placeName></cell>
-                    <cell n="6"><ref type="SenteCitationID" target="thamarat-3-109@4"/></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-oib-3-109@4"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1354,7 +1379,7 @@
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5"
                         >Ceased publication until May 1877 due to a lack of subscribers</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="thamarat-3-110@4"/></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-oib-3-110@4"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1366,7 +1391,7 @@
                     <cell n="4">al-Shahbāʾ</cell>
                     <cell><placeName>Aleppo</placeName></cell>
                     <cell n="5">Authorities banned the publication of al-Shahbāʾ</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="thamarat-3-111@4"/></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-oib-3-111@4"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1465,7 +1490,7 @@
                     <cell n="4">al-Shahbāʾ</cell>
                     <cell><placeName>Aleppo</placeName></cell>
                     <cell n="5"/>
-                    <cell n="6"><ref type="SenteCitationID" target="thamarat-3-138@4"/></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-oib-3-138@4"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1477,7 +1502,7 @@
                     <cell n="4">al-Ahrām</cell>
                     <cell><placeName>Jerusalem</placeName></cell>
                     <cell n="5">Ban import of al-Ahrām into <placeName>Jerusalem</placeName></cell>
-                    <cell n="6"><ref type="SenteCitationID" target="thamarat-3-139@4"/></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-oib-3-139@4"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1496,13 +1521,15 @@
                     <tei:cell/>
                 </tei:row>
                 <tei:row role="data">
-                    <tei:cell> <date type="start" when="1878" xml:lang="en">1878</date> </tei:cell>
+                    <tei:cell> <date type="start" when="1878" xml:lang="en" notAfter="1878-06-13"
+                        >1878-06-13</date> </tei:cell>
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Iskandariyya</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Alexandria</placeName> </tei:cell>
                     <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="thamarat-oib-4-163@4"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -1521,13 +1548,15 @@
                     <tei:cell/>
                 </tei:row>
                 <tei:row role="data">
-                    <tei:cell> <date type="start" when="1878" xml:lang="en">1878</date> </tei:cell>
+                    <tei:cell> <date type="start" when="1878" xml:lang="en" notAfter="1878-06-13"
+                        >1878-06-13</date> </tei:cell>
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
-                    <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Taqaddum</title> </tei:cell>
+                    <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">al-Taqaddum</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Beirut</placeName> </tei:cell>
-                    <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>al-Taqaddum is published with a new layout</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="thamarat-oib-4-163@4"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -1643,8 +1672,8 @@
                     <cell><placeName>Damascus</placeName></cell>
                     <cell n="5"
                         >Aḥmad ʿIzzat Bey and Aḥmad ʿArafī Bey obtain the official permit to publish a bilingual weekly (Wednesday) in Damascus.</cell>
-                    <cell n="6"> <ref target="bashir+383 thamarat-3-141@4" type="SenteCitationID"
-                        >{thamarat-3-141@4 **not found** }, <tei:bibl
+                    <cell n="6"> <ref target="bashir+383 thamarat-oib-3-141@4" type="SenteCitationID"
+                        >{thamarat-oib-3-141@4 **not found** }, <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Bashīr 11 Jan 1878 (#383)</tei:bibl> </ref> </cell>
@@ -1660,7 +1689,7 @@
                     <cell>?</cell>
                     <cell n="5"
                         >Indefinetly banned from publication for some expressions concerning the Tsar of Russia</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="thamarat-3-144@4"/></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-oib-3-144@4"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -1672,7 +1701,7 @@
                     <cell n="4">all newspapers</cell>
                     <cell>Ottoman Empire </cell>
                     <cell n="5">Warning to all newspapers to denounce Russia with one voice</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="thamarat-3-145@2"/></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-oib-3-145@2"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2721,7 +2750,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum <ref target="#fnText2" type="noteAnchor">T</ref> </cell>
-                    <cell><placeName>Aleppo</placeName></cell>
+                    <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">No reason provided</cell>
                     <cell n="6"> <ref target="lisan+420" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
@@ -2736,7 +2765,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum</cell>
-                    <cell><placeName>Aleppo</placeName></cell>
+                    <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Insult to the sultan</cell>
                     <cell n="6"> <ref target="thamarat+358" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
@@ -2947,7 +2976,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum</cell>
-                    <cell><placeName>Aleppo</placeName></cell>
+                    <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">insulting the Druze community in #123</cell>
                     <cell n="6"> <ref target="thamarat+387a lisan+493d" type="SenteCitationID">
                         <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
@@ -3039,7 +3068,7 @@
                     <cell n="2">S</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum <ref target="#fnText2" type="noteAnchor">T</ref> </cell>
-                    <cell><placeName>Aleppo</placeName></cell>
+                    <cell><placeName>Beirut</placeName></cell>
                     <cell n="5"
                         >insulting the Druze community, repeated punishment, imperial order</cell>
                     <cell n="6"> <ref target="lisan+493d" type="SenteCitationID"> <tei:bibl
@@ -3057,7 +3086,7 @@
                     <cell n="4">Thamarāt al-Funūn </cell>
                     <cell>Beirut</cell>
                     <cell n="5">One month gap in publication between #396 and #397</cell>
-                    <cell n="6"><ref type="SenteCitationID" target="thamarat-8-396 thamarat-8-397"
+                    <cell n="6"><ref type="SenteCitationID" target="thamarat-oib-8-396 thamarat-oib-8-397"
                         /></cell>
                     <cell n="7"/>
                     <cell n="8"/>
@@ -3205,7 +3234,7 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum <ref target="#fnText2" type="noteAnchor">T</ref> </cell>
-                    <cell><placeName>Aleppo</placeName></cell>
+                    <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">false reports on the cordon sanitaire around Beirut in #83</cell>
                     <cell n="6"> <ref target="lisan+599" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
@@ -3265,14 +3294,29 @@
                     <tei:cell/>
                 </tei:row>
                 <tei:row role="data">
-                    <tei:cell> <date type="start" notAfter="1884-04-30" notBefore="1884-04-01"
-                        xml:lang="en">1884</date> </tei:cell>
-                    <tei:cell>P</tei:cell>
+                    <tei:cell> <date type="start" notAfter="1884-02-14" notBefore="1884-04-01"
+                        xml:lang="en">1884-02-14</date> </tei:cell>
+                    <tei:cell>S</tei:cell>
+                    <tei:cell>yes</tei:cell>
+                    <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Maḥrūsa</title> </tei:cell>
+                    <tei:cell> <placeName xml:lang="en">Alexandria</placeName> </tei:cell>
+                    <tei:cell>al-Maḥrūsa received the permit to resume publication after a months-long suspension</tei:cell>
+                    <tei:cell><ref target="thamarat-oib-10-474@1" type="SenteCitationID"
+                        /></tei:cell>
+                    <tei:cell>several months</tei:cell>
+                    <tei:cell/>
+                    <tei:cell/>
+                </tei:row>
+                <tei:row role="data">
+                    <tei:cell> <date type="start" notAfter="1884-04-14" notBefore="1884-04-01"
+                        xml:lang="en">1884-04-14</date> </tei:cell>
+                    <tei:cell>PR</tei:cell>
                     <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Maḥrūsa</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Alexandria</placeName> </tei:cell>
-                    <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>al-Maḥrūsa received the permit to resume publication after a months-long suspension</tei:cell>
+                    <tei:cell>Jaraid, <ref target="thamarat-oib-10-474@1" type="SenteCitationID"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -3429,10 +3473,12 @@
                     <cell n="2">W</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum</cell>
-                    <cell><placeName>Aleppo</placeName></cell>
-                    <cell n="5">Upsetting news. over article in #122</cell>
-                    <cell n="6"> <ref target="thamarat+474 lisan+663" type="SenteCitationID">
-                        <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                    <cell><placeName>Beirut</placeName></cell>
+                    <cell n="5"
+                        >Upsetting news <foreign>takhdīsh al-adhhān</foreign>. over article in #122</cell>
+                    <cell n="6"> <ref target="thamarat-oib-10-474@1 lisan+663"
+                        type="SenteCitationID"> <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Lisān 3 Apr 1884 (#663)</tei:bibl>, <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
@@ -4499,7 +4545,7 @@
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
                     <cell n="4">al-Taqaddum</cell>
-                    <cell><placeName>Aleppo</placeName></cell>
+                    <cell><placeName>Beirut</placeName></cell>
                     <cell n="5"
                         >False news that incited the people (<foreign>tahyīj al-afkār</foreign>) to riot</cell>
                     <cell n="6"> <ref target="tf-oib+669" type="SenteCitationID"> <tei:bibl
@@ -4528,7 +4574,7 @@
                     <cell n="2">RP</cell>
                     <cell n="3"/>
                     <cell n="4">al-Taqaddum</cell>
-                    <cell><placeName>Aleppo</placeName></cell>
+                    <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Resumed publication</cell>
                     <cell n="6"> <ref target="tf-oib+674" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
@@ -14048,12 +14094,13 @@
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
                     <cell n="4">al-Naṣīr</cell>
-                    <cell>?</cell>
+                    <cell>Beirut</cell>
                     <cell n="5">
                         <persName>Jirjī Efendi ʿAwaḍ</persName>, director of the newspaper <title
                         level="j"
                         >al-Naṣīr</title> , was sentenced to six months imprisonment for publishing this newspaper in contravention of the law</cell>
-                    <cell n="6"> <ref target="muqtabas+263-eap@2" type="SenteCitationID"> <tei:bibl
+                    <cell n="6"> <ref target="muqtabas+263-eap@2 muqtabas+339-eap@3"
+                        type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Muqtabas (j) 30 May 1911 (#690):2</tei:bibl> </ref> </cell>
@@ -14092,6 +14139,78 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Muqtabas (j) 26 Jul 1911 (#738):2</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-10-19">1911-10-19</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ittiḥād al-ʿUthmānī</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5"/>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+339-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-10-19">1911-10-19</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Balāgh</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">lies</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+339-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-10-19">1911-10-19</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Thabāt</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5"><foreign>tashwīsh al-afkār</foreign></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+339-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-10-19">1911-10-19</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Rafāʾīl al-Faransawiyya</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">Accused of lies and false news</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+339-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-10-19">1911-10-19</date></cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Raʾī al-ʿĀmm</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">Accused of lies and false news</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+339-eap@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1911-10-19">1911-10-19</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ḥāris</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5"><foreign>tashwīsh al-adhhān</foreign></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+339-eap@3"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -14166,6 +14285,30 @@
                     <cell n="9"/>
                 </row>
                 <row>
+                    <cell n="1"><date notAfter="1911-10-28">1911-10-28</date></cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">Shahrāʾ</cell>
+                    <cell>?</cell>
+                    <cell n="5">the newspaper <title level="j">Shahrāʾ</title> published an article on the dīwān al-ḥarb al-ʿarafī and was subsequently banned from publication. The next day it was published under a new name: <title level="j">ʿalimdār</title></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+346-eap@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1911-10-28">1911-10-28</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">ʿAlimdār</cell>
+                    <cell>?</cell>
+                    <cell n="5">the newspaper <title level="j">Shahrāʾ</title> published an article on the dīwān al-ḥarb al-ʿarafī and was subsequently banned from publication. The next day it was published under a new name: <title level="j">ʿalimdār</title></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+346-eap@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"> <date notAfter="1909-09-09" notBefore="1909-05-01"
                         >1912, summer</date> </cell>
                     <cell n="2">Trial</cell>
@@ -14195,7 +14338,7 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Muqtabas (j) 8 Aug 1912 (#959)</tei:bibl> </ref> </cell>
-                    <cell>4</cell>
+                    <cell>4 months</cell>
                     <cell> <date when="1912-04-17">1912-04-17</date> </cell>
                     <cell> <date when="1912-08-08">1912-08-08</date> </cell>
                 </row>
