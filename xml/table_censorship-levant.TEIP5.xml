@@ -1592,18 +1592,6 @@
                     <tei:cell> <date type="start" when="1878" xml:lang="en">1878</date> </tei:cell>
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
-                    <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Dimashq</title> </tei:cell>
-                    <tei:cell> <placeName xml:lang="en">Damascus</placeName> </tei:cell>
-                    <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
-                    <tei:cell/>
-                    <tei:cell/>
-                    <tei:cell/>
-                </tei:row>
-                <tei:row role="data">
-                    <tei:cell> <date type="start" when="1878" xml:lang="en">1878</date> </tei:cell>
-                    <tei:cell>P</tei:cell>
-                    <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes"
                         >Le Bavard Egyptien</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Cairo</placeName> </tei:cell>
@@ -1977,10 +1965,11 @@
                     <tei:cell> <date type="start" when="1879-07-23" xml:lang="en">1879-07-23</date> </tei:cell>
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
-                    <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Salām</title> </tei:cell>
+                    <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes"
+                        >al-Salām (al-Bāriza)</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Istanbul</placeName> </tei:cell>
                     <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="bashir+466@4"/></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -1998,6 +1987,32 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
+                <row n="13" role="data">
+                    <cell n="1"> <date notAfter="1879-06-04">1879-06-04</date> </cell>
+                    <cell n="2">S</cell>
+                    <cell n="3"/>
+                    <cell n="4">Dimashq <ref target="#fnText2" type="noteAnchor">T</ref> </cell>
+                    <cell><placeName>Damascus</placeName></cell>
+                    <cell n="5"
+                        >permit to resume its publication in Arabic and Ottoman after being shut down for some months</cell>
+                    <cell n="6"> <ref type="SenteCitationID"
+                        target="lisan+181 thamarat+240 muqtataf+4:4 bashir+466@4 muqtataf+4:5@127">
+                        <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        >Lisān 4 Aug 1879 (#181)</tei:bibl>, <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        >Thamarāt 4 Aug 1879 (#240)</tei:bibl>, <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml">N.N., in <tei:emph
+                        xmlns="http://www.w3.org/1999/xhtml"
+                        xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                        style="font-style:italic">Muqtaṭaf</tei:emph>, 4(4), Sep 1879:116</tei:bibl>
+                        </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="13" role="data">
                     <cell n="1"> <date when="1879-08-04">1879-08-04</date> </cell>
                     <cell n="2">PR</cell>
@@ -3126,7 +3141,8 @@
                         >Al-Shām: Muḥāḍarāt wa Muqtaṭafāt</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Istanbul</placeName> </tei:cell>
                     <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="thamarat+415@4"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -3628,8 +3644,8 @@
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5"
                         >Najīb Efendi al-Bustānī received the permit to resume publication two months after the death of Salīm al-Bustānī</cell>
-                    <cell n="6"> <ref target="lisan+727" type="SenteCitationID"> <tei:bibl
-                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                    <cell n="6"> <ref target="lisan+727 jinan+15:19a@577-579" type="SenteCitationID"
+                        > <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Lisān 17 Nov 1884 (#727)</tei:bibl> </ref> </cell>
                     <cell n="7"/>
@@ -3644,8 +3660,8 @@
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5"
                         >Najīb Efendi al-Bustānī received the permit to resume publication two months after the death of Salīm al-Bustānī</cell>
-                    <cell n="6"> <ref target="lisan+727" type="SenteCitationID"> <tei:bibl
-                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                    <cell n="6"> <ref target="lisan+727 jinan+15:19a@577-579" type="SenteCitationID"
+                        > <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Lisān 17 Nov 1884 (#727)</tei:bibl> </ref> </cell>
                     <cell n="7">2 months</cell>
@@ -4017,7 +4033,7 @@
                     <tei:cell/>
                 </tei:row>
                 <tei:row role="data">
-                    <tei:cell> <date type="start" when="1886" xml:lang="en">1886</date> </tei:cell>
+                    <tei:cell> <date type="start" when="1886-10-25" xml:lang="en">1886-10-25</date> </tei:cell>
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Mirʾāt al-Akhlāq</title> </tei:cell>
@@ -5282,6 +5298,33 @@
                     <cell n="8"/>
                     <cell n="9"> <date when="1890-09-01">1890-09-01</date> </cell>
                 </row>
+                <row n="72" role="data">
+                    <cell n="1"> <date when="1890-09-15">1890-09-15</date> </cell>
+                    <cell n="2">PR</cell>
+                    <cell n="3">yes</cell>
+                    <cell n="4">al-Nashra al-Usbūʿiyya <ref target="#fnText2" type="noteAnchor"
+                        >T</ref> </cell>
+                    <cell><placeName>Beirut</placeName></cell>
+                    <cell n="5">For not having an <title level="j"
+                        >irāde</title> for publication and printing a telegram in #46 that was similarly reproduced by <title
+                        level="j"
+                        >Lisān al-Ḥāl</title> and others without objections from the censor. After eight months the paper got a new permit as a religious newspaper, henceforth prohibiting any political news</cell>
+                    <cell n="6"> <ref target="bashir+996a Jessup+1910@549-550"
+                        type="SenteCitationID"> <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        >Bashīr 15 Jan 1890 (#996)</tei:bibl>, <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml">Henry Harris Jessup, <tei:emph
+                        xmlns="http://www.w3.org/1999/xhtml"
+                        xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                        style="font-style:italic"
+                        >Fifty-Three Years in Syria</tei:emph>, Vol. II, (London, Edinburgh: Fleming h. Revell Company, 1910):549–50</tei:bibl>
+                        </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"> <date when="1890-09-01">1890-09-01</date> </cell>
+                </row>
                 <row n="73" role="data">
                     <cell n="1"> <date when="1890-03-12">1890-03-12</date> </cell>
                     <cell n="2">BI</cell>
@@ -5395,7 +5438,8 @@
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥuqūq</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Istanbul</placeName> </tei:cell>
                     <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="bashir+1011@1"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -8907,8 +8951,9 @@
                     <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Munāẓir</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Sao Paulo</placeName> </tei:cell>
-                    <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>The first two issues arrived in Beirut</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="tf-oib+1225@5"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -9648,7 +9693,7 @@
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Miṣr</title> </tei:cell>
-                    <tei:cell/>
+                    <tei:cell>Egypt</tei:cell>
                     <tei:cell/>
                     <tei:cell>Jaraid</tei:cell>
                     <tei:cell/>
@@ -9679,6 +9724,18 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
+                <tei:row>
+                    <tei:cell>1898-01-03</tei:cell>
+                    <tei:cell>P</tei:cell>
+                    <tei:cell/>
+                    <tei:cell>Ḍiyāʾ al-Albāb</tei:cell>
+                    <tei:cell>Mt. Lebanon</tei:cell>
+                    <tei:cell/>
+                    <tei:cell><ref type="SenteCitationID" target="tf-oib+1162@3"/></tei:cell>
+                    <tei:cell/>
+                    <tei:cell/>
+                    <tei:cell/>
+                </tei:row>
                 <tei:row role="data">
                     <tei:cell> <date type="start" when="1898-01-01" xml:lang="en">1898-01-01</date> </tei:cell>
                     <tei:cell>P</tei:cell>
@@ -9699,7 +9756,8 @@
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mashriq</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Beirut</placeName> </tei:cell>
                     <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="tf-oib+1164@3"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -9820,8 +9878,9 @@
                     <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Manār</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Cairo</placeName> </tei:cell>
-                    <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>First issue arrived in Cairo</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="tf-oib+1174@3"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -9858,7 +9917,8 @@
                         >Kevkeb-i Osmānī / al-Kawkab al-ʿUthmānī</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Istanbul</placeName> </tei:cell>
                     <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="tf-oib+1179@3"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -10009,26 +10069,15 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <row>
-                    <cell n="1"><date when="1898-05-21">1898-05-21</date></cell>
-                    <cell n="2">P</cell>
-                    <cell n="3"/>
-                    <cell n="4">al-ʿUthmānī</cell>
-                    <cell><placeName>Beirut</placeName></cell>
-                    <cell n="5"/>
-                    <cell n="6">Jaraid</cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
                 <tei:row role="data">
                     <tei:cell> <date type="start" when="1898-05-21" xml:lang="en">1898-05-21</date> </tei:cell>
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-ʿUthmānī</title> </tei:cell>
-                    <tei:cell> <placeName xml:lang="en">Beirut</placeName> </tei:cell>
-                    <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell> <placeName xml:lang="en">Alexandria</placeName> </tei:cell>
+                    <tei:cell>The first issue arrived in Beirut</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="tf-oib+1182@5"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -11160,8 +11209,9 @@
                     <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Āmāl</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Alexandria</placeName> </tei:cell>
-                    <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>As some issue had already arrived in Beirut in April, the publication date must be wrong</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="tf-oib+1227@6"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -11643,10 +11693,12 @@
                     <tei:cell> <date type="start" when="1900-01-02" xml:lang="en">1900-01-02</date> </tei:cell>
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
-                    <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Quds</title> </tei:cell>
+                    <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes"
+                        >Al-Quds (al-Sharīf)</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Cairo</placeName> </tei:cell>
-                    <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>First issue arrived in Beirut</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="tf-oib+1264@5"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -11659,7 +11711,8 @@
                         >Makārim al-Akhlāq al-Islāmiyya</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Cairo</placeName> </tei:cell>
                     <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
+                    <tei:cell>Jaraid, <ref type="SenteCitationID" target="tf-oib+1264@5"
+                        /></tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -11739,7 +11792,7 @@
                 </row>
                 <row n="125" role="data">
                     <cell n="1"> <date notAfter="1900-02-16">1900-02-16</date> </cell>
-                    <cell n="2">W</cell>
+                    <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">Ruġbet</cell>
                     <cell>Bulgaria</cell>
@@ -12921,6 +12974,18 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date when="1904-11-07">1904-11-07</date></cell>
+                    <cell n="2">PR</cell>
+                    <cell n="3"/>
+                    <cell n="4">Thamarāt al-Funūn</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">Resumed publication after 6 weeks ban</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="tf-oib+1499@4-5"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="173" role="data">
                     <cell n="1"> <date when="1904-11-14">1904-11-14</date> </cell>
                     <cell n="2">S</cell>
@@ -12942,7 +13007,7 @@
                     <cell n="9"> <date when="1905-02-26">1905-02-26</date> </cell>
                 </row>
                 <row n="174" role="data">
-                    <cell n="1"> <date when="1904-12-17">1904-12-17</date> </cell>
+                    <cell n="1"> <date when="1904-12-14">1904-12-14</date> </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
                     <cell n="4">al-Aḥwāl <ref target="#fnText2" type="noteAnchor">T</ref> </cell>
@@ -13022,6 +13087,18 @@
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Thamarāt 5 Jun 1905 (#1515)</tei:bibl> </ref> </cell>
                     <cell n="7">3 months</cell>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1906-06-11">1906-06-11</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Talmīdh</cell>
+                    <cell>Russia</cell>
+                    <cell n="5">Reports from Constantinople on this new newspaper</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="tf-oib+1566@5"/></cell>
+                    <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
@@ -13152,8 +13229,9 @@
                     <cell>Constantinople </cell>
                     <cell n="5"
                         >First Arabic-Ottoman newspaper after the restoration of the constitution</cell>
-                    <cell n="6"> <ref target="iqbal+35-261@7 tf-oib+1686@5" type="SenteCitationID">
-                        <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                    <cell n="6"> <ref target="iqbal+35-261@7 tf-oib+1686@5 tf-oib+1687@5"
+                        type="SenteCitationID"> <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Iqbāl 24 Aug 1908 (#261):7</tei:bibl> </ref> </cell>
                     <cell n="7"/>
@@ -13225,18 +13303,18 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1">1908-09-21</cell>
+                    <cell n="1"><date when="1908-09-21">1908-09-21</date></cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
                     <cell n="4">al-Ittiḥād al-ʿUthmānī</cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5"
-                        >tomorrow, <persName>Aḥmad Ḥasan Ṭabbārah</persName> , the editor of TF, will publish the first issue of the new daily newspaper</cell>
+                        >tomorrow, <persName>Aḥmad Ḥasan Ṭabbārah</persName> , the editor of TF, will publish the first issue of the new daily newspaper. The permit was granted in August</cell>
                     <cell n="6"> <ref target="thamarat+1691a@4" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Thamarāt 21 Sep 1908 (#1691):4</tei:bibl> </ref><ref type="SenteCitationID"
-                        target="tf-oib+1686@5"/> </cell>
+                        target="tf-oib+1686@5 tf-oib+1687@5"/> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -13249,11 +13327,25 @@
                     <cell><placeName>Damascus</placeName></cell>
                     <cell n="5"
                         >Muḥammad Ḥayrī Efendi Shabīb zade obtained the permit to publish a newspaper under the title of <title
-                        level="j">Dimashq</title> </cell>
-                    <cell n="6"> <ref target="BoaDhMkt261497+1908" type="SenteCitationID"> <tei:bibl
+                        level="j"
+                        >Dimashq</title> . The first issue was pulished on 1909-02-20</cell>
+                    <cell n="6"> <ref target="BoaDhMkt261497+1908 jarmuq+54@3"
+                        type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >BOA DH Mkt 2614/97, 25 Sep 1908</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date when="1908-10-12">1908-10-12</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Waṭan</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">New daily published by <persName>Shiblī Efendi Mallāṭ</persName>, <persName>Najīb Efendi al-Shawshānī</persName>, and <persName>Fīlīks Efendi Fāris</persName></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="tf-oib+1695@4"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -13262,14 +13354,97 @@
                     <cell n="1"> <date when="1908-10-26">1908-10-26</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
-                    <cell n="4">al-Thawbāt</cell>
+                    <cell n="4">al-Thabāt</cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5"
-                        >daily published in Beirut by Iskandar Efendi Khūrī and Khalīl Efendi Zayniyah</cell>
-                    <cell n="6"> <ref target="bashir+1881" type="SenteCitationID"> <tei:bibl
+                        >daily published in Beirut by <persName>Iskandar Efendi Khūrī</persName> and <persName>Khalīl Efendi Zayniyah</persName></cell>
+                    <cell n="6"> <ref type="SenteCitationID" target="bashir+1881@2"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Bashīr 26 Oct 1908 (#1881)</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row n="194" role="data">
+                    <cell n="1"> <date when="1908-10-26">1908-10-26</date> </cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Taqaddum</cell>
+                    <cell><placeName>Aleppo</placeName></cell>
+                    <cell n="5">thrice a week</cell>
+                    <cell n="6"> <ref type="SenteCitationID" target="bashir+1881@2"> <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        >Bashīr 26 Oct 1908 (#1881)</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row n="194" role="data">
+                    <cell n="1"> <date when="1908-10-26">1908-10-26</date> </cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Dustūr</cell>
+                    <cell><placeName>Constantinople</placeName></cell>
+                    <cell n="5">Published by <persName>Aḥmad Pasha al-Zahīr</persName></cell>
+                    <cell n="6"> <ref type="SenteCitationID" target="bashir+1881@2"> <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        >Bashīr 26 Oct 1908 (#1881)</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row n="194" role="data">
+                    <cell n="1"> <date when="1908-10-26">1908-10-26</date> </cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ṣabāḥ</cell>
+                    <cell><placeName>Tangier</placeName></cell>
+                    <cell n="5">fortnightly journal</cell>
+                    <cell n="6"> <ref type="SenteCitationID" target="bashir+1881@2"> <tei:bibl
+                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        >Bashīr 26 Oct 1908 (#1881)</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1908-11-09">1908-11-09</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Rāya al-ʿUthmāniyya</cell>
+                    <cell>Cairo</cell>
+                    <cell n="5"
+                        >Thrice a month (hijrī) by <persName>Bashīr Efendi bin Fatḥallah</persName></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="bashir+1883@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1908-11-09">1908-11-09</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">Ṣadā al-Shahbāʾ</cell>
+                    <cell>Aleppo</cell>
+                    <cell n="5"
+                        >Three times a week by <persName>Ḥikmat Nāẓim</persName> and <persName>Ibrāhīm Khalīl</persName></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="bashir+1883@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1908-11-09">1908-11-09</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Nafāʾis</cell>
+                    <cell>Haifa</cell>
+                    <cell n="5">Published by <persName>Khalī Efendi Baydis</persName></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="bashir+1883@2"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -13357,18 +13532,30 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row n="201" role="data">
+                    <cell n="1"> <date when="1908-12-17">1908-12-17</date> </cell>
+                    <cell n="2">CP</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Shām</cell>
+                    <cell><placeName>Damascus</placeName></cell>
+                    <cell n="5">ceased publication soon after Young Turk Revolution</cell>
+                    <cell n="6"> <ref target="jarmuq+2@4" type="SenteCitationID"/> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="196" role="data">
                     <cell n="1"> <date when="1908-11-09">1908-12-21</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
-                    <cell n="4">al-Rawḍa</cell>
+                    <cell n="4">al-Rawḍat al-Shām</cell>
                     <cell><placeName>Damascus</placeName></cell>
                     <cell n="5">Thrice a week.</cell>
                     <cell n="6"> <ref target="bashir+1881" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
-                        >Bashīr 26 Oct 1908 (#1881)</tei:bibl> </ref> <ref target="jarmuq+6"
-                        type="SenteCitationID"> <tei:bibl
+                        >Bashīr 26 Oct 1908 (#1881)</tei:bibl> </ref> <ref
+                        target="jarmuq+6 Devey+1909b" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Muqtabas (j) 22 Dec 1908 (#6)</tei:bibl> </ref> </cell>
@@ -13420,11 +13607,43 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1">1909-02-09</cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">Rawḍat al-Maʿārif</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">educational journal</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="jarmuq+44@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="206" role="data">
                     <cell n="1"> <date when="1909-03-22">1909-03-22</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
-                    <cell n="4">al-Ḥikma and al-Rafīq</cell>
+                    <cell n="4"><title level="j">al-Ḥikma</title></cell>
+                    <cell><placeName>Damascus</placeName></cell>
+                    <cell n="5"
+                        >ʿAbdullah Efendi from Damascus obtained the permit to open a printing press ( <emph
+                        style="font-style:italic"
+                        >al-Ḥikma</emph> ) and to publish two newspapers, <emph
+                        style="font-style:italic">al-Ḥikma</emph> and <emph
+                        style="font-style:italic">al-Rafīq</emph> , in his hometown</cell>
+                    <cell n="6"> <ref target="BoaDhMkt2772119+1909" type="SenteCitationID">
+                        <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        >BOA DH Mkt 2772/119, 22 Mar 1909</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row n="206" role="data">
+                    <cell n="1"> <date when="1909-03-22">1909-03-22</date> </cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4"><title level="j">al-Rafīq</title></cell>
                     <cell><placeName>Damascus</placeName></cell>
                     <cell n="5"
                         >ʿAbdullah Efendi from Damascus obtained the permit to open a printing press ( <emph
