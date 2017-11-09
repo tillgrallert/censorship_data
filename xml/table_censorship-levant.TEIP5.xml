@@ -39,9 +39,9 @@
             </refsDecl>
         </encodingDesc>
       <revisionDesc>
+          <change when="2017-11-09" who="#pers_TG">added data from Project Jarāʾid and other sources</change>
          <tei:change when="2017-10-27">All <tei:tag>ref type="SenteCitationID"</tei:tag>have been automatically formatted using information from the library of primary sources.</tei:change>
-            <change when="2017-10-27" who="#pers_TG">Added numerous rows based on readings during
-                the last two years.</change>
+            <change when="2017-10-27" who="#pers_TG">Added numerous rows based on readings during  the last two years.</change>
             <change when="2015-06-22">Added data for al-Muqtabas in 1912</change>
             <change when="2015-06-22">Changed all 
                 <gi>note</gi>
