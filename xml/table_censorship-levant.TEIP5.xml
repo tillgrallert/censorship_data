@@ -14220,7 +14220,7 @@
                     <cell n="2">PI</cell>
                     <cell n="3"/>
                     <cell n="4">al-Muʾayyad</cell>
-                    <cell><placeName>Cairo</placeName></cell>
+                    <cell>Ottoman Empire</cell>
                     <cell n="5"
                         >orders to import al-Muʾayyad, the largest Islamic newspaper in Egypt, into the Ottoman Empire, which had hitherto been prohibited.</cell>
                     <cell n="6"> <ref target="muqtabas+340-eap@3" type="SenteCitationID"> <tei:bibl
@@ -14233,7 +14233,7 @@
                 </row>
                 <row>
                     <cell n="1"> <date when="1911-10-21">1911-10-21</date> </cell>
-                    <cell n="2">P</cell>
+                    <cell n="2">RP</cell>
                     <cell n="3"/>
                     <cell n="4">Iṣlāḥāt</cell>
                     <cell>?</cell>
@@ -14298,7 +14298,7 @@
                 </row>
                 <row>
                     <cell n="1"><date notAfter="1911-10-28">1911-10-28</date></cell>
-                    <cell n="2">P</cell>
+                    <cell n="2">RP</cell>
                     <cell n="3"/>
                     <cell n="4">ʿAlimdār</cell>
                     <cell>?</cell>
@@ -14318,6 +14318,20 @@
                     <cell n="5"
                         >Ban to enforce the publication of compliant articles. Life imprisonment for the responsible editor <persName>Fahmī Efendi Ghazzī</persName> </cell>
                     <cell n="6"> <ref target="Devey+1912g BoaBeo4082306107Şamda+1912"/> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"> <date notAfter="1909-09-09" notBefore="1909-05-01"
+                        >1912, summer</date> </cell>
+                    <cell n="2">Trial</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Muqtabas</cell>
+                    <cell><placeName>Damascus</placeName></cell>
+                    <cell n="5"
+                        >Arrest of Aḥmad Kurd ʿAlī; attempted arrest of Muḥammad Kurd ʿAlī </cell>
+                    <cell n="6"> <ref target="{Devey+1912e Devey+1912f Devey+1912g"/> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -14491,7 +14505,7 @@
                     <cell n="2">BI</cell>
                     <cell n="3"/>
                     <cell n="4">al-Muʾayyad</cell>
-                    <cell><placeName>Cairo</placeName></cell>
+                    <cell>Ottoman Empire</cell>
                     <cell n="5">Ban on import into the Ottoman Empire </cell>
                     <cell n="6"> <ref target="muqtabas+566-eap@3" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
@@ -14506,7 +14520,7 @@
                     <cell n="2">BI</cell>
                     <cell n="3"/>
                     <cell n="4">al-ʿUmrān</cell>
-                    <cell><placeName>Cairo</placeName></cell>
+                    <cell>Ottoman Empire</cell>
                     <cell n="5">Ban on import into the Ottoman Empire </cell>
                     <cell n="6"> <ref target="muqtabas+574-eap@3"/> </cell>
                     <cell n="7"/>
@@ -14514,11 +14528,11 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1">1913-09-06</cell>
+                    <cell n="1"><date when="1913-09-06">1913-09-06</date></cell>
                     <cell n="2">PI</cell>
                     <cell n="3"/>
                     <cell n="4">banned papers</cell>
-                    <cell/>
+                    <cell>Beirut</cell>
                     <cell n="5"
                         >The province of Beirut allowed the import of hitherto banned papers</cell>
                     <cell n="6"> <ref type="SenteCitationID" target="muqtabas+613-eap@3"> <tei:bibl
@@ -14541,9 +14555,9 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Muqtabas (j) 24 Sep 1913 (#1300)</tei:bibl> </ref> </cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
+                    <cell n="7">4 months</cell>
+                    <cell n="8">1913-09-25</cell>
+                    <cell n="9">1914--01-30</cell>
                 </row>
                 <row n="232" role="data">
                     <cell n="1"> <date when="1913-09-30">1913-09-30</date> </cell>
@@ -14572,8 +14586,8 @@
                     <cell><placeName>Damascus</placeName></cell>
                     <cell n="5"
                         >Aḥmad Kurd ʿAlī, the responsible editor of al-Muqtabas, was sentenced to one month imprisonment and the payment of £T 5 for the publication of fabricated news</cell>
-                    <cell n="6"> <ref type="SenteCitationID" target="qabas+11-eap@3"> <tei:bibl
-                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                    <cell n="6"> <ref type="SenteCitationID" target="qabas+11-eap@3 Devey+1914b">
+                        <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Qabas 23 Oct 1913 (#1321-21):3</tei:bibl> </ref> </cell>
                     <cell n="7"/>
@@ -14597,7 +14611,7 @@
                 </row>
                 <row>
                     <cell n="1"> <date notAfter="1913-12-01">1913-12-01</date> </cell>
-                    <cell n="2">P</cell>
+                    <cell n="2">RP</cell>
                     <cell n="3"/>
                     <cell n="4">al-Dustūr</cell>
                     <cell><placeName>Jaffa</placeName></cell>
@@ -14612,7 +14626,7 @@
                 <row n="234" role="data">
                     <cell n="1"> <date notAfter="1913-12-31" notBefore="1913-12-01"
                         >1913-12-01</date> </cell>
-                    <cell n="2">P</cell>
+                    <cell n="2">RP</cell>
                     <cell n="3"/>
                     <cell n="4">Fatā al-ʿArab</cell>
                     <cell><placeName>Beirut</placeName></cell>
@@ -14712,7 +14726,7 @@
                     <cell n="3"/>
                     <cell n="4">Bayān</cell>
                     <cell>?</cell>
-                    <cell n="5">permit to resume publication</cell>
+                    <cell n="5">permit to resume publication after having been suspended</cell>
                     <cell n="6"> <ref target="muqtabas+635-eap@3" type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
@@ -14757,6 +14771,19 @@
                     <cell n="9"> <date when="1915-02-11">1915-02-11</date> </cell>
                 </row>
                 <row>
+                    <cell n="1"><date notAfter="1914-05-29">1914-05-29</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Marʾāh</cell>
+                    <cell>?</cell>
+                    <cell n="5"
+                        >Fortnightly illustrated journal. 2nd issue arrived in Jerusalem</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="quds-391@4"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"> <date when="1914-09-11">1914-09-11</date> </cell>
                     <cell n="2">CP</cell>
                     <cell n="3"/>
@@ -14764,6 +14791,20 @@
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5"> <title level="j"
                         >Lisān al-Ḥāl</title>had been published on smaller paper for some issues due to the hardships of the current situation, but even this measure won't sustain the paper, which will cease publication</cell>
+                    <cell n="6"> <ref target="lisan-37-7648@1" type="SenteCitationID"
+                        >{lisan-37-7648@1 **not found** }</ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"> <date when="1914-09-11">1914-09-11</date> </cell>
+                    <cell n="2">CP</cell>
+                    <cell n="3"/>
+                    <cell n="4">Fatāt Lubnān</cell>
+                    <cell><placeName>Beirut</placeName></cell>
+                    <cell n="5"
+                        > There will be no September issue either. publication will recommence after the war in Europe</cell>
                     <cell n="6"> <ref target="lisan-37-7648@1" type="SenteCitationID"
                         >{lisan-37-7648@1 **not found** }</ref> </cell>
                     <cell n="7"/>
