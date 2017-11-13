@@ -14471,6 +14471,66 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date notAfter="1911-04-20">1911-04-20</date></cell>
+                    <cell n="2">1</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ḥayṭ</cell>
+                    <cell>Cairo</cell>
+                    <cell n="5">illustrated monthly journal published by <persName>ʿAwwaḍ Efendi Wāṣif</persName>. Issue 4 arrived in Beirut</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="lisan+6614@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1911-04-20">1911-04-20</date></cell>
+                    <cell n="2">1</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-ʿArīs</cell>
+                    <cell>Homs</cell>
+                    <cell n="5">monthly journal published by <persName>al-Amīr Nasīb Efendi Maḥmūd Shihāb</persName>, <persName>Wadīʿ Efendi Naṣṣār</persName>, and <persName>Fāḍil Efendi al-Jamāl</persName>. First isuue arrived in Beirut.</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="lisan+6614@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1911-04-20">1911-04-20</date></cell>
+                    <cell n="2">1</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Shabība</cell>
+                    <cell>Homs</cell>
+                    <cell n="5"> monthly journal published by <persName>ʿAbd al-Bāqī Efendi al-Darūbī</persName> and <persName>ʿAbd al-Karīm Efendi Ṣabbāgh</persName>. First issue arrived in Beirut.</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="lisan+6614@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1911-04-20">1911-04-20</date></cell>
+                    <cell n="2">1</cell>
+                    <cell n="3"/>
+                    <cell n="4">Khān al-Dhahab</cell>
+                    <cell>Baghdad</cell>
+                    <cell n="5">Arabic newspaper published biweekly by <persName>Muḥammad Saʿīd Efendi Tawḥalī zade</persName></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="lisan+6614@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1911-04-20">1911-04-20</date></cell>
+                    <cell n="2">1</cell>
+                    <cell n="3"/>
+                    <cell n="4">Sayf al-Ḥaqq</cell>
+                    <cell>Baghdad</cell>
+                    <cell n="5"> illustrated paper published by <persName>Nūrī Efendi Fantamnā</persName></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="lisan+6614@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="224" role="data">
                     <cell n="1"> <date when="1911-04-29">1911-04-29</date> </cell>
                     <cell n="2">P</cell>
@@ -14519,6 +14579,18 @@
                     <cell n="9"/>
                 </row>
                 <row>
+                    <cell n="1"><date when="1911-04-29">1911-04-29</date></cell>
+                    <cell n="2">1</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Bāriqa</cell>
+                    <cell>Damascus</cell>
+                    <cell n="5">Bilingual (Arabic, Ottoman) paper, published thrice a week on Sat, Mon, and Wed in Damascus by <persName>Muṣṭafā Shawqī Efendi</persName>. </cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+258-eap@3"></ref></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"> <date when="1911-05-30">1911-05-30</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -14551,6 +14623,20 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Muqtabas (j) 6 Jun 1911 (#696):3</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1911-07-03">1911-07-03</date></cell>
+                    <cell n="2">1</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Balāgh</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5"
+                        >published by <persName>Muḥammad Efendi al-Bāqir</persName> and <persName>Nuṣūḥ Efendi Bakdāsh</persName></cell>
+                    <cell n="6"><ref type="SenteCitationID"
+                        target="muqtabas+285-eap@3 iqbal+9-405@7"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
