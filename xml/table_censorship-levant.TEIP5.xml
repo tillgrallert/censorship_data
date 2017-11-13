@@ -14227,6 +14227,32 @@
                     <cell n="9"/>
                 </row>
                 <row>
+                    <cell n="1"><date when="1910-08-07">1910-08-07</date></cell>
+                    <cell n="2">1</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ḥaqāʾiq</cell>
+                    <cell>Damascus</cell>
+                    <cell n="5">New monthly</cell>
+                    <cell n="6"><ref type="SenteCitationID"
+                        target="muqtabas+157-eap@3 haqaiq-1-1 lisan+6406@2"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1910-08-15">1910-08-15</date></cell>
+                    <cell n="2">RP</cell>
+                    <cell n="3"/>
+                    <cell n="4">Ṣadā al-Shahbāʾ</cell>
+                    <cell>Aleppo</cell>
+                    <cell n="5"
+                        >Recommended publication in Arabic and Turkish after some unspecified period</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="iqbal+9-360@8"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
                     <cell n="1"> <date when="1910-08-16">1910-08-16</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -14284,17 +14310,30 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1"> <date when="1910-08-20">1910-08-20</date> </cell>
-                    <cell n="2">P</cell>
+                    <cell n="1"> <date notAfter="1910-08-18">1910-08-18</date> </cell>
+                    <cell n="2">1</cell>
                     <cell n="3"/>
                     <cell n="4">al-ʿAṣr al-Jadīd</cell>
-                    <cell>Tripoli</cell>
+                    <cell>Tripoli (Libya)</cell>
                     <cell n="5"
-                        >weekly newspaper was established in Tripoli by <persName>Muḥammad ʿAlī Efendi al-Bārūdī</persName> </cell>
-                    <cell n="6"> <ref target="muqtabas+165-eap@2" type="SenteCitationID"> <tei:bibl
+                        >weekly newspaper was established in Tripoli by <persName>Muḥammad ʿAlī Efendi al-Bārūdī</persName>. First issue arrived in Beirut</cell>
+                    <cell n="6"> <ref target="muqtabas+165-eap@2 lisan+6407@2"
+                        type="SenteCitationID"> <tei:bibl
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Muqtabas (j) 20 Aug 1910 (#452):2</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1910-08-23">1910-08-23</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Majalla al-Sūriyya</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">New monthly</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="lisan+6411@2"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -14329,6 +14368,18 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Ittiḥād 30 Aug 1910 (#595):2</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1910-09-07">1910-09-07</date></cell>
+                    <cell n="2">1</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Muntakhib</cell>
+                    <cell>Latakia</cell>
+                    <cell n="5">First issue arrived in Damascus</cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+179-eap@3"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -14379,6 +14430,31 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Iqbāl 26 Sep 1910 (#366):5</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1910-10-20">1910-10-20</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Anīs</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5"
+                        >new fortnightly literary journal published by Salīm Efendi and Yūsuf Efendi Ṣādir </cell>
+                    <cell n="6"><ref type="SenteCitationID" target="hasna+4@160"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"> <date notAfter="1911-01-23">1911-01-23</date> </cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">Filasṭīn</cell>
+                    <cell><placeName>Jaffa</placeName></cell>
+                    <cell n="5">bi-weekly published by <persName>ʿIsā Efendi Dāwud al-ʿIsā</persName></cell>
+                    <cell n="6"> <ref target="muqtabas+229-eap@2"/> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -14475,6 +14551,18 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         xmlns:html="http://www.w3.org/1999/xhtml"
                         >Muqtabas (j) 6 Jun 1911 (#696):3</tei:bibl> </ref> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1911-07-08">1911-07-08</date></cell>
+                    <cell n="2">P</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ṣadaq</cell>
+                    <cell>Aleppo</cell>
+                    <cell n="5">weekly paper published every Wed by the concessionary <persName>Muṣṭafā Rushdī Efendi al-Ḥumṣī</persName></cell>
+                    <cell n="6"><ref type="SenteCitationID" target="muqtabas+288-eap@3"/></cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -14876,6 +14964,18 @@
                     <cell>Ottoman Empire</cell>
                     <cell n="5">Ban on import into the Ottoman Empire </cell>
                     <cell n="6"> <ref target="muqtabas+574-eap@3"/> </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1"><date notAfter="1913-08-31">1913-08-31</date></cell>
+                    <cell n="2">CP</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Ḥaqāʾiq</cell>
+                    <cell>Damascus</cell>
+                    <cell n="5">ceased publication after the third volume</cell>
+                    <cell n="6"/>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
