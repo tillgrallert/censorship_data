@@ -15464,7 +15464,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>?until today15 issueswell into the 20th century<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1926" xml:lang="en">1926</date>
          <date when="1960" xml:lang="en">1960</date>
@@ -15691,9 +15692,7 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>Few issues
-                     
-                        <date when="1865-12-20" xml:lang="en">1865-12-20</date>
+   </tei:row>
                      
                   <tei:row role="data">
       <tei:cell>
@@ -15728,7 +15727,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>eight months<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1912" xml:lang="en">1912</date>
       </tei:cell>
@@ -15830,10 +15830,7 @@
       <tei:cell/>
       <tei:cell/>
    </tei:row>
-                     
-                        <date when="1869" xml:lang="en">1869</date>
-                     
-                  two issues<tei:row role="data">
+                <tei:row role="data">
       <tei:cell>
          <date when="1917" xml:lang="en">1917</date>
       </tei:cell>
@@ -15849,7 +15846,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>seven issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1947-12-31" xml:lang="en">1947-12-31</date>
       </tei:cell>
@@ -15916,7 +15914,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>one year<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1870" xml:lang="en">1870</date>
       </tei:cell>
@@ -15950,7 +15949,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>two/three issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1877" xml:lang="en">1877</date>
       </tei:cell>
@@ -16017,7 +16017,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>1874, perhaps 1882<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1930" xml:lang="en">1930</date>
       </tei:cell>
@@ -16067,7 +16068,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>few issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1879" xml:lang="en">1879</date>
       </tei:cell>
@@ -16117,7 +16119,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>few issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1877" xml:lang="en">1877</date>
       </tei:cell>
@@ -16239,7 +16242,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>still published<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1877" xml:lang="en">1877</date>
       </tei:cell>
@@ -16480,7 +16484,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>two/three issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1878" xml:lang="en">1878</date>
       </tei:cell>
@@ -16723,7 +16728,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>one issueone issue<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1883" xml:lang="en">1883</date>
       </tei:cell>
@@ -16739,7 +16745,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>two issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1883" xml:lang="en">1883</date>
       </tei:cell>
@@ -16823,7 +16830,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>14 November?<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1912" xml:lang="en">1912</date>
       </tei:cell>
@@ -16960,7 +16968,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>three issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1904" xml:lang="en">1904</date>
       </tei:cell>
@@ -17103,7 +17112,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>nine issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1881" xml:lang="en">1881</date>
       </tei:cell>
@@ -17671,7 +17681,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>for five years<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1894" xml:lang="en">1894</date>
       </tei:cell>
@@ -17843,7 +17854,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>discontinued then published again<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1919" xml:lang="en">1919</date>
       </tei:cell>
@@ -17894,10 +17906,7 @@
       <tei:cell/>
       <tei:cell/>
    </tei:row>
-                     
-                        <date when="1888" xml:lang="en">1888</date>
-                     
-                  35 issuesone issue<tei:row role="data">
+                <tei:row role="data">
       <tei:cell>
          <date when="1918" xml:lang="en">1918</date>
       </tei:cell>
@@ -17930,7 +17939,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>one issue<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1887" xml:lang="en">1887</date>
       </tei:cell>
@@ -18049,7 +18059,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>five issuesone issueone issue<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1890" xml:lang="en">1890</date>
       </tei:cell>
@@ -18171,7 +18182,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>ten issuesone issue<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1890" xml:lang="en">1890</date>
       </tei:cell>
@@ -18187,7 +18199,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>one issueone issue<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1888" xml:lang="en">1888</date>
       </tei:cell>
@@ -18237,7 +18250,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>short-lived<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1932" xml:lang="en">1932</date>
       </tei:cell>
@@ -18253,7 +18267,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>two years<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1921" xml:lang="en">1921</date>
       </tei:cell>
@@ -18269,7 +18284,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>one issue<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1890" xml:lang="en">1890</date>
       </tei:cell>
@@ -18662,7 +18678,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>still todayfew issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1896" xml:lang="en">1896</date>
          <date when="1908" xml:lang="en">1908</date>
@@ -18696,7 +18713,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>few issues?<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1892" xml:lang="en">1892</date>
       </tei:cell>
@@ -18918,7 +18936,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>few issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1894" xml:lang="en">1894</date>
       </tei:cell>
@@ -19087,7 +19106,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>short-lived<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1895" xml:lang="en">1895</date>
       </tei:cell>
@@ -19103,7 +19123,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>short lived<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1912" xml:lang="en">1912</date>
       </tei:cell>
@@ -19358,7 +19379,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>short lived<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1899" xml:lang="en">1899</date>
       </tei:cell>
@@ -19374,7 +19396,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>short lived<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1899" xml:lang="en">1899</date>
       </tei:cell>
@@ -19627,7 +19650,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>short life<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1898" xml:lang="en">1898</date>
       </tei:cell>
@@ -19660,7 +19684,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>long<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1964" xml:lang="en">1964</date>
       </tei:cell>
@@ -19727,7 +19752,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>4 parts<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1902" xml:lang="en">1902</date>
       </tei:cell>
@@ -20181,7 +20207,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>short lived<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1915" xml:lang="en">1915</date>
       </tei:cell>
@@ -20350,7 +20377,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>4 issuesfew issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1899" xml:lang="en">1899</date>
          <date when="1900" xml:lang="en">1900</date>
@@ -20368,7 +20396,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>for 35 years<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1904" xml:lang="en">1904</date>
       </tei:cell>
@@ -20384,7 +20413,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>13 issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1904" xml:lang="en">1904</date>
       </tei:cell>
@@ -20400,7 +20430,8 @@
       <tei:cell>Jaraid</tei:cell>
       <tei:cell/>
       <tei:cell/>
-   </tei:row>few issues<tei:row role="data">
+   </tei:row>
+<tei:row role="data">
       <tei:cell>
          <date when="1909" xml:lang="en">1909</date>
       </tei:cell>
@@ -20536,7 +20567,7 @@
       <tei:cell/>
       <tei:cell/>
    </tei:row>
-</tei:table>
+</table>
 
             <div type="notes">
                 <head>Legend</head>
