@@ -15431,7 +15431,5113 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-            </table>
+           <tei:row role="data">
+      <tei:cell>
+         <date when="1800" xml:lang="en">1800</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="fr">La décade égyptienne</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1822" xml:lang="en">1822</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Jūrnāl al-Khudaywī / al-Khidīwī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>?until today15 issueswell into the 20th century<tei:row role="data">
+      <tei:cell>
+         <date when="1926" xml:lang="en">1926</date>
+         <date when="1960" xml:lang="en">1960</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mubashshir</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Algiers</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1849" xml:lang="en">1849</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥawādith al-Tijāriyya wa’l-Iʿlānāt al-Malikiyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1849" xml:lang="en">1849</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Taqwīm al-Akhbār ʿan al-Ḥawādith al-Tijāriyya wa’l-Iʿlānāt al-Malikiyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1858" xml:lang="en">1858</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Majmūʿ Fawāyid li-Nakhbat Afāḍil</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1866" xml:lang="en">1866</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Doresh Tov le-ʿAmmo/ Ṭālib al-Khayr li-Qawmi-hi/The Hebrew Gazette</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Bombay</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1876" xml:lang="en">1876</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Mirʾāt al-Aḥwāl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Istanbul</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1866" xml:lang="en">1866</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Birjīs Bārīs</title>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">L’Aigle de Paris</title>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Le Birgys</title>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Le Bergys</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1907" xml:lang="en">1907</date>
+         <date when="1909" xml:lang="en">1909</date>
+         <date when="1910" xml:lang="en">1910</date>
+         <date when="1911" xml:lang="en">1911</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ḥadīqat al-Akhbār</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1859-08-15" xml:lang="en">1859-08-15</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">ʿUṭārid</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Marseille</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1884" xml:lang="en">1884</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Jawāʾib</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Istanbul</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1861" xml:lang="en">1861</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Nafīr Sūriyya/ Nafīr Sūriyya aw al-Waṭaniyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date xml:lang="en">until today</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Rāʾid al-Tūnisī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1871" xml:lang="en">1871</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ha Dôver</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Baghdad</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>Few issues
+                     
+                        <date when="1865-12-20" xml:lang="en">1865-12-20</date>
+                     
+                  <tei:row role="data">
+      <tei:cell>
+         <date xml:lang="en">1918?</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Sūriyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Damascus</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1870" xml:lang="en">1870</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Yaʿsūb al-Ṭibb</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>eight months<tei:row role="data">
+      <tei:cell>
+         <date when="1912" xml:lang="en">1912</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ṭarābulus al-Gharb</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tripoli</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1911" xml:lang="en">1911</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Aʿmāl Sharikat Mār Manṣūr dī Būl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1918" xml:lang="en">1918</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Furāt/Furāt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Aleppo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1868" xml:lang="en">1868</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ghadīr al-Furāt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Aleppo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1868" xml:lang="en">1868</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Lubnān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Bayt al-Dīn</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1878" xml:lang="en">1878</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Wādī al-Nīl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+                     
+                        <date when="1869" xml:lang="en">1869</date>
+                     
+                  two issues<tei:row role="data">
+      <tei:cell>
+         <date when="1917" xml:lang="en">1917</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Zawrāʾ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Baghdad</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>seven issues<tei:row role="data">
+      <tei:cell>
+         <date when="1947-12-31" xml:lang="en">1947-12-31</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Bashīr</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1873" xml:lang="en">1873</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Statistique de l'Égypte</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1885" xml:lang="en">1885</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Janna</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1886" xml:lang="en">1886</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Jinān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>one year<tei:row role="data">
+      <tei:cell>
+         <date when="1870" xml:lang="en">1870</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mihmāz</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1877" xml:lang="en">1877</date>
+         <date when="1881" xml:lang="en">1881</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Naḥla</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>two/three issues<tei:row role="data">
+      <tei:cell>
+         <date when="1877" xml:lang="en">1877</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Rawḍat al-Madāris al-Miṣriyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1872" xml:lang="en">1872</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Zahra</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1875" xml:lang="en">1875</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Junayna</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1890" xml:lang="en">1890</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Kawkab al-Ṣubḥ al-Munīr</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>1874, perhaps 1882<tei:row role="data">
+      <tei:cell>
+         <date when="1930" xml:lang="en">1930</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Nashra al-Usbūʿiyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Yaman</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Sanaa</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1873" xml:lang="en">1873</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ḥadīqat al-Akhbār</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>few issues<tei:row role="data">
+      <tei:cell>
+         <date when="1879" xml:lang="en">1879</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Jarīdat Arkān Ḥarb al-Jaysh al-Miṣrī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1877" xml:lang="en">1877</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Kawkab al-Sharqī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1878" xml:lang="en">1878</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ha-Mevaser/The Jewish Gazette</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Calcutta</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>few issues<tei:row role="data">
+      <tei:cell>
+         <date when="1877" xml:lang="en">1877</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Akhbār Ṭibbiyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1876" xml:lang="en">1876</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Naḥla al-Fatiya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Nuzha al-Khayriyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1878" xml:lang="en">1878</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Rawḍat al-Akhbār</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1881" xml:lang="en">1881</date>
+         <date when="1889" xml:lang="en">1889</date>
+         <date when="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Taqaddum</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1918" xml:lang="en">1918</date>
+         <date when="1918" xml:lang="en">1918</date>
+         <date when="1934" xml:lang="en">1934</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mawṣil (Musul)</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Mosul</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Thamarāt al-Funūn</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>still published<tei:row role="data">
+      <tei:cell>
+         <date when="1877" xml:lang="en">1877</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Mirʾāt al-Aḥwāl fi’l-Siyāsa wa’l-Akhlāq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">London</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1952" xml:lang="en">1952</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Muqtaṭaf</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1879" xml:lang="en">1879</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ṣadā al-Ahrām</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1878-05-18" xml:lang="en">1878-05-18</date>
+         <date when="1910" xml:lang="en">1910</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abū Naẓẓāra Zarqā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1878" xml:lang="en">1878</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ḥaqīqat al-Akhbār</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Jarīda Rasmiyya - Journal Officiel pour les Publications Judiciares - Journal Officiel des Tribunaux - Giornale Ufficiale per le Pubblicazioni Giudiziarie</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1975" xml:lang="en">1975</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Lisān al-Ḥāl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+         <date when="1884" xml:lang="en">1884</date>
+         <date when="1941" xml:lang="en">1941</date>
+         <date when="1959" xml:lang="en">1959</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Maḥrūsa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1878" xml:lang="en">1878</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mishkāt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1879" xml:lang="en">1879</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Miṣr</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1880" xml:lang="en">1880</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Naḥla/The Bee</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">London</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1879" xml:lang="en">1879</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ṣadā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1878" xml:lang="en">1878</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Shahbā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Aleppo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1929" xml:lang="en">1929</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Waṭan</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>two/three issues<tei:row role="data">
+      <tei:cell>
+         <date when="1878" xml:lang="en">1878</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Le Bavard Egyptien</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1895" xml:lang="en">1895</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Būsfūr / Le Bosphore égyptien</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Port Said</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1879-08-09" xml:lang="en">1879-08-09</date>
+         <date when="1887" xml:lang="en">1887</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Dimashq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Damascus</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Iskandariyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1878" xml:lang="en">1878</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mishkāt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1879" xml:lang="en">1879</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Nīl; Il Nilo, Le Nile</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1889" xml:lang="en">1889</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Pearah/Pīrah al-Yahūdiyya/The Jewish Gazette</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Calcutta</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1879" xml:lang="en">1879</date>
+         <date when="1879" xml:lang="en">1879</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Riḥlat Abī Naẓẓāra Zarqā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1895" xml:lang="en">1895</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ṭabīb</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Taqaddum</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1879" xml:lang="en">1879</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Tijāra</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1880" xml:lang="en">1880</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Waqt (li-Jarīdat al-Ahrām)</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date notBefore="1900-04-18" xml:lang="en">April 1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Zamān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Nicosia,Cyprus</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1879" xml:lang="en">1879</date>
+         <date when="1882-04-21" xml:lang="en">1882-04-21</date>
+         <date when="1882-08-04" xml:lang="en">1882-08-04</date>
+         <date when="1882" xml:lang="en">1882</date>
+         <date when="1883-12-08" xml:lang="en">1883-12-08</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abū Naẓẓāra Zarqā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>one issueone issue<tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Kawkab al-Miṣrī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>two issues<tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Maymūn</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1879" xml:lang="en">1879</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Mirʾāt al-Sharq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1879" xml:lang="en">1879</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Miṣr al-Fatāt/La Jeune Egypte</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1880" xml:lang="en">1880</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Miṣr al-Qāhira</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1880" xml:lang="en">1880</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Naẓẓārāt al-Miṣriyya/Ennadarat el-Masriya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>14 November?<tei:row role="data">
+      <tei:cell>
+         <date when="1912" xml:lang="en">1912</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ṣanʿāʾ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Sanaa</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1881" xml:lang="en">1881</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abu’l-Ḥawl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1880" xml:lang="en">1880</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abū Ṣaffāra / Le Flutiste</title>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abū Naẓẓāra Zarqā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1880" xml:lang="en">1880</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abū Zammāra / La Clarinette</title>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abū Naẓẓāra Zarqā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Anbāʾ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1881" xml:lang="en">1881</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-ʿAṣr al-Jadīd</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1881" xml:lang="en">1881</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥuqūq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1886" xml:lang="en">1886</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Insān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Istanbul</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>three issues<tei:row role="data">
+      <tei:cell>
+         <date when="1904" xml:lang="en">1904</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Miṣbāḥ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1951" xml:lang="en">1951</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Mīzāniyyat al-Dawla al-Miṣriyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1881" xml:lang="en">1881</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mustaqbal</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cagliari,Sardinia</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1881" xml:lang="en">1881</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mustaqill</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cagliari,Sardinia</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+         <date when="1882" xml:lang="en">1882</date>
+         <date when="1885" xml:lang="en">1885</date>
+         <date when="1890" xml:lang="en">1890</date>
+         <date when="1904" xml:lang="en">1904</date>
+         <date when="1910" xml:lang="en">1910</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abou-Naddara/Abū Naẓẓāra/ L’Abou Naddara</title>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abū Naẓẓāra Zarqā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Akhbār Ṭibbiyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Baṣīr / Al-Bassir</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+         <date when="1883" xml:lang="en">1883</date>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Burhān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>nine issues<tei:row role="data">
+      <tei:cell>
+         <date when="1881" xml:lang="en">1881</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥāwī/Le Charmeur (pseudonym for Abū Naẓẓāra Zarqā)</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1881" xml:lang="en">1881</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥijāz</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1887" xml:lang="en">1887</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ittiḥād al-ʿArabī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">London</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1966" xml:lang="en">1966</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ittiḥād al-Miṣrī/L’Union Egyptienne</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Miṣr</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+         <date when="1882" xml:lang="en">1882</date>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mufīd</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Muntakhab</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Najāḥ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ṭāʾif</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1881" xml:lang="en">1881</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Tankīt wa’l-Tabkīt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Tawaddud</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Tawfīq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Egypt</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1884" xml:lang="en">1884</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abou-Naddara Zarka</title>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abou-Naddara/Abū Naẓẓāra/Abū Naẓẓāra Zarqā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Aḥwāl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Fusṭāṭ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥaḍāra</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Iʿtidāl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Kawkab al-Mashriq/L’Astre d’Orient</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Madrasat al-Funūn/Medrese-i Fünun</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Istanbul</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+         <date when="1883" xml:lang="en">1883</date>
+         <date when="1886" xml:lang="en">1886</date>
+         <date when="1879" xml:lang="en">1879</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Mirʾāt al-Sharq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Muntakhab/ El-Montakheb</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Constantine,Algeria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Najm al-Mashriq/L’Astre d’Orient</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1917" xml:lang="en">1917</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Nashra al-Sanawiyya ʿan al-Tijāra al-Khārijiyya / Le Commerce Extérieur de l’Égypte</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1885" xml:lang="en">1885</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Rawḍat al-Iskandariyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Safīr</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1882" xml:lang="en">1882</date>
+         <date when="1883" xml:lang="en">1883</date>
+         <date when="1886" xml:lang="en">1886</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Zamān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1889" xml:lang="en">1889</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Hadiyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1886" xml:lang="en">1886</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Mirʾāt al-Sharq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1884" xml:lang="en">1884</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mubaṣṣir/El-Mobasser</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Constantine,Algeria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1895" xml:lang="en">1895</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Taqaddum al-Miṣrī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1883" xml:lang="en">1883</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Waṭanī al-Miṣrī/The Egyptian Patriot</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1910" xml:lang="en">1910</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abū Naẓẓāra/Abou Naddara</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1893" xml:lang="en">1893</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Bayān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>for five years<tei:row role="data">
+      <tei:cell>
+         <date when="1894" xml:lang="en">1894</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Lisān al-ʿArab</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1941" xml:lang="en">1941</date>
+         <date when="1959" xml:lang="en">1959</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Maḥrūsa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1886" xml:lang="en">1886</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mubashshir</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1885" xml:lang="en">1885</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Shams</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1889" xml:lang="en">1889</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Silsilat al-Fukāhāt fī Aṭāyib al-Riwāyāt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1888" xml:lang="en">1888</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ṭabīb</title>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1884" xml:lang="en">1884</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-ʿUrwa al-Wuthqā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1888" xml:lang="en">1888</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Zamān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1890" xml:lang="en">1890</date>
+         <date when="1904" xml:lang="en">1904</date>
+         <date when="1910" xml:lang="en">1910</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Abou Naddara/Abū Naẓẓāra Zarqā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1888" xml:lang="en">1888</date>
+         <date when="1892" xml:lang="en">1892</date>
+         <date when="1893" xml:lang="en">1893</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Dīwān al-Fukāha</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>discontinued then published again<tei:row role="data">
+      <tei:cell>
+         <date when="1919" xml:lang="en">1919</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥuqūq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1885" xml:lang="en">1885</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mubashshir al-Ṣādiq/Le Messager intègre</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1889" xml:lang="en">1889</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Qāhira (al-Ḥurra)</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+                     
+                        <date when="1888" xml:lang="en">1888</date>
+                     
+                  35 issuesone issue<tei:row role="data">
+      <tei:cell>
+         <date when="1918" xml:lang="en">1918</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Bayrūt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1896" xml:lang="en">1896</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Laṭāʾif</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>one issue<tei:row role="data">
+      <tei:cell>
+         <date when="1887" xml:lang="en">1887</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Munawwir al-Ḥaqq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1887" xml:lang="en">1887</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Mushriḥ al-Aṣdār/Machrecho Lasdar</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1887" xml:lang="en">1887</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Qāhira</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1888" xml:lang="en">1888</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ṣādiq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1913" xml:lang="en">1913</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ṣafāʾ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1888" xml:lang="en">1888</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Shifāʾ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1889" xml:lang="en">1889</date>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ādāb</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>five issuesone issueone issue<tei:row role="data">
+      <tei:cell>
+         <date when="1890" xml:lang="en">1890</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Makārim al-Akhlāq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1888" xml:lang="en">1888</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mutarjim/L’Interprète</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1888" xml:lang="en">1888</date>
+         <date when="1893" xml:lang="en">1893</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ṣiḥḥa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1889" xml:lang="en">1889</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Aḥkām al-Miṣriyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date notBefore="1908" xml:lang="en">still in 1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Bayrūt (al-Rasmiyya)</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1894" xml:lang="en">1894</date>
+         <date when="1897" xml:lang="en">1897</date>
+         <date when="1904" xml:lang="en">1904</date>
+         <date when="1906" xml:lang="en">1906</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Bustān/El Boustan/Le Jardin</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1911" xml:lang="en">1911</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥāḍira</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>ten issuesone issue<tei:row role="data">
+      <tei:cell>
+         <date when="1890" xml:lang="en">1890</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Kanīsa al-Kāthūlīkiyya/L’Eglise Catholique</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>one issueone issue<tei:row role="data">
+      <tei:cell>
+         <date when="1888" xml:lang="en">1888</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Natāʾij al-Akhbār</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1889" xml:lang="en">1889</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Nūr al-Tawfīqī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1890" xml:lang="en">1890</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Rāwī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>short-lived<tei:row role="data">
+      <tei:cell>
+         <date when="1932" xml:lang="en">1932</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Dalīl al-Mufīd fi Ashghāl al-Barīd</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>two years<tei:row role="data">
+      <tei:cell>
+         <date when="1921" xml:lang="en">1921</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Fawāʾid</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>one issue<tei:row role="data">
+      <tei:cell>
+         <date when="1890" xml:lang="en">1890</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥaqāʾiq/The Arabic Quarterly Review</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Woking</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1892" xml:lang="en">1892</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥaqīqa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1901" xml:lang="en">1901</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Maggīd Meshahrim</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Calcutta</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1913" xml:lang="en">1913</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Muʾayyad</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1952" xml:lang="en">1952</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Muqaṭṭam</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1890" xml:lang="en">1890</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Tilighrāf</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1895" xml:lang="en">1895</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥuqūq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Istanbul</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1970" xml:lang="en">1970</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Maḥākim</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1892" xml:lang="en">1892</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mubashshir al-Tūnisī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Rawḍat al-Shām</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Damascus</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+         <date when="1904" xml:lang="en">1904</date>
+         <date when="1959" xml:lang="en">1959</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Zuhra</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1912" xml:lang="en">1912</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Aḥwāl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1892" xml:lang="en">1892</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Dalīl Wādī al-Nīl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1892" xml:lang="en">1892</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Farāʾid</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1893" xml:lang="en">1893</date>
+         <date when="1912" xml:lang="en">1912</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Fawāʾid al-Ṣiḥḥiyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+         <date when="1900" xml:lang="en">1900</date>
+         <date when="1903" xml:lang="en">1903</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Jarīdat Abī Naẓẓāra/Le Journal d’Abou Naddara</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1910" xml:lang="en">1910</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Lubnān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Baʿbdā</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1892" xml:lang="en">1892</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Nuṣra/El-Nosra/La Victoire</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1892" xml:lang="en">1892</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Muḥayyir/El-Mouhayer</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Waqāʾiʿ al-Būlīs</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Zirāʿa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1893" xml:lang="en">1893</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Aḥwāl</title>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1894" xml:lang="en">1894</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Fatāt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>still todayfew issues<tei:row role="data">
+      <tei:cell>
+         <date when="1896" xml:lang="en">1896</date>
+         <date when="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Kawkab Amīrkā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">New York</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1893" xml:lang="en">1893</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Manẓūm</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>few issues?<tei:row role="data">
+      <tei:cell>
+         <date when="1892" xml:lang="en">1892</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mubashshir al-Tūnisī/Le Messager Tunisien</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1893" xml:lang="en">1893</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Muntaẓar/Le Messie</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1895" xml:lang="en">1895</date>
+         <date when="1911" xml:lang="en">1911</date>
+         <date when="1920" xml:lang="en">1920</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Naḥla al-Usbūʿiyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1893" xml:lang="en">1893</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Nashra al-Injīliyya al-Miṣriyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1893" xml:lang="en">1893</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Nāṣir al-Muḥayyirīn</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1893" xml:lang="en">1893</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Naṣūḥ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Raʾy al-ʿĀmm</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1895" xml:lang="en">1895</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Rashād</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Surūr</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1893" xml:lang="en">1893</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ustādh</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Waqāʾiʿ al-Būlīs</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1894" xml:lang="en">1894</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-ʿAlam al-Miṣrī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Baṣīra/Le Clairevoyant</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>few issues<tei:row role="data">
+      <tei:cell>
+         <date when="1894" xml:lang="en">1894</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥaqq/El-Hack</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Algiers</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1894" xml:lang="en">1894</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ittiḥād al-Isrāʾīlī/L’Union Israélite</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1896" xml:lang="en">1896</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Khaznat al-Gharām</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1910" xml:lang="en">1910</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Murshid</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1894" xml:lang="en">1894</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Murṣid</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date notBefore="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Rawḍa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1917" xml:lang="en">1917</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ṭarābulus / then Ṭarābulus al-Shām</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tripoli</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1895" xml:lang="en">1895</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Taqaddum al-Miṣrī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1895" xml:lang="en">1895</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Thamra</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Arghūl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>short-lived<tei:row role="data">
+      <tei:cell>
+         <date when="1895" xml:lang="en">1895</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Fayyūm</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Fayyūm</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>short lived<tei:row role="data">
+      <tei:cell>
+         <date when="1912" xml:lang="en">1912</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Islām</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Lisān al-ʿArab</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1960" xml:lang="en">1960</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Miṣr</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1903" xml:lang="en">1903</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mushīr/ The Counsellor</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1896" xml:lang="en">1896</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Rawḍa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Baʿbdā</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1894" xml:lang="en">1894</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Shams</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1896" xml:lang="en">1896</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Urjul</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Anīs al-Jalīs</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1896" xml:lang="en">1896</date>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥaqīqa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1914" xml:lang="en">1914</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ḥaẓẓ al-Ḥayāt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1906" xml:lang="en">1906</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ikhlāṣ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1896" xml:lang="en">1896</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Kināna</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Nibrās</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Sabīl al-Rashād</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Sayyār</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>short lived<tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Tilighrāfāt al-Jadīda</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>short lived<tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Barāzil</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Brazil</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Faṣl al-Khiṭāb</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ghazāla</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥimāya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Helwan</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1896" xml:lang="en">1896</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Lisān al-Ḥaqq/Liçan El-Hak</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tunis</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Manṣūra</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Al-Manṣūra</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Mirʾāt al-Ḥasnāʾ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Nahj al-Qawīm</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Rāʾid al-Miṣrī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Shām</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Damascus</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ṭabīb al-ʿĀʾila wa-Murshid al-Labīb ʿind Ghaybat al-Ṭabīb</title>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Tafrīḥ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1903" xml:lang="en">1903</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Tawfīq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1897" xml:lang="en">1897</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Thabāt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+         <date when="1905" xml:lang="en">1905</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Thurayyā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>short life<tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ajyāl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-ʿAlam al-ʿUthmānī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>long<tei:row role="data">
+      <tei:cell>
+         <date when="1964" xml:lang="en">1964</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Baṣīr</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Bayān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1903" xml:lang="en">1903</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Jāzit al-Muʾlin bi’l-Bashāʾir wa’l-Asrār</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Zanzibar</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1903" xml:lang="en">1903</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Jazīt al-Shānba / The Shamba</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Zanzibar</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>4 parts<tei:row role="data">
+      <tei:cell>
+         <date when="1902" xml:lang="en">1902</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ṣāʿiqa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Salṭana</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Istanbul</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Taʾrīkh al-Yawmī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Tijāra</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Anīs al-Jalīs</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Aṣmaʿī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Sao Paulo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ayyām</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">New York</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Barāzil</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Sao Paulo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1906" xml:lang="en">1906</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḍiyāʾ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Filāḥa al-Miṣriyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1971" xml:lang="en">1971</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Hudā</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Philadelphia</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Kevkeb-i Osmānī / al-Kawkab al-ʿUthmānī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Istanbul</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Khayla al-Kadhdhāba</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Lisān al-ʿArab</title>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1921" xml:lang="en">1921</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Manār</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Lattakia</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1941" xml:lang="en">1941</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Manār</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1971" xml:lang="en">1971</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mashriq</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1901" xml:lang="en">1901</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mawsūʿāt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1939" xml:lang="en">1939</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Miṣr</title>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Qānūn al-Asāsī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1898" xml:lang="en">1898</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Rāʾid al-Miṣrī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Raqīb</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ṣabāḥ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Salām</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Shahbāʾ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-ʿUthmānī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1960" xml:lang="en">1960</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ghāzītiyya al-Sūdāniyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Khartoum</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>short lived<tei:row role="data">
+      <tei:cell>
+         <date when="1915" xml:lang="en">1915</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥayāt</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Suez</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥikma</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Banī Suwayf</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1908" xml:lang="en">1908</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ḥimārat Munyatī</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1906" xml:lang="en">1906</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Jāmiʿa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1910" xml:lang="en">1910</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Jāmiʿa al-ʿUthmāniyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Alexandria</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1906" xml:lang="en">1906</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Khilāfa</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">London</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1960" xml:lang="en">1960</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Mirʾāt al-Gharb</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">New York</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1934" xml:lang="en">1934</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mumtāz</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Tanta</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1903" xml:lang="en">1903</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Munṣif /L’Almonsef (L’Équitable) d’Abou Naddara</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Nāṣiḥ (Ṭ= Al-Naṣīḥ)</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Algiers</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>4 issuesfew issues<tei:row role="data">
+      <tei:cell>
+         <date when="1899" xml:lang="en">1899</date>
+         <date when="1900" xml:lang="en">1900</date>
+         <date when="1903" xml:lang="en">1903</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Tawaddud / L’Attawadad d’Abou Naddara</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>for 35 years<tei:row role="data">
+      <tei:cell>
+         <date when="1904" xml:lang="en">1904</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Ayn Shams</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>13 issues<tei:row role="data">
+      <tei:cell>
+         <date when="1904" xml:lang="en">1904</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥammāra</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>few issues<tei:row role="data">
+      <tei:cell>
+         <date when="1909" xml:lang="en">1909</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Majalla al-Miṣriyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1929" xml:lang="en">1929</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Makārim al-Akhlāq al-Islāmiyya</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1916" xml:lang="en">1916</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Miftāḥ</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1901" xml:lang="en">1901</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Raʾīs</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Jounieh / Jūnī (Lebanon)</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1834" xml:lang="en">1834</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Akhbār al-Qāṣid</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Valetta (Malta)</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Arghūl</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Cairo</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1900" xml:lang="en">1900</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">Thamarāt al-Adhhān</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Beirut</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+   <tei:row role="data">
+      <tei:cell>
+         <date when="1861" xml:lang="en">1861</date>
+      </tei:cell>
+      <tei:cell>CP</tei:cell>
+      <tei:cell/>
+      <tei:cell>
+         <title level="j" xml:lang="ar-Latn-x-ijmes">L’Aigle de Paris (Birgys)</title>
+      </tei:cell>
+      <tei:cell>
+         <placeName xml:lang="en">Paris</placeName>
+      </tei:cell>
+      <tei:cell/>
+      <tei:cell>Jaraid</tei:cell>
+      <tei:cell/>
+      <tei:cell/>
+   </tei:row>
+</tei:table>
+
             <div type="notes">
                 <head>Legend</head>
                 <p>The table is based on the table of suspensions, bans, and warnings provided by Cioeta, "Ottoman Censorship," 1979:182-185, which covered the years 1878-1908. I augmented his data with my readings, checked for corresponding gaps in publication when possible, corrected the dating, and added information on the years 1908-1914.</p>
