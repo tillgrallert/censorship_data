@@ -11580,17 +11580,17 @@
                     <tei:cell/>
                 </tei:row>
                 <tei:row role="data">
-                    <tei:cell> <date type="start" when="1900" xml:lang="en">1900</date> </tei:cell>
-                    <tei:cell>P</tei:cell>
+                    <tei:cell> <date type="start" xml:lang="en" notAfter="1901-01-28">1901-01-28</date> </tei:cell>
+                    <tei:cell>1</tei:cell>
                     <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Ṣadā Lubnān</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Beirut</placeName> </tei:cell>
+                    <tei:cell>The first issue was published  by Sajʿān Efendi ʿĀrij</tei:cell>
+                    <tei:cell>Jaraid, <ref target="tf-oib+1316@6"/></tei:cell>
                     <tei:cell/>
-                    <tei:cell>Jaraid</tei:cell>
                     <tei:cell/>
                     <tei:cell/>
-                    <tei:cell/>
-                </tei:row>
+                </tei:row><tei:row role="data"><tei:cell> <date type="start" xml:lang="en" notAfter="1901-01-28">1901-01-28</date> </tei:cell><tei:cell>1</tei:cell><tei:cell/><tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">al-Majalla al-Ṣiḥiyya</title> </tei:cell><tei:cell> <placeName xml:lang="en">Cairo</placeName> </tei:cell><tei:cell>The first issue arrived in Beirut, published by Najīb Efendi Ghannāja</tei:cell><tei:cell>Jaraid, <ref target="tf-oib+1316@6"/></tei:cell><tei:cell/><tei:cell/><tei:cell/></tei:row>
                 <tei:row role="data">
                     <tei:cell> <date type="start" notAfter="1900-01-31" notBefore="1900-01-01"
                         xml:lang="en">1900</date> </tei:cell>
@@ -12272,7 +12272,7 @@
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
-                </tei:row>
+                </tei:row><tei:row><tei:cell><date notAfter="1901-01-28">1901-01-28</date></tei:cell><tei:cell>CP</tei:cell><tei:cell/><tei:cell><title level="j" xml:lang="ar-Latn-x-ijmes">Al-Miṣbāḥ al-Jadīd</title> </tei:cell><tei:cell>Cairo</tei:cell><tei:cell>the paper ceased publication after a few issues</tei:cell><tei:cell><ref target="tf-oib+1316@6"/></tei:cell><tei:cell/><tei:cell/><tei:cell/></tei:row>
                 <tei:row>
                     <tei:cell><date when="1899-12-18">1899-12-18</date></tei:cell>
                     <tei:cell>P</tei:cell>
@@ -12409,23 +12409,7 @@
                     <cell n="7">7 days</cell>
                     <cell n="8"/>
                     <cell n="9"/>
-                </row>
-                <row n="142" role="data">
-                    <cell n="1"> <date when="1901-06-15">1901-06-15</date> </cell>
-                    <cell n="2">RP</cell>
-                    <cell n="3"/>
-                    <cell n="4">al-Miṣbāḥ <ref target="#fnText2" type="noteAnchor">T</ref> </cell>
-                    <cell><placeName>Beirut</placeName></cell>
-                    <cell n="5">after a long absence, <title level="j"
-                        >al-Miṣbāḥ</title> recommenced publication.</cell>
-                    <cell n="6"> <ref target="mahabba+20-eap" type="SenteCitationID"> <tei:bibl
-                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
-                        xmlns:html="http://www.w3.org/1999/xhtml"
-                        >Maḥabba 15 Jun 1901 (#120)</tei:bibl> </ref> </cell>
-                    <cell n="7"/>
-                    <cell n="8"/>
-                    <cell n="9"/>
-                </row>
+                </row><row n="142" role="data"><cell n="1"> <date when="1901-06-15">1901-06-15</date> </cell><cell n="2">RP</cell><cell n="3"/><cell n="4">al-Miṣbāḥ <ref target="#fnText2" type="noteAnchor">T</ref> </cell><cell><placeName>Beirut</placeName></cell><cell n="5">after a long absence, <title level="j">al-Miṣbāḥ</title> recommenced publication.</cell><cell n="6"> <ref target="mahabba+20-eap" type="SenteCitationID"> <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0" xmlns:html="http://www.w3.org/1999/xhtml">Maḥabba 15 Jun 1901 (#120)</tei:bibl> </ref> </cell><cell n="7"/><cell n="8"/><cell n="9"/></row><row n="142" role="data"><cell n="1"> <date when="1901-06-15">1901-01-28</date> </cell><cell n="2">RP</cell><cell n="3"/><cell n="4">al-Miṣbāḥ</cell><cell><placeName>Beirut</placeName></cell><cell n="5"><title level="j">al-Miṣbāḥ</title> resumed publication after a coupe of months</cell><cell n="6"> <ref target="tf-oib+1316@6" type="SenteCitationID"> </ref> </cell><cell n="7"/><cell n="8"/><cell n="9"/></row>
                 <row>
                     <cell n="1"><date notAfter="1901-07-01">1901-07-01</date></cell>
                     <cell n="2">PR</cell>
