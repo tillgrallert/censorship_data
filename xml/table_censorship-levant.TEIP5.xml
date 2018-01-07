@@ -12044,12 +12044,12 @@
                 </tei:row>
                 <tei:row role="data">
                     <tei:cell> <date type="start" when="1900-06-15" xml:lang="en">1900-06-15</date> </tei:cell>
-                    <tei:cell>P</tei:cell>
+                    <tei:cell>1</tei:cell>
                     <tei:cell/>
                     <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Shams</title> </tei:cell>
                     <tei:cell> <placeName xml:lang="en">Damascus</placeName> </tei:cell>
-                    <tei:cell>3rd issue was published</tei:cell>
-                    <tei:cell>Jaraid, <ref target="bashir+1450" type="SenteCitationID"> <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0" xmlns:html="http://www.w3.org/1999/xhtml">Bashīr 18 Aug 1900 (#1450)</tei:bibl> </ref> </tei:cell>
+                    <tei:cell>1st and 3rd issues were published</tei:cell>
+                    <tei:cell>Jaraid, <ref target="bashir+1450 tf-oib+1287@6" type="SenteCitationID"> <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0" xmlns:html="http://www.w3.org/1999/xhtml">Bashīr 18 Aug 1900 (#1450)</tei:bibl> </ref> </tei:cell>
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
@@ -12077,7 +12077,7 @@
                     <tei:cell/>
                     <tei:cell/>
                     <tei:cell/>
-                </tei:row>
+                </tei:row><tei:row><tei:cell><date when="1900-07-16">1900-07-16</date></tei:cell><tei:cell>1</tei:cell><tei:cell/><tei:cell><title level="j">Rāyat Ṣahiyūn</title></tei:cell><tei:cell>Alexandria</tei:cell><tei:cell>The first issue of this Protestant paper was published</tei:cell><tei:cell><ref target="tf-oib+1293@6"/></tei:cell><cell/><tei:cell/><tei:cell/><tei:cell/></tei:row>
                 <row n="129" role="data">
                     <cell n="1"> <date when="1900-07-14">1900-07-14</date> </cell>
                     <cell n="2">S</cell>
@@ -12110,7 +12110,7 @@
                     <cell n="1"> <date when="1900-07-21">1900-07-21</date> </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
-                    <cell n="4">al-Aḥwāl <ref target="#fnText2" type="noteAnchor">T</ref> </cell>
+                    <cell n="4"><title level="j">al-Aḥwāl</title> <ref target="#fnText2" type="noteAnchor">T</ref> </cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Permit for resuming publication</cell>
                     <cell n="6"> <ref target="lisan+3478" type="SenteCitationID"> <tei:bibl
@@ -12125,7 +12125,7 @@
                     <cell n="1"> <date when="1900-08-05">1900-08-05</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
-                    <cell n="4">Bayrūt, non-official</cell>
+                    <cell n="4"><title level="j">Bayrūt</title>, non-official</cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Violation of the basic principle of the Press Law</cell>
                     <cell n="6"> <ref target="tf-oib+1293" type="SenteCitationID"> <tei:bibl
