@@ -2317,6 +2317,18 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+                <row>
+                    <cell n="1"><date when="1880-12-11">1880-12-11</date></cell>
+                    <cell n="2">W</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Bashīr</cell>
+                    <cell><placeName>Beirut</placeName></cell>
+                    <cell n="5">Corrupted news (mentioned in the following warning)</cell>
+                    <cell n="6"><ref type="SentenCitationID" target="thamarat-oib-7-347@3"/></cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
                 <row n="16" role="data">
                     <cell n="1"> <date when="1880-12-20">1880-12-20</date> </cell>
                     <cell n="2">W</cell>
@@ -2324,10 +2336,13 @@
                     <cell n="4">All newspapers</cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Harmful and contradictory news</cell>
-                    <cell n="6"> <ref target="thamarat+310" type="SenteCitationID"> <tei:bibl
-                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
-                        xmlns:html="http://www.w3.org/1999/xhtml"
-                        >Thamarāt 20 Dec 1880 (#310)</tei:bibl> </ref> </cell>
+                    <cell n="6">
+                        <ref target="thamarat-oib-6-310@1" type="SenteCitationID">
+                            <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                                xmlns:html="http://www.w3.org/1999/xhtml">Thamarāt 20 Dec 1880
+                                (#310)</tei:bibl>
+                        </ref>
+                    </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2342,10 +2357,13 @@
                         >No reasons given. Lisān's gap of publication of 3 numbers at some point between <date
                         when="1880-12-23">23 Dec</date> and <date when="1881-01-13"
                         >13 Jan</date> .</cell>
-                    <cell n="6"> <ref target="thamarat+311" type="SenteCitationID"> <tei:bibl
-                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
-                        xmlns:html="http://www.w3.org/1999/xhtml"
-                        >Thamarāt 27 Dec 1880 (#311)</tei:bibl> </ref> </cell>
+                    <cell n="6">
+                        <ref target="thamarat-oib-6-311@1" type="SenteCitationID">
+                            <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                                xmlns:html="http://www.w3.org/1999/xhtml">Thamarāt 27 Dec 1880
+                                (#311)</tei:bibl>
+                        </ref>
+                    </cell>
                     <cell n="7">15 days</cell>
                     <cell n="8"/>
                     <cell n="9"/>
@@ -2661,10 +2679,13 @@
                     <cell n="4">al-Bashīr</cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Inciting religious fanaticism</cell>
-                    <cell n="6"> <ref target="thamarat+347" type="SenteCitationID"> <tei:bibl
-                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
-                        xmlns:html="http://www.w3.org/1999/xhtml"
-                        >Thamarāt 12 Sep 1881 (#347)</tei:bibl> </ref> </cell>
+                    <cell n="6">
+                        <ref target="thamarat-oib-7-347@3" type="SenteCitationID">
+                            <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                                xmlns:html="http://www.w3.org/1999/xhtml">Thamarāt 12 Sep 1881
+                                (#347)</tei:bibl>
+                        </ref>
+                    </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
