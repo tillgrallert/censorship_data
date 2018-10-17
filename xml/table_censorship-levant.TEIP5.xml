@@ -6944,10 +6944,11 @@
                     <cell n="1"> <date when="1894-01-15">1894-01-15</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
-                    <cell n="4">al-Aḥwāl</cell>
+                    <cell n="4"><title level="j">al-Aḥwāl</title></cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">A false news report</cell>
-                    <cell n="6">Thamarāt 15 Jan. 1894 (#963):1</cell>
+                    <cell n="6"><ref target="thamarat-oib-20-963@1" type="SenteCitationID"
+                        >Thamarāt 15 Jan. 1894 (#963):1</ref></cell>
                     <cell n="7">indefinite</cell>
                     <cell n="8"/>
                     <cell n="9"/>
