@@ -14921,6 +14921,18 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
+<row>
+<cell n="1"><date when="1912-05-12">1912-05-12</date></cell>
+<cell n="2">1</cell>
+<cell n="3"/>
+<cell n="4"><title level="j">Dayr al-Qamar</title></cell>
+<cell><placeName>Dayr al-Qamar</placeName></cell>
+<cell n="5">first issue  of this weekly, published by <persName>Naʿūm al-Bustānī</persName> and <persName>Wadīʿ Afram al-Bustānī</persName></cell>
+<cell n="6"><ref target="dayr-al-qamar-83" type="SenteCitationID"/></cell>
+<cell n="7"/>
+<cell n="8"/>
+<cell n="9"/>
+</row>
                 <row>
                     <cell n="1"> <date when="1912-08-08">1912-08-08</date> </cell>
                     <cell n="2">RP</cell>
