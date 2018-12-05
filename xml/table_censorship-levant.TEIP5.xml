@@ -4237,13 +4237,16 @@
                     <cell n="5"
                         >Banned from publication for one month for reports on the Tzar's journey in #928 of <date
                         when="1887-01-13">13 Jan 1887</date> </cell>
-                    <cell n="6"> <ref target="lisan+931 hadiqat+1482" type="SenteCitationID">
-                        <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
-                        xmlns:html="http://www.w3.org/1999/xhtml"
-                        >Lisān 24 Jan 1887 (#931)</tei:bibl>, <tei:bibl
-                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
-                        xmlns:html="http://www.w3.org/1999/xhtml"
-                        >Ḥadīqat 27 Jan 1887 (#1482)</tei:bibl> </ref> </cell>
+                    <cell n="6">
+                        <ref target="lisan+931 hadiqat+1482 tf-oib+615@4" type="SenteCitationID">
+                            <tei:bibl xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                                xmlns:html="http://www.w3.org/1999/xhtml">Lisān 24 Jan 1887
+                                (#931)</tei:bibl>, <tei:bibl
+                                xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+                                xmlns:html="http://www.w3.org/1999/xhtml">Ḥadīqat 27 Jan 1887
+                                (#1482)</tei:bibl>
+                        </ref>
+                    </cell>
                     <cell n="7">1 month</cell>
                     <cell n="8"> <date when="1887-01-25">1887-01-25</date> </cell>
                     <cell n="9"> <date when="1887-02-16">1887-02-16</date> </cell>
