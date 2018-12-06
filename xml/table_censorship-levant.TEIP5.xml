@@ -1905,6 +1905,18 @@
                     <tei:cell/>
                 </tei:row>
                 <tei:row role="data">
+                    <tei:cell> <date type="start" when="1879-03-10" xml:lang="en">1879-03-10</date> </tei:cell>
+                    <tei:cell>1</tei:cell>
+                    <tei:cell/>
+                    <tei:cell> <title level="j" xml:lang="ar-Latn-x-ijmes">Mirʾāt al-Sharq</title> </tei:cell>
+                    <tei:cell> <placeName xml:lang="en">Cairo</placeName> </tei:cell>
+                    <tei:cell>we received the first issue of the newspaper <title level="j">Mirāʾat al-Sharq</title> published in Egypt by <persName>Salīm Efendi ʿAnḥūrī</persName>. the director of publication is <persName>Amīn Efendi Nāṣīf</persName></tei:cell>
+                    <tei:cell><ref type="SenteCitationID" target="thamarat-oib-5-219@1"/></tei:cell>
+                    <tei:cell/>
+                    <tei:cell/>
+                    <tei:cell/>
+                </tei:row>
+                <tei:row role="data">
                     <tei:cell> <date type="start" when="1879-03-21" xml:lang="en">1879-03-21</date> </tei:cell>
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
