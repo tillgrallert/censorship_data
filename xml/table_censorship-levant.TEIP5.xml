@@ -1932,7 +1932,7 @@
                     <cell n="1"> <date when="1879-03-24">1879-03-24</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
-                    <cell n="4">al-Janna</cell>
+                    <cell n="4"><title level="j">al-Janna</title></cell>
                     <cell><placeName>Beirut</placeName></cell>
                     <cell n="5">Incitement to tax evasion and a false report</cell>
                     <cell n="6"> <ref target="thamarat+221a" type="SenteCitationID"> <tei:bibl
