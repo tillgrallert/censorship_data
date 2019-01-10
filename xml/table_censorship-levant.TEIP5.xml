@@ -15343,19 +15343,11 @@
                     <cell n="3">yes</cell>
                     <cell n="4">al-Muqtabas</cell>
                     <cell><placeName>Damascus</placeName></cell>
-                    <cell n="5"/>
-                    <cell n="6"> <ref target="Hermann+1990@109 Devey+1914" type="SenteCitationID"
-                        >{Hermann 1990@109 **not found** }, <tei:bibl
-                        xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
-                        xmlns:html="http://www.w3.org/1999/xhtml"
-                        >PRO FO 618/3 Damascus Draft 15, Devey to Mallet, <tei:emph
-                        xmlns="http://www.w3.org/1999/xhtml"
-                        xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
-                        style="font-style:italic">Quarterly Report</tei:emph>, 2 May 1914</tei:bibl>
-                        </ref> </cell>
+                    <cell n="5">information on a group of feminists in Constantinople opposed to the ḥijāb</cell>
+                    <cell n="6"> <ref target="Hermann+1990@109 Devey+1914 Ezzerelli+2017@195" type="SenteCitationID">{Hermann 1990@109 **not found** }, <tei:bibl xmlns:html="http://www.w3.org/1999/xhtml" xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0">PRO FO 618/3 Damascus Draft 15, Devey to Mallet, <tei:emph style="font-style:italic" xmlns="http://www.w3.org/1999/xhtml" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">Quarterly Report</tei:emph>, 2 May 1914</tei:bibl> </ref> </cell>
                     <cell n="7"/>
-                    <cell n="8"> <date when="1914-04-14">1914-04-14</date> </cell>
-                    <cell n="9"> <date when="1915-02-11">1915-02-11</date> </cell>
+                    <cell n="8"> <date when="1914-04-14">1914-04-15</date> </cell>
+                    <cell n="9"> <date when="1915-02-11">1915-01-02</date> </cell>
                 </row>
                 <row>
                     <cell n="1"><date notAfter="1914-05-29">1914-05-29</date></cell>
@@ -15412,14 +15404,13 @@
                     <cell n="9"/>
                 </row>
                 <row>
-                    <cell n="1"> <date when="1915-02-11">1915-02-11</date> </cell>
+                    <cell n="1"> <date when="1915-02-11">1915-01-02</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
-                    <cell n="4">al-Muqtabas</cell>
+                    <cell n="4"><title level="j">al-Muqtabas</title></cell>
                     <cell><placeName>Damascus</placeName></cell>
                     <cell n="5"/>
-                    <cell n="6"> <ref target="Hermann+1990@109" type="SenteCitationID"
-                        >{Hermann 1990@109 **not found** }</ref> </cell>
+                    <cell n="6"> <ref target="Ezzerelli+2017@197 Hermann+1990@109" type="SenteCitationID">{Hermann 1990@109 **not found** }</ref> </cell>
                     <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
