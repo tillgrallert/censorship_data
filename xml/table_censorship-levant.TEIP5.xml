@@ -21458,6 +21458,17 @@
       <tei:cell/>
       <tei:cell/>
    </tei:row>
+<tei:row>
+<tei:cell><date>1912</date></tei:cell>
+<tei:cell>S</tei:cell>
+<tei:cell/>
+<tei:cell><title level="j">al-Madīna</title></tei:cell>
+<tei:cell><placeName>Istanbul</placeName></tei:cell>
+<tei:cell>Arabic newspaper published by ʿAbd al-Ḥamīd al-Zahrāwī</tei:cell>
+<tei:cell><ref type="SenteCitationID" target="Khalidi+1984@463-464">{Khalidi 1984}</ref></tei:cell>
+<tei:cell/>
+<tei:cell/>
+</tei:row>
 </table>
 
             <div type="notes">
