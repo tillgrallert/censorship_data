@@ -19915,6 +19915,22 @@
                 </row>
                 <row>
                     <cell n="1">
+                        <date when="1910-03-31">1910-03-31</date>
+                    </cell>
+                    <cell n="2">1</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Raʾī al-ʿĀmm</cell>
+                    <cell>Beirut</cell>
+                    <cell n="5">The first issues of this daily newspaper were published by <persName>Ṭaha Efendi al-Mudawwar</persName></cell>
+                    <cell n="6">
+                        <ref target="ittihad-2-466@3" type="SenteCitationID"/>
+                    </cell>
+                    <cell n="7"/>
+                    <cell n="8"/>
+                    <cell n="9"/>
+                </row>
+                <row>
+                    <cell n="1">
                         <date notAfter="1910-04-15">1910-04-15</date>
                     </cell>
                     <cell n="2">1</cell>
