@@ -2393,8 +2393,8 @@
                </imprint>
             </monogr>
             <note type="events"> <listEvent>
-               <event source="@tf-oib+1225, 5" subtype="P" type="start" when="1897-02-09" xml:lang="en">
-                  <label>P</label>
+               <event source="@tf-oib+1225, 5" subtype="1" type="start" when="1897-02-09" xml:lang="en">
+                  <label>1</label>
                   <desc> <date type="documented" when="1897-02-09" xml:lang="en">1897-02-09</date> </desc>
                   <note type="comments">The first two issues arrived in Beirut</note>
                   <listBibl>
@@ -4630,7 +4630,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -4670,7 +4670,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -5094,7 +5094,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -5150,7 +5150,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Umma</title>
                <imprint>
@@ -5169,7 +5169,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Umma</title>
                <imprint>
@@ -5262,7 +5262,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -6026,7 +6026,8 @@
                <event source="@muqtabas+266-eap, 3" subtype="Trial" type="censorship" when="1911-06-06">
                   <label>Trial</label>
                   <desc> <date type="documented" when="1911-06-06">1911-06-06</date> </desc>
-                  <note type="comments"> <persName>Ḥilmī Efendi al-Fatiyānī</persName>, responsible director of " <title level="j">Ḥaṭṭ bi-l-Kharaj</title>
+                  <note type="comments"> <persName>Ḥilmī Efendi al-Fatiyānī</persName>, responsible director of " <title level="j"
+                     >Ḥaṭṭ bi-l-Kharaj</title>
                         ", informed us that the judiciary of Damascus indicted <persName>ʿĀrif Efendi al-Habl</persName> , the owner of said paper and ordered him to leave the province. the MoJ etc. decided that local authorities have no authority in this matter</note>
                   <listBibl>
                      <bibl ana="@muqtabas+266-eap, 3"> <bibl>Muqtabas (j) 6 Jun 1911 (#696):3</bibl> </bibl>
@@ -6346,7 +6347,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -6364,7 +6365,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -6438,7 +6439,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -6652,7 +6653,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -6671,7 +6672,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Qabas</title>
                <imprint>
@@ -6690,7 +6691,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -6855,7 +6856,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -6909,7 +6910,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title type="j">al-Muqtabas</title>
                <imprint>
@@ -7002,7 +7003,7 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct subtype="newspaper" type="periodical">
             <monogr>
                <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
