@@ -12000,14 +12000,14 @@
                 <row n="157" role="data">
                     <cell n="1"> <date when="1903-09-13">1903-09-13</date> </cell>
                     <cell n="2">S</cell>
-                    <cell n="3"/>
+                    <cell n="3">yes</cell>
                     <cell n="4">al-Iqbāl</cell>
                     <cell> <placeName>Beirut</placeName> </cell>
                     <cell n="5">Publication of articles which violated the basic principle of the Press Law</cell>
                     <cell n="6">TF 1449:5, Iq 53:6</cell>
                     <cell n="7">14 days</cell>
-                    <cell n="8"/>
-                    <cell n="9"/>
+                    <cell n="8">1903-09-12</cell>
+                    <cell n="9">1903-10-11</cell>
                 </row>
                 <row n="158" role="data">
                     <cell n="1"> <date when="1903-10-22">1903-10-22</date> </cell>
@@ -12064,15 +12064,15 @@
                 <row n="162" role="data">
                     <cell n="1"> <date when="1904-02-14">1904-02-14</date> </cell>
                     <cell n="2">S</cell>
-                    <cell n="3"/>
+                    <cell n="3">yes</cell>
                     <cell n="4">al-Iqbāl</cell>
                     <cell> <placeName>Beirut</placeName> </cell>
                     <cell n="5">Disregarding the censor's warning</cell>
                     <cell n="6"> <ref target="tf-oib+1468" type="SenteCitationID"> <tei:bibl xmlns:html="http://www.w3.org/1999/xhtml" xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
                         >Thamarāt 15 Feb 1904 (#1468)</tei:bibl> </ref> </cell>
                     <cell n="7">indefinite</cell>
-                    <cell n="8"/>
-                    <cell n="9"/>
+                    <cell n="8">1904-02-09</cell>
+                    <cell n="9">1904-10-30</cell>
                 </row>
                 <row n="163" role="data">
                     <cell n="1"> <date when="1904-02-15">1904-02-15</date> </cell>
@@ -12216,6 +12216,18 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0">Lisān 17 Dec 1904 (#4736)</tei:bibl> , <tei:bibl xmlns:html="http://www.w3.org/1999/xhtml"
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0">Bashīr 19 Dec 1904 (#1680)</tei:bibl></ref> </cell>
                     <cell n="7">1 month</cell>
+                    <cell n="8"><date when="1904-11-15">1904-11-15</date> </cell>
+                    <cell n="9"><date when="1904-12-16">1904-12-16</date> </cell>
+                </row>
+                <row n="162" role="data">
+                    <cell n="1"> <date when="1904-02-14">1904-10-31</date> </cell>
+                    <cell n="2">PR</cell>
+                    <cell n="3"/>
+                    <cell n="4">al-Iqbāl</cell>
+                    <cell> <placeName>Beirut</placeName> </cell>
+                    <cell n="5">recommenced publication</cell>
+                    <cell n="6"> Iqbāl #70 </cell>
+                    <cell n="7"/>
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
@@ -12256,8 +12268,8 @@
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0">Lisān 17 Dec 1904 (#4736)</tei:bibl>, <tei:bibl xmlns:html="http://www.w3.org/1999/xhtml"
                         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0">Bashīr 19 Dec 1904 (#1680)</tei:bibl></ref> </cell>
                     <cell n="7">1 month</cell>
-                    <cell n="8"> <date when="1904-11-15">1904-11-15</date> </cell>
-                    <cell n="9"> <date when="1904-12-16">1904-12-16</date> </cell>
+                    <cell n="8"> </cell>
+                    <cell n="9"> </cell>
                 </row>
                 <row n="175" role="data">
                     <cell n="1"> <date when="1905-01-12">1905-01-12</date> </cell>
