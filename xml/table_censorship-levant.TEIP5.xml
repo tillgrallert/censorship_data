@@ -1052,7 +1052,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <tei:row>
+                <tei:row role="data">
                     <tei:cell> <date notAfter="1875-10-05">1875-10-05</date> </tei:cell>
                     <tei:cell>RP</tei:cell>
                     <tei:cell/>
@@ -1064,7 +1064,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <tei:row>
+                <tei:row role="data">
                     <tei:cell> <date notAfter="1875-10-05">1875-10-05</date> </tei:cell>
                     <tei:cell>RP</tei:cell>
                     <tei:cell/>
@@ -1115,7 +1115,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1876-06-01">1876-06-01</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -1127,7 +1127,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1876-06-22">1876-06-22</date> </cell>
                     <cell n="2">CP</cell>
                     <cell n="3"/>
@@ -1163,7 +1163,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <tei:row>
+                <tei:row role="data">
                     <tei:cell>1876-11-13</tei:cell>
                     <tei:cell>BI</tei:cell>
                     <tei:cell/>
@@ -1283,7 +1283,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1877-05-24">1877-05-24</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -1295,7 +1295,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1877-05-31">1877-05-31</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -1307,7 +1307,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1877-06-07">1877-06-07</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
@@ -1343,7 +1343,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1877-10-11">1877-10-11</date> </cell>
                     <cell n="2">Gap</cell>
                     <cell n="3"/>
@@ -1396,7 +1396,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1877-12-20">1877-12-20</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -1408,7 +1408,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1877-12-27">1877-12-27</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -1565,7 +1565,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1878-01-31">1878-01-31</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -1577,7 +1577,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1878-02-07">1878-02-07</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
@@ -2172,7 +2172,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1880-12-11">1880-12-11</date> </cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
@@ -2880,7 +2880,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date from="1882-09-05" to="1882-10-02">1882-09-05</date> </cell>
                     <cell n="2">Gap</cell>
                     <cell n="3"/>
@@ -4925,7 +4925,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1">1890-04-14</cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
@@ -4937,7 +4937,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1">1890-04-14</cell>
                     <cell n="2">W</cell>
                     <cell n="3"/>
@@ -5161,7 +5161,7 @@
                     <cell n="8">1891-07-08</cell>
                     <cell n="9">1891-10-24</cell>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1">1891-07-06</cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -5185,7 +5185,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1891-10-01">1891-10-01</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -8609,7 +8609,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <tei:row>
+                <tei:row role="data">
                     <tei:cell> <date when="1897-07-12">1897-07-12</date> </tei:cell>
                     <tei:cell>Trial</tei:cell>
                     <tei:cell/>
@@ -8622,7 +8622,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <tei:row>
+                <tei:row role="data">
                     <tei:cell> <date notAfter="1897-07-19">1897-07-19</date> </tei:cell>
                     <tei:cell>S</tei:cell>
                     <tei:cell/>
@@ -9139,7 +9139,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <tei:row>
+                <tei:row role="data">
                     <tei:cell>1898-01-03</tei:cell>
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
@@ -11422,7 +11422,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <tei:row>
+                <tei:row role="data">
                     <tei:cell> <date when="1900-07-16">1900-07-16</date> </tei:cell>
                     <tei:cell>1</tei:cell>
                     <tei:cell/>
@@ -11611,7 +11611,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <tei:row>
+                <tei:row role="data">
                     <tei:cell> <date notAfter="1901-01-28">1901-01-28</date> </tei:cell>
                     <tei:cell>CP</tei:cell>
                     <tei:cell/>
@@ -11623,7 +11623,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <tei:row>
+                <tei:row role="data">
                     <tei:cell> <date when="1899-12-18">1899-12-18</date> </tei:cell>
                     <tei:cell>P</tei:cell>
                     <tei:cell/>
@@ -11663,7 +11663,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1901-02-18">1901-02-18</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -11757,7 +11757,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1901-07-01">1901-07-01</date> </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
@@ -11769,7 +11769,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1906-07-01">1906-07-01</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -11781,7 +11781,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1901-09-07">1901-09-07</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -11873,7 +11873,7 @@
                     <cell n="8"> <date when="1901-12-03">1901-12-03</date> </cell>
                     <cell n="9"> <date when="1901-12-15">1901-12-15</date> </cell>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1">1902-01-01</cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -11885,7 +11885,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1">1902-01-01</cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12152,7 +12152,7 @@
                     <cell n="8"> <date when="1904-07-11">1904-07-11</date> </cell>
                     <cell n="9"> <date when="1904-08-01">1904-08-01</date> </cell>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1904-03-31" notBefore="1904-01-01">1904-07-09</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -12231,7 +12231,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1904-11-07">1904-11-07</date> </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
@@ -12324,7 +12324,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1906-06-11">1906-06-11</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12430,7 +12430,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1908-08-24">1908-08-24</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12443,7 +12443,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1908-08-24">1908-08-24</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12456,7 +12456,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1908-08-31">1908-08-31</date> </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
@@ -12495,7 +12495,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1908-09-21">1908-09-21</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12522,7 +12522,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1908-10-12">1908-10-12</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12586,7 +12586,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1908-11-09">1908-11-09</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12598,7 +12598,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1908-11-09">1908-11-09</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12610,7 +12610,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1908-11-09">1908-11-09</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12755,7 +12755,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1">1909-02-09</cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12837,7 +12837,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-06-02">1909-06-02</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -12849,7 +12849,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-06-02">1909-06-02</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -12861,7 +12861,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-06-27">1909-06-27</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -12874,7 +12874,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-06-28">1909-06-28</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -12886,7 +12886,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-08-30">1909-08-30</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -12912,7 +12912,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-08-02">1909-08-02</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12924,7 +12924,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-08-02">1909-08-02</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12936,7 +12936,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-08-02">1909-08-02</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -12948,7 +12948,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-08-02">1909-08-02</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -13007,7 +13007,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-10-09">1909-10-09</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -13049,7 +13049,7 @@
                     <cell n="9"/>
                     <cell n="1"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-11-20">1909-11-20</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -13074,7 +13074,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1909-12-31">1909-12-31</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13086,7 +13086,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1909-12-31">1909-12-31</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13112,7 +13112,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-03-18">1910-03-18</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13124,7 +13124,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-03-29">1910-03-29</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13139,7 +13139,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-03-31">1910-03-31</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13151,7 +13151,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-04-15">1910-04-15</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13163,7 +13163,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-06-06">1910-06-06</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -13190,7 +13190,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-06-13">1910-06-13</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -13202,7 +13202,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-06-26">1910-06-26</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13216,7 +13216,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-07-01">1910-07-01</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -13231,7 +13231,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-07-07">1910-07-07</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13243,7 +13243,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-07-11">1910-07-11</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -13256,7 +13256,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-07-14">1910-07-14</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
@@ -13283,7 +13283,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-08-03">1910-08-03</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13295,7 +13295,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-08-07">1910-08-07</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13307,7 +13307,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-08-15">1910-08-15</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -13319,7 +13319,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-08-16">1910-08-16</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -13332,7 +13332,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-08-20">1910-08-20</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13348,7 +13348,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-08-20">1910-08-20</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13361,7 +13361,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-08-18">1910-08-18</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13374,7 +13374,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-08-23">1910-08-23</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -13386,7 +13386,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-08-27">1910-08-27</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -13400,7 +13400,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-08-30">1910-08-30</date> </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
@@ -13413,7 +13413,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-09-07">1910-09-07</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13425,7 +13425,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-09-24">1910-09-24</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13439,7 +13439,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-09-26">1910-09-26</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
@@ -13452,7 +13452,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1910-09-26">1910-09-26</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13465,7 +13465,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1910-10-20">1910-10-20</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -13477,7 +13477,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-01-23">1911-01-23</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -13489,7 +13489,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-03-14">1911-03-14</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -13501,7 +13501,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-04-20">1911-04-20</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13513,7 +13513,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-04-20">1911-04-20</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13526,7 +13526,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-04-20">1911-04-20</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13539,7 +13539,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-04-20">1911-04-20</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13551,7 +13551,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-04-20">1911-04-20</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13576,7 +13576,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-04-29">1911-04-29</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -13589,7 +13589,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-04-29">1911-04-29</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -13602,7 +13602,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-04-29">1911-04-29</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13614,7 +13614,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-05-30">1911-05-30</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13628,7 +13628,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-06-06">1911-06-06</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13643,7 +13643,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-07-03">1911-07-03</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13655,7 +13655,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-07-08">1911-07-08</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -13667,7 +13667,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-07-10">1911-07-10</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -13679,7 +13679,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-07-27">1911-07-27</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -13692,7 +13692,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-10-19">1911-10-19</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13704,7 +13704,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-10-19">1911-10-19</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13716,7 +13716,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-10-19">1911-10-19</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13728,7 +13728,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-10-19">1911-10-19</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13740,7 +13740,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-10-19">1911-10-19</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13752,7 +13752,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-10-19">1911-10-19</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -13764,7 +13764,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-10-21">1911-10-21</date> </cell>
                     <cell n="2">PI</cell>
                     <cell n="3"/>
@@ -13777,7 +13777,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-10-21">1911-10-21</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -13791,7 +13791,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-10-21">1911-10-21</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -13804,7 +13804,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1911-10-21">1911-10-21</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -13818,7 +13818,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-10-28">1911-10-28</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -13832,7 +13832,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1911-10-28">1911-10-28</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -13846,7 +13846,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-09-09" notBefore="1909-05-01">1912, summer</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13858,7 +13858,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1909-09-09" notBefore="1909-05-01">1912, summer</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -13870,7 +13870,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell> <date when="1912-04-16">1912-04-16</date> </cell>
                     <cell>S</cell>
                     <cell>yes</cell>
@@ -13909,7 +13909,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1912-05-12">1912-05-12</date> </cell>
                     <cell n="2">1</cell>
                     <cell n="3"/>
@@ -13921,7 +13921,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1912-08-08">1912-08-08</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -13934,7 +13934,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1912-08-08">1912-08-08</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -13947,7 +13947,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1912-08-16">1912-08-16</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -13960,7 +13960,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1912-08-16">1912-08-16</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -14021,7 +14021,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1913-03-05">1913-03-05</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -14034,7 +14034,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1913-03-24">1913-03-24</date> </cell>
                     <cell n="2">BI</cell>
                     <cell n="3"/>
@@ -14046,7 +14046,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1913-08-31">1913-08-31</date> </cell>
                     <cell n="2">CP</cell>
                     <cell n="3"/>
@@ -14058,7 +14058,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1913-09-06">1913-09-06</date> </cell>
                     <cell n="2">PI</cell>
                     <cell n="3"/>
@@ -14098,7 +14098,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1913-10-22">1913-10-22</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -14123,7 +14123,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1913-12-01">1913-12-01</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -14148,7 +14148,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1913-12-01">1913-12-01</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3"/>
@@ -14160,7 +14160,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1913-12-17">1913-12-17</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -14173,7 +14173,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1913-12-25">1913-12-25</date> </cell>
                     <cell n="2">Trial</cell>
                     <cell n="3"/>
@@ -14223,7 +14223,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1914-04-06">1914-04-06</date> </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
@@ -14236,7 +14236,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1914-04-06">1914-04-06</date> </cell>
                     <cell n="2">PR</cell>
                     <cell n="3"/>
@@ -14249,7 +14249,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1914-04-15">1914-04-15</date> </cell>
                     <cell n="2">S</cell>
                     <cell n="3">yes</cell>
@@ -14264,7 +14264,7 @@
                     <cell n="8"> <date when="1914-04-14">1914-04-15</date> </cell>
                     <cell n="9"> <date when="1915-02-11">1915-01-02</date> </cell>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date notAfter="1914-05-29">1914-05-29</date> </cell>
                     <cell n="2">P</cell>
                     <cell n="3"/>
@@ -14276,7 +14276,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1914-09-11">1914-09-11</date> </cell>
                     <cell n="2">CP</cell>
                     <cell n="3"/>
@@ -14289,7 +14289,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1914-09-11">1914-09-11</date> </cell>
                     <cell n="2">CP</cell>
                     <cell n="3"/>
@@ -14301,7 +14301,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1914-10-21">1914-10-21</date> </cell>
                     <cell n="2">CP</cell>
                     <cell n="3"/>
@@ -14313,7 +14313,7 @@
                     <cell n="8"/>
                     <cell n="9"/>
                 </row>
-                <row>
+                <row role="data">
                     <cell n="1"> <date when="1915-02-11">1915-01-02</date> </cell>
                     <cell n="2">RP</cell>
                     <cell n="3"/>
@@ -18246,7 +18246,7 @@
                     <tei:cell/>
                     <tei:cell/>
                 </tei:row>
-                <tei:row>
+                <tei:row role="data">
                     <tei:cell> <date>1912, January</date> </tei:cell>
                     <tei:cell>S</tei:cell>
                     <tei:cell/>
