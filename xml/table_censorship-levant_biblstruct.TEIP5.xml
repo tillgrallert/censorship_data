@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:oape="https://openarabicpe.github.io/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -62,7 +64,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Janna</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r60 oape:bibl:608">al-Janna</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -80,7 +82,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Taqaddum</title>
+               <title level="j" ref="oape:bibl:628">al-Taqaddum</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -98,7 +100,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -116,7 +118,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Muqtaṭaf</title>
+               <title change="#d9e105" level="j" ref="oclc:931941685 jaraid:bibl:t1r104 oape:bibl:5">al-Muqtaṭaf</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -134,7 +136,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Mirʾāt al-Aḥwāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r16 oape:bibl:578">Mirʾāt al-Aḥwāl</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire </placeName></pubPlace>
                </imprint>
@@ -152,7 +154,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shahbāʾ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r430 oape:bibl:869">al-Shahbāʾ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName> </pubPlace>
                </imprint>
@@ -170,7 +172,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Muqtaṭaf</title>
+               <title change="#d9e105" level="j" ref="oclc:931941685 jaraid:bibl:t1r104 oape:bibl:5">al-Muqtaṭaf</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -188,7 +190,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shahbāʾ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r430 oape:bibl:869">al-Shahbāʾ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName> </pubPlace>
                </imprint>
@@ -206,7 +208,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -221,7 +223,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ahrām</title>
+               <title change="#d9e105" level="j" ref="oclc:508226561 jaraid:bibl:t1r100 oape:bibl:55">al-Ahrām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -242,7 +244,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shahbāʾ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r430 oape:bibl:869">al-Shahbāʾ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName> </pubPlace>
                </imprint>
@@ -260,7 +262,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ahrām</title>
+               <title change="#d9e105" level="j" ref="oclc:508226561 jaraid:bibl:t1r100 oape:bibl:55">al-Ahrām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:281184 oape:place:6">Jerusalem</placeName> </pubPlace>
                </imprint>
@@ -278,7 +280,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Iskandariyya</title>
+               <title level="j" ref="oape:bibl:649" xml:lang="ar-Latn-x-ijmes">Al-Iskandariyya</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:361058 oape:place:225" xml:lang="en">Alexandria</placeName> </pubPlace>
                </imprint>
@@ -296,7 +298,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">al-Taqaddum</title>
+               <title level="j" xml:lang="ar-Latn-x-ijmes" ref="oape:bibl:628">al-Taqaddum</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26" xml:lang="en">Beirut</placeName> </pubPlace>
                </imprint>
@@ -314,7 +316,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Dimashq</title>
+               <title level="j" ref="oape:bibl:646">Dimashq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -333,7 +335,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ḥaqīqa</title>
+               <title level="j">al-Ḥaqīqa</title>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -351,7 +353,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">all newspapers</title>
+               <title level="j">all newspapers</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire </placeName></pubPlace>
                </imprint>
@@ -369,7 +371,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shahbāʾ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r430 oape:bibl:869">al-Shahbāʾ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName> </pubPlace>
                </imprint>
@@ -387,7 +389,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -405,7 +407,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Jawāʾib</title>
+               <title change="#d9e105" level="j" ref="oclc:695008193 jaraid:bibl:t1r25 oape:bibl:136">al-Jawāʾib</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople</placeName></pubPlace>
                </imprint>
@@ -423,7 +425,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Unknown paper and press</title>
+               <title level="j">Unknown paper and press</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -443,7 +445,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Mirʾāt al-Sharq</title>
+               <title level="j" xml:lang="ar-Latn-x-ijmes" ref="jaraid:bibl:t1r150">Mirʾāt al-Sharq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:360630 oape:place:226" xml:lang="en">Cairo</placeName> </pubPlace>
                </imprint>
@@ -480,7 +482,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shām</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r567 oape:bibl:179">al-Shām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -517,7 +519,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Iʿtidāl</title>
+               <title level="j" ref="oape:bibl:668" xml:lang="ar-Latn-x-ijmes">Al-Iʿtidāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170063 oape:place:15" xml:lang="en">Aleppo</placeName> </pubPlace>
                </imprint>
@@ -535,7 +537,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Dimashq</title>
+               <title level="j" ref="oape:bibl:646">Dimashq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -555,7 +557,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Dimashq</title>
+               <title level="j" ref="oape:bibl:646">Dimashq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -575,7 +577,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Iʿtidāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r144 oape:bibl:668">al-Iʿtidāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName> </pubPlace>
                </imprint>
@@ -593,7 +595,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Miṣbāḥ</title>
+               <title level="j" ref="oape:bibl:681" xml:lang="ar-Latn-x-ijmes">Al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26" xml:lang="en">Beirut</placeName> </pubPlace>
                </imprint>
@@ -611,7 +613,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">All newspapers</title>
+               <title level="j">All newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -627,7 +629,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -645,7 +647,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">All newspapers</title>
+               <title level="j">All newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -663,7 +665,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -682,7 +684,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">All newspapers</title>
+               <title level="j">All newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -701,7 +703,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -719,7 +721,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Janna</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r60 oape:bibl:608">al-Janna</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -737,7 +739,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Janna</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r60 oape:bibl:608">al-Janna</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -755,7 +757,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -773,7 +775,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -791,7 +793,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Taqaddum</title>
+               <title level="j" ref="oape:bibl:628">al-Taqaddum</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -810,7 +812,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Taqaddum</title>
+               <title level="j" ref="oape:bibl:628">al-Taqaddum</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -828,7 +830,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Janna</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r60 oape:bibl:608">al-Janna</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -846,7 +848,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">All newspapers</title>
+               <title level="j">All newspapers</title>
                <imprint>
                   <pubPlace/>
                </imprint>
@@ -864,7 +866,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Taqaddum</title>
+               <title level="j" ref="oape:bibl:628">al-Taqaddum</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -882,7 +884,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">a number / all newspapers</title>
+               <title level="j">a number / all newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -901,7 +903,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Janna</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r60 oape:bibl:608">al-Janna</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -920,7 +922,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -939,7 +941,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Iʿtidāl</title>
+               <title level="j" ref="oape:bibl:719" xml:lang="ar-Latn-x-ijmes">Al-Iʿtidāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:361058 oape:place:225" xml:lang="en">Alexandria</placeName> </pubPlace>
                </imprint>
@@ -957,7 +959,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Taqaddum</title>
+               <title level="j" ref="oape:bibl:628">al-Taqaddum</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -976,7 +978,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn </title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn </title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -1012,7 +1014,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1028,7 +1030,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Taqaddum</title>
+               <title level="j" ref="oape:bibl:628">al-Taqaddum</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1047,7 +1049,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Maḥrūsa</title>
+               <title level="j" ref="oape:bibl:240" xml:lang="ar-Latn-x-ijmes">Al-Maḥrūsa</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:361058 oape:place:225" xml:lang="en">Alexandria</placeName> </pubPlace>
                </imprint>
@@ -1065,7 +1067,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Maḥrūsa</title>
+               <title level="j" ref="oape:bibl:240" xml:lang="ar-Latn-x-ijmes">Al-Maḥrūsa</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:361058 oape:place:225" xml:lang="en">Alexandria</placeName> </pubPlace>
                </imprint>
@@ -1083,7 +1085,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">a number / all newspapers</title>
+               <title level="j">a number / all newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1102,7 +1104,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1120,7 +1122,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Taqaddum</title>
+               <title level="j" ref="oape:bibl:628">al-Taqaddum</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1138,7 +1140,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Janna</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r60 oape:bibl:608">al-Janna</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1158,7 +1160,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-ʿUrqūb</title>
+               <title level="j">al-ʿUrqūb</title>
                <imprint>
                   <pubPlace/>
                </imprint>
@@ -1177,7 +1179,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1196,7 +1198,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1216,7 +1218,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1234,7 +1236,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Muqtaṭaf</title>
+               <title change="#d9e105" level="j" ref="oclc:931941685 jaraid:bibl:t1r104 oape:bibl:5">al-Muqtaṭaf</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1252,7 +1254,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Janna</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r60 oape:bibl:608">al-Janna</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1271,7 +1273,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Jinān</title>
+               <title change="#d9e105" level="j" ref="oclc:987291181 jaraid:bibl:t1r61 oape:bibl:34">al-Jinān</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1290,7 +1292,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">All Egyptian newspapers</title>
+               <title level="j">All Egyptian newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1309,7 +1311,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">all newspapers</title>
+               <title level="j">all newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1329,7 +1331,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1349,7 +1351,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Janna</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r60 oape:bibl:608">al-Janna</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1368,7 +1370,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Jinān</title>
+               <title change="#d9e105" level="j" ref="oclc:987291181 jaraid:bibl:t1r61 oape:bibl:34">al-Jinān</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1387,7 +1389,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Janna</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r60 oape:bibl:608">al-Janna</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1425,7 +1427,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">All newspapers</title>
+               <title level="j">All newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1443,7 +1445,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1461,7 +1463,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">All newspapers</title>
+               <title level="j">All newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1479,7 +1481,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt, private</title>
+               <title level="j" ref="oape:bibl:287">Bayrūt, private</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1498,7 +1500,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">All newspapers</title>
+               <title level="j">All newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1516,7 +1518,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1535,7 +1537,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Taqaddum</title>
+               <title level="j" ref="oape:bibl:628">al-Taqaddum</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1553,7 +1555,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Taqaddum</title>
+               <title level="j" ref="oape:bibl:628">al-Taqaddum</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1571,7 +1573,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Unknown paper</title>
+               <title level="j">Unknown paper</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -1590,7 +1592,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1609,7 +1611,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Riyāḥāt al-Afkār</title>
+               <title level="j">Riyāḥāt al-Afkār</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -1629,7 +1631,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1648,7 +1650,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1666,7 +1668,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1685,7 +1687,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r262 oape:bibl:287">Bayrūt</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1703,7 +1705,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1722,7 +1724,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Nashra al-Usbūʿiyya</title>
+               <title level="j" ref="oape:bibl:515">al-Nashra al-Usbūʿiyya</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1744,7 +1746,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Nashra al-Usbūʿiyya</title>
+               <title level="j" ref="oape:bibl:515">al-Nashra al-Usbūʿiyya</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1753,9 +1755,7 @@
                <event cert="high" source="@bashir+996a; @Jessup+1910, 549-550" subtype="PR" type="censorship" when="1890-09-15">
                   <label>PR</label>
                   <desc> <date type="documented" when="1890-09-15">1890-09-15</date> <date type="terminus" when="1890-09-01">1890-09-01</date> </desc>
-                  <note type="comments">For not having an <title level="j">irāde</title> for publication and printing a telegram in #46 that was similarly reproduced by <title change="#d9e105"
-                     level="j" ref="jaraid:bibl:t1r112 oape:bibl:349"
-                     >Lisān al-Ḥāl</title> and others without objections from the censor. After eight months the paper got a new permit as a religious newspaper, henceforth prohibiting any political news</note>
+                  <note type="comments"> After eight months the paper got a new permit as a religious newspaper, henceforth prohibiting any political news</note>
                   <listBibl>
                      <bibl ana="@bashir+996a; @Jessup+1910, 549-550"> <bibl>Bashīr 15 Jan 1890 (#996)</bibl>, <bibl> Henry Harris Jessup, <emph style="font-style:italic"
                         >Fifty-Three Years in Syria</emph> , Vol. II, (London, Edinburgh: Fleming h. Revell Company, 1910):549–50</bibl> </bibl>
@@ -1766,7 +1766,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Sur Hintak</title>
+               <title level="j">Sur Hintak</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire </placeName></pubPlace>
                </imprint>
@@ -1785,7 +1785,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1804,7 +1804,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -1823,7 +1823,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r262 oape:bibl:287">Bayrūt</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -1842,7 +1842,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Rūḥān al-Shām</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r346 oape:bibl:815">Rūḥān al-Shām</title>
                <imprint>
                   <pubPlace/>
                </imprint>
@@ -1861,7 +1861,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ruḥta al-Shām</title>
+               <title level="j">Ruḥta al-Shām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -1880,7 +1880,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Ḥuqūq</title>
+               <title level="j" xml:lang="ar-Latn-x-ijmes" ref="oape:bibl:3270">Al-Ḥuqūq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:745044 oape:place:3" xml:lang="en">Istanbul</placeName> </pubPlace>
                </imprint>
@@ -1898,7 +1898,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Rawḍat al-shām</title>
+               <title level="j">Rawḍat al-shām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -1917,7 +1917,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1937,15 +1937,15 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Fallāḥ</title>
+               <title level="j"ref="oape:bibl:697">al-Fallāḥ</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:360630 oape:place:226">Cairo</placeName></pubPlace>
                </imprint>
             </monogr>
             <note type="events"> <listEvent>
-               <event source="@tf-oib+841, 2" subtype="S" type="censorship">
+               <event source="@tf-oib+841, 2" subtype="S" type="censorship" when="1891-07-06">
                   <label>S</label>
-                  <desc/>
+                  <desc><date type="documented" when="1891-07-06"/></desc>
                   <note type="comments">Orders issued to abolish this newspaper</note>
                   <listBibl>
                      <bibl ana="@tf-oib+841, 2"/>
@@ -1955,7 +1955,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -1973,7 +1973,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shām</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r567 oape:bibl:179">al-Shām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -1995,7 +1995,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shām</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r567 oape:bibl:179">al-Shām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -2014,7 +2014,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2033,7 +2033,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2070,7 +2070,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2086,7 +2086,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Kawkab al-Sharq</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r846 oape:bibl:907">Kawkab al-Sharq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2105,7 +2105,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2138,7 +2138,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2156,7 +2156,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2174,7 +2174,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2192,7 +2192,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2210,7 +2210,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2228,7 +2228,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2246,7 +2246,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2282,7 +2282,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lubnān</title>
+               <title level="j">Lubnān</title>
                <imprint>
                   <pubPlace><placeName>Baʿbdā</placeName></pubPlace>
                </imprint>
@@ -2337,7 +2337,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ṭarāblus al-Shām</title>
+               <title level="j">Ṭarāblus al-Shām</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:266826 oape:place:30" xml:lang="ar-Latn-x-ijmes">Ṭarāblus al-Shām</placeName></pubPlace>
                </imprint>
@@ -2355,7 +2355,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ṭarāblus al-Shām</title>
+               <title level="j">Ṭarāblus al-Shām</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:266826 oape:place:30" xml:lang="ar-Latn-x-ijmes">Ṭarāblus al-Shām</placeName></pubPlace>
                </imprint>
@@ -2371,7 +2371,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2387,7 +2387,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Munāẓir</title>
+               <title level="j" ref="oape:bibl:3309" xml:lang="ar-Latn-x-ijmes">Al-Munāẓir</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:3448439 jaraid:place:49 oape:place:364" xml:lang="en">Sao Paulo</placeName> </pubPlace>
                </imprint>
@@ -2405,7 +2405,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2423,7 +2423,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2479,7 +2479,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2497,7 +2497,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ḍiyāʾ al-Albāb</title>
+               <title level="j">Ḍiyāʾ al-Albāb</title>
                <imprint>
                   <pubPlace><placeName>Mt. Lebanon</placeName></pubPlace>
                </imprint>
@@ -2515,7 +2515,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Mashriq</title>
+               <title level="j" ref="oape:bibl:7" xml:lang="ar-Latn-x-ijmes">Al-Mashriq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26" xml:lang="en">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2533,7 +2533,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Manār</title>
+               <title level="j" ref="oape:bibl:2" xml:lang="ar-Latn-x-ijmes">Al-Manār</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:360630 oape:place:226" xml:lang="en">Cairo</placeName> </pubPlace>
                </imprint>
@@ -2542,7 +2542,7 @@
                <event source="@tf-oib+1174, 3" subtype="P" type="start" when="1898-03-15" xml:lang="en">
                   <label>P</label>
                   <desc> <date type="documented" when="1898-03-15" xml:lang="en">1898-03-15</date> </desc>
-                  <note type="comments">First issue arrived in Cairo</note>
+                  <note type="comments">First issue arrived in Beirut</note>
                   <listBibl>
                      <bibl ana="@tf-oib+1174, 3"/>
                   </listBibl>
@@ -2589,7 +2589,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Arz</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r484 oape:bibl:82">al-Arz</title>
                <imprint>
                   <pubPlace/>
                </imprint>
@@ -2623,7 +2623,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Arz</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r484 oape:bibl:82">al-Arz</title>
                <imprint>
                   <pubPlace/>
                </imprint>
@@ -2642,7 +2642,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2660,7 +2660,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2678,7 +2678,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2696,7 +2696,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2714,7 +2714,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2732,7 +2732,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Maḥabba</title>
+               <title level="j">al-Maḥabba</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2750,7 +2750,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">All newspapers</title>
+               <title level="j">All newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2768,7 +2768,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ḥawādis̱-i Müḳtebese</title>
+               <title level="j">Ḥawādis̱-i Müḳtebese</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -2805,7 +2805,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shams</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r837 oape:bibl:186">al-Shams</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -2824,7 +2824,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Rawḍat al-Maʿārif</title>
+               <title level="j">Rawḍat al-Maʿārif</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2934,7 +2934,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">all newspapers</title>
+               <title level="j">all newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2954,7 +2954,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -2972,7 +2972,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ruġbet</title>
+               <title level="j">Ruġbet</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:732800 oape:place:283">Bulgaria</placeName></pubPlace>
                </imprint>
@@ -2992,7 +2992,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3010,7 +3010,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3064,7 +3064,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3123,7 +3123,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3141,7 +3141,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3159,7 +3159,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Miṣbāḥ al-Jadīd</title>
+               <title level="j" ref="oape:bibl:1235" xml:lang="ar-Latn-x-ijmes">Al-Miṣbāḥ al-Jadīd</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:360630 oape:place:226" xml:lang="en">Cairo</placeName> </pubPlace>
                </imprint>
@@ -3178,7 +3178,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">Al-Miṣbāḥ al-Jadīd</title>
+               <title level="j" ref="oape:bibl:1235" xml:lang="ar-Latn-x-ijmes">Al-Miṣbāḥ al-Jadīd</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:360630 oape:place:226">Cairo</placeName></pubPlace>
                </imprint>
@@ -3196,7 +3196,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Iqbāl</title>
+               <title change="#d9e105" level="j" ref="oclc:1086411815 jaraid:bibl:t1r2353 oape:bibl:96">al-Iqbāl</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -3214,7 +3214,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3232,7 +3232,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3250,7 +3250,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn </title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn </title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:2507480 jaraid:place:7 oape:place:437">Algiers</placeName></pubPlace>
                </imprint>
@@ -3268,7 +3268,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Maḥabba</title>
+               <title level="j">al-Maḥabba</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3287,7 +3287,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Manār</title>
+               <title level="j">al-Manār</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3306,7 +3306,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3324,7 +3324,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3342,7 +3342,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3361,7 +3361,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3415,7 +3415,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ṣakhra</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2098 oape:bibl:1252">al-Ṣakhra</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:5128581 oape:place:303">New York</placeName></pubPlace>
                </imprint>
@@ -3433,7 +3433,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3452,7 +3452,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3471,7 +3471,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3489,7 +3489,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bashīr</title>
+               <title change="#d9e105" level="j" ref="oclc:472081984 jaraid:bibl:t1r58 oape:bibl:118">al-Bashīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3507,7 +3507,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3525,7 +3525,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3544,7 +3544,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3562,7 +3562,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-ʿAdl</title>
+               <title level="j">al-ʿAdl</title>
                <imprint>
                   <pubPlace><placeName>Rio di Janeiro</placeName></pubPlace>
                </imprint>
@@ -3580,7 +3580,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3596,7 +3596,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shām</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r567 oape:bibl:179">al-Shām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -3616,7 +3616,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Mashriq</title>
+               <title change="#d9e105" level="j" ref="oclc:473817521 jaraid:bibl:t1r679 oape:bibl:7">al-Mashriq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3632,7 +3632,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3648,7 +3648,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shām</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r567 oape:bibl:179">al-Shām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -3667,7 +3667,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Maḥabba</title>
+               <title level="j">al-Maḥabba</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3683,7 +3683,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3699,7 +3699,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r262 oape:bibl:287">Bayrūt</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3715,7 +3715,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Iqbāl</title>
+               <title change="#d9e105" level="j" ref="oclc:1086411815 jaraid:bibl:t1r2353 oape:bibl:96">al-Iqbāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3731,7 +3731,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r262 oape:bibl:287">Bayrūt</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3750,7 +3750,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ḥadīqat al-Akhbār</title>
+               <title change="#d9e105" level="j" ref="oclc:792755425 jaraid:bibl:t1r21 oape:bibl:546">Ḥadīqat al-Akhbār</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3766,7 +3766,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ḥadīqat al-Akhbār</title>
+               <title change="#d9e105" level="j" ref="oclc:792755425 jaraid:bibl:t1r21 oape:bibl:546">Ḥadīqat al-Akhbār</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3785,7 +3785,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3805,7 +3805,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Iqbāl</title>
+               <title change="#d9e105" level="j" ref="oclc:1086411815 jaraid:bibl:t1r2353 oape:bibl:96">al-Iqbāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3823,7 +3823,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Some newspapers</title>
+               <title level="j">Some newspapers</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3842,7 +3842,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r262 oape:bibl:287">Bayrūt</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3860,7 +3860,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3878,7 +3878,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3896,7 +3896,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Mashriq</title>
+               <title level="j">al-Mashriq</title>
                <imprint>
                   <pubPlace/>
                </imprint>
@@ -3914,7 +3914,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt, private</title>
+               <title level="j" ref="oape:bibl:287">Bayrūt, private</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3932,7 +3932,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">all Egyptian newspapers</title>
+               <title level="j">all Egyptian newspapers</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:357994 jaraid:place:3 oape:place:417">Egypt</placeName></pubPlace>
                </imprint>
@@ -3950,7 +3950,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt, private</title>
+               <title level="j" ref="oape:bibl:287">Bayrūt, private</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3969,7 +3969,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -3988,7 +3988,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4007,7 +4007,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4025,7 +4025,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Iqbāl</title>
+               <title change="#d9e105" level="j" ref="oclc:1086411815 jaraid:bibl:t1r2353 oape:bibl:96">al-Iqbāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4041,7 +4041,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -4059,7 +4059,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4077,7 +4077,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4096,7 +4096,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ṭarāblus al-Shām</title>
+               <title level="j">Ṭarāblus al-Shām</title>
                <imprint>
                   <pubPlace/>
                </imprint>
@@ -4114,7 +4114,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4133,7 +4133,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ṭarāblus al-Shām</title>
+               <title level="j">Ṭarāblus al-Shām</title>
                <imprint>
                   <pubPlace/>
                </imprint>
@@ -4152,7 +4152,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4172,7 +4172,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Talmīdh</title>
+               <title level="j">al-Talmīdh</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:2017370 oape:place:351">Russia</placeName></pubPlace>
                </imprint>
@@ -4190,7 +4190,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt, private</title>
+               <title level="j" ref="oape:bibl:287">Bayrūt, private</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4208,7 +4208,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Mawārid al-Ḥikma</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2597 oape:bibl:1726">Mawārid al-Ḥikma</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4228,7 +4228,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Maḥabba</title>
+               <title level="j">al-Maḥabba</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4246,7 +4246,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Maḥabba</title>
+               <title level="j">al-Maḥabba</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4265,7 +4265,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt, private</title>
+               <title level="j" ref="oape:bibl:287">Bayrūt, private</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4283,7 +4283,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayrūt, private</title>
+               <title level="j" ref="oape:bibl:287">Bayrūt, private</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4302,7 +4302,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Mawārid al-Ḥikma</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2597 oape:bibl:1726">Mawārid al-Ḥikma</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4321,7 +4321,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Musāwāt</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r924 oape:bibl:1383">al-Musāwāt</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople </placeName></pubPlace>
                </imprint>
@@ -4339,7 +4339,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Qusṭān</title>
+               <title level="j">al-Qusṭān</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople</placeName></pubPlace>
                </imprint>
@@ -4357,7 +4357,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Miṣbāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r165 oape:bibl:681">al-Miṣbāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4375,7 +4375,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Takammul</title>
+               <title level="j">al-Takammul</title>
                <imprint>
                   <pubPlace/>
                </imprint>
@@ -4393,7 +4393,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-ʿAṣr al-Jadīd</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2588 oape:bibl:45">al-ʿAṣr al-Jadīd</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4412,7 +4412,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ittiḥād al-ʿUthmānī</title>
+               <title change="#d9e105" level="j" ref="oclc:42900564 jaraid:bibl:t1r2365 oape:bibl:28">al-Ittiḥād al-ʿUthmānī</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4432,7 +4432,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Dimashq</title>
+               <title level="j" ref="oape:bibl:1670">Dimashq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4451,7 +4451,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Waṭan</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2366 oape:bibl:48">al-Waṭan</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -4467,9 +4467,9 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct oape:frequency="daily" type="periodical">
             <monogr>
-               <title type="j">al-Thabāt</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2368 oape:bibl:466">al-Thabāt</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4487,7 +4487,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Taqaddum</title>
+               <title level="j" ref="oape:bibl:1619">al-Taqaddum</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName> </pubPlace>
                </imprint>
@@ -4505,7 +4505,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Dustūr</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2041 oape:bibl:3399">al-Dustūr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople</placeName> </pubPlace>
                </imprint>
@@ -4523,7 +4523,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ṣabāḥ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2029 oape:bibl:3395">al-Ṣabāḥ</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:2530335 jaraid:place:44 oape:place:500">Tangier</placeName> </pubPlace>
                </imprint>
@@ -4541,7 +4541,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Rāya al-ʿUthmāniyya</title>
+               <title level="j">al-Rāya al-ʿUthmāniyya</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:360630 oape:place:226">Cairo</placeName></pubPlace>
                </imprint>
@@ -4559,7 +4559,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ṣadā al-Shahbāʾ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2706 oape:bibl:493">Ṣadā al-Shahbāʾ</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName></pubPlace>
                </imprint>
@@ -4577,7 +4577,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Nafāʾis</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r3233 oape:bibl:3400">al-Nafāʾis</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:294801 oape:place:35">Haifa</placeName></pubPlace>
                </imprint>
@@ -4595,7 +4595,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Kashf al-Ḥijāb</title>
+               <title level="j">Kashf al-Ḥijāb</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4614,7 +4614,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Thamarāt al-Funūn</title>
+               <title change="#d9e105" level="j" ref="oclc:792755216 jaraid:bibl:t1r98 oape:bibl:62">Thamarāt al-Funūn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4632,7 +4632,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4652,7 +4652,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Band</title>
+               <title level="j">al-Band</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4672,7 +4672,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4690,7 +4690,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shām</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r567 oape:bibl:179">al-Shām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4708,7 +4708,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Rawḍat al-Shām</title>
+               <title level="j">al-Rawḍat al-Shām</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4727,7 +4727,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Murāqib</title>
+               <title change="#d9e105" level="j" ref="oclc:1034549493 jaraid:bibl:t1r2371 oape:bibl:244">al-Murāqib</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4745,7 +4745,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Rawḍat al-Ṣaḥḥa</title>
+               <title level="j">Rawḍat al-Ṣaḥḥa</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4764,7 +4764,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Mufīd</title>
+               <title change="#d9e105" level="j" ref="oclc:1034548778 jaraid:bibl:t1r2374 oape:bibl:20">al-Mufīd</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4782,7 +4782,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Rawḍat al-Maʿārif</title>
+               <title level="j">Rawḍat al-Maʿārif</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -4838,7 +4838,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Lubnāniyya</title>
+               <title level="j">al-Lubnāniyya</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -4856,7 +4856,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Sharq</title>
+               <title level="j">al-Sharq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4876,7 +4876,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Faṣl a-Khiṭāb</title>
+               <title level="j">Faṣl a-Khiṭāb</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4895,7 +4895,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Jarrāb al-Kurdī</title>
+               <title level="j">Jarrāb al-Kurdī</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:294801 oape:place:35">Haifa</placeName></pubPlace>
                </imprint>
@@ -4913,7 +4913,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ayyām</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2376 oape:bibl:1703">al-Ayyām</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -4931,7 +4931,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Iṣlāḥ al-Ḥijāzī</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r1590 oape:bibl:1701">al-Iṣlāḥ al-Ḥijāzī</title>
                <imprint>
                   <pubPlace><placeName>Jidda</placeName></pubPlace>
                </imprint>
@@ -4950,7 +4950,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Nahḍa al-ʿArab</title>
+               <title level="j">Nahḍa al-ʿArab</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire</placeName></pubPlace>
                </imprint>
@@ -4969,7 +4969,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ser Basti</title>
+               <title level="j">Ser Basti</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire </placeName></pubPlace>
                </imprint>
@@ -4987,7 +4987,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Nāqid al-Sūrī</title>
+               <title level="j">al-Nāqid al-Sūrī</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -5006,7 +5006,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ḥikma</title>
+               <title level="j">al-Ḥikma</title>
                <imprint>
                   <pubPlace><placeName>Byblos</placeName></pubPlace>
                </imprint>
@@ -5024,7 +5024,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shaʿb</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2710 oape:bibl:1716">al-Shaʿb</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName></pubPlace>
                </imprint>
@@ -5042,7 +5042,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ḥurriya</title>
+               <title level="j">al-Ḥurriya</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -5060,7 +5060,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Murshid al-Umma</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r1451 oape:bibl:1711">Murshid al-Umma</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:2464470 oape:place:333">Tunis</placeName></pubPlace>
                </imprint>
@@ -5078,7 +5078,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -5096,7 +5096,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -5116,7 +5116,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Iqbāl</title>
+               <title change="#d9e105" level="j" ref="oclc:1086411815 jaraid:bibl:t1r2353 oape:bibl:96">al-Iqbāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -5134,7 +5134,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Güneş</title>
+               <title level="j">Güneş</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire </placeName></pubPlace>
                </imprint>
@@ -5152,7 +5152,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Umma</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2679 oape:bibl:3194">al-Umma</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -5171,7 +5171,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Umma</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2679 oape:bibl:3194">al-Umma</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -5192,7 +5192,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Mashrūṭiyāt</title>
+               <title level="j">Mashrūṭiyāt</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire </placeName></pubPlace>
                </imprint>
@@ -5210,7 +5210,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Sharq</title>
+               <title level="j">al-Sharq</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -5228,7 +5228,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -5246,7 +5246,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ittiḥād al-ʿUthmānī</title>
+               <title change="#d9e105" level="j" ref="oclc:42900564 jaraid:bibl:t1r2365 oape:bibl:28">al-Ittiḥād al-ʿUthmānī</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -5264,7 +5264,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -5283,7 +5283,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Laṭāʾif al-Ahliyya</title>
+               <title level="j">al-Laṭāʾif al-Ahliyya</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -5301,7 +5301,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Nafīr</title>
+               <title level="j">al-Nafīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:281184 oape:place:6">Jerusalem</placeName> </pubPlace>
                </imprint>
@@ -5321,7 +5321,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Raʾī al-ʿĀmm</title>
+               <title change="#d9e105" level="j" ref="oape:bibl:40">al-Raʾī al-ʿĀmm</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -5337,9 +5337,10 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct type="periodical" subtype="newspaper">
             <monogr>
-               <title type="j">al-Gharāʾib</title>
+               <title level="j">al-Gharāʾib</title>
+               <textLang mainLang="ota"/>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:266826 oape:place:30" xml:lang="ar-Latn-x-ijmes">Ṭarāblus al-Shām</placeName></pubPlace>
                </imprint>
@@ -5357,7 +5358,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ḥikma</title>
+               <title level="j">al-Ḥikma</title>
                <imprint>
                   <pubPlace><placeName>Mt. Lebanon</placeName></pubPlace>
                </imprint>
@@ -5373,9 +5374,10 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct type="periodical" subtype="newspaper">
+            <!-- not found in authority file -->
             <monogr>
-               <title type="j">al-Hilāl al-ʿUthmānī</title>
+               <title level="j">al-Hilāl al-ʿUthmānī</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -5394,7 +5396,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-ʿArab</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2047 oape:bibl:3408">al-ʿArab</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople</placeName></pubPlace>
                </imprint>
@@ -5412,7 +5414,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bāshqīm</title>
+               <title level="j">al-Bāshqīm</title>
                <imprint>
                   <pubPlace><placeName>Albania</placeName></pubPlace>
                </imprint>
@@ -5431,7 +5433,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Intiqād</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2049 oape:bibl:1769">al-Intiqād</title>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -5449,9 +5451,9 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct type="periodical" subtype="newspaper" oape:frequency="weekly">
             <monogr>
-               <title type="j">al-Raṣāfa</title>
+               <title level="j" ref="oape:bibl:545">al-Ruṣāfa</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:98182 oape:place:216">Baghdad</placeName></pubPlace>
                </imprint>
@@ -5469,7 +5471,8 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Kursī-yi milel</title>
+               <title level="j">Kursī-yi milel</title>
+               <textLang mainLang="ota"/>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -5487,7 +5490,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-ʿArab</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2047 oape:bibl:3408">al-ʿArab</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople</placeName></pubPlace>
                </imprint>
@@ -5505,7 +5508,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Muntakhabāt</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2604 oape:bibl:3433">al-Muntakhabāt</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -5522,9 +5525,9 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct type="periodical" oape:frequency="weekly">
             <monogr>
-               <title type="j">Shams al-Ittiḥād</title>
+               <title level="j" ref="oape:bibl:1799">Shams al-Ittiḥād</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:266826 oape:place:30" xml:lang="ar-Latn-x-ijmes">Ṭarāblus al-Shām</placeName></pubPlace>
                </imprint>
@@ -5543,7 +5546,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ḥaqāʾiq</title>
+               <title change="#d9e105" level="j" ref="oclc:644997575 jaraid:bibl:t1r3156 oape:bibl:13">al-Ḥaqāʾiq</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName></pubPlace>
                </imprint>
@@ -5561,7 +5564,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ṣadā al-Shahbāʾ</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2706 oape:bibl:493">Ṣadā al-Shahbāʾ</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName></pubPlace>
                </imprint>
@@ -5579,7 +5582,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Miṣbāḥ al-Sharq</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2861 oape:bibl:1802">Miṣbāḥ al-Sharq</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:98182 oape:place:216">Baghdad</placeName></pubPlace>
                </imprint>
@@ -5597,7 +5600,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ahālī</title>
+               <title level="j" ref="oape:bibl:1790">al-Ahālī</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName> </pubPlace>
                </imprint>
@@ -5617,7 +5620,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Nafīr</title>
+               <title level="j" ref="oape:bibl:1370">al-Nafīr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:281184 oape:place:6">Jerusalem</placeName> </pubPlace>
                </imprint>
@@ -5635,7 +5638,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-ʿAṣr al-Jadīd</title>
+               <title level="j" ref="oape:bibl:3409">al-ʿAṣr al-Jadīd</title>
                <imprint>
                   <pubPlace><placeName>Tripoli (Libya)</placeName></pubPlace>
                </imprint>
@@ -5653,7 +5656,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Majalla al-Sūriyya</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r3051 oape:bibl:3434">al-Majalla al-Sūriyya</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -5671,7 +5674,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Muʾayyad</title>
+               <title level="j" ref="oape:bibl:809">al-Muʾayyad</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:360630 oape:place:226">Cairo</placeName> </pubPlace>
                </imprint>
@@ -5689,7 +5692,8 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">İştirāk</title>
+               <title level="j">İştirāk</title>
+               <textLang mainLang="ota"/>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople </placeName></pubPlace>
                </imprint>
@@ -5707,7 +5711,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Muntakhib</title>
+               <title level="j" ref="oape:bibl:1809">al-Muntakhib</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:173576 oape:place:19">Latakia</placeName></pubPlace>
                </imprint>
@@ -5725,7 +5729,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -5744,7 +5748,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Aḥwāl</title>
+               <title level="j">al-Aḥwāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -5762,7 +5766,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Mufīd</title>
+               <title change="#d9e105" level="j" ref="oclc:1034548778 jaraid:bibl:t1r2374 oape:bibl:20">al-Mufīd</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -5780,7 +5784,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Anīs</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r3053 oape:bibl:1826">al-Anīs</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -5798,7 +5802,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Filasṭīn</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2822 oape:bibl:1856">Filasṭīn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:293253 oape:place:12">Jaffa</placeName> </pubPlace>
                </imprint>
@@ -5816,7 +5820,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ḥuqūq</title>
+               <title level="j">al-Ḥuqūq</title>
                <imprint>
                   <pubPlace><placeName>Baʿbdā</placeName></pubPlace>
                </imprint>
@@ -5832,9 +5836,9 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct type="periodical" subtype="journal" oape:frequency="monthly">
             <monogr>
-               <title type="j">al-Ḥayṭ</title>
+               <title level="j">al-Ḥayṭ</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:360630 oape:place:226">Cairo</placeName></pubPlace>
                </imprint>
@@ -5852,7 +5856,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-ʿArīs</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r3194 oape:bibl:503">al-ʿArīs</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:169577 oape:place:176">Homs</placeName></pubPlace>
                </imprint>
@@ -5871,7 +5875,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Shabība</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r3193 oape:bibl:1874">al-Shabība</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:169577 oape:place:176">Homs</placeName></pubPlace>
                </imprint>
@@ -5890,7 +5894,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Khān al-Dhahab</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2872 oape:bibl:1871">Khān al-Dhahab</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:98182 oape:place:216">Baghdad</placeName></pubPlace>
                </imprint>
@@ -5908,7 +5912,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Sayf al-Ḥaqq</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2873 oape:bibl:1872">Sayf al-Ḥaqq</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:98182 oape:place:216">Baghdad</placeName></pubPlace>
                </imprint>
@@ -5926,7 +5930,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Barīqa</title>
+               <title level="j" ref="oape:bibl:1882">al-Bāriqa</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -5944,7 +5948,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Jarīda al-Adabiyya</title>
+               <title level="j">al-Jarīda al-Adabiyya</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:6252001 oape:place:301">USA</placeName></pubPlace>
                </imprint>
@@ -5962,7 +5966,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Shams</title>
+               <title level="j">Shams</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:357994 jaraid:place:3 oape:place:417">Egypt</placeName></pubPlace>
                </imprint>
@@ -5980,7 +5984,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Bāriqa</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2607 oape:bibl:1882">al-Bāriqa</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName></pubPlace>
                </imprint>
@@ -5998,7 +6002,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Naṣīr</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2380 oape:bibl:1752">al-Naṣīr</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -6017,7 +6021,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ḥaṭṭ bi-l-Kharaj</title>
+               <title level="j" ref="oape:bibl:1694">Ḥaṭṭ bi-l-Kharaj</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName></pubPlace>
                </imprint>
@@ -6037,7 +6041,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Balāgh</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2394 oape:bibl:1892">al-Balāgh</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -6053,9 +6057,9 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct type="periodical" oape:frequency="weekly">
             <monogr>
-               <title type="j">al-Ṣadaq</title>
+               <title level="j">al-Ṣadaq</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName></pubPlace>
                </imprint>
@@ -6073,7 +6077,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Maḥāmī</title>
+               <title level="j">al-Maḥāmī</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:266826 oape:place:30" xml:lang="ar-Latn-x-ijmes">Ṭarāblus al-Shām</placeName></pubPlace>
                </imprint>
@@ -6091,9 +6095,9 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Arnāwūṭ</title>
+               <title level="j">Arnāwūṭ</title>
                <imprint>
-                  <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople </placeName></pubPlace>
+                  <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople</placeName></pubPlace>
                </imprint>
             </monogr>
             <note type="events"> <listEvent>
@@ -6109,7 +6113,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ittiḥād al-ʿUthmānī</title>
+               <title change="#d9e105" level="j" ref="oclc:42900564 jaraid:bibl:t1r2365 oape:bibl:28">al-Ittiḥād al-ʿUthmānī</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -6127,7 +6131,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Balāgh</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2394 oape:bibl:1892">al-Balāgh</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -6145,7 +6149,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Thabāt</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2368 oape:bibl:466">al-Thabāt</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -6163,7 +6167,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Rafāʾīl al-Faransawiyya</title>
+               <title level="j">al-Rafāʾīl al-Faransawiyya</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -6181,7 +6185,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Raʾī al-ʿĀmm</title>
+               <title change="#d9e105" level="j" ref="oape:bibl:40">al-Raʾī al-ʿĀmm</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -6199,7 +6203,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ḥāris</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2387 oape:bibl:140">al-Ḥāris</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -6217,9 +6221,9 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Muʾayyad</title>
+               <title level="j">al-Muʾayyad</title>
                <imprint>
-                  <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire</placeName></pubPlace>
+                  <pubPlace><placeName>Cairo</placeName></pubPlace>
                </imprint>
             </monogr>
             <note type="events"> <listEvent>
@@ -6235,7 +6239,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Iṣlāḥāt</title>
+               <title level="j">Iṣlāḥāt</title>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -6254,7 +6258,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lātūrkī</title>
+               <title level="j">Lātūrkī</title>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -6272,7 +6276,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ṭanẓīmāt</title>
+               <title level="j">Ṭanẓīmāt</title>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -6291,7 +6295,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Shahrāʾ</title>
+               <title level="j">Shahrāʾ</title>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -6311,7 +6315,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">ʿAlimdār</title>
+               <title level="j">ʿAlimdār</title>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -6331,7 +6335,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Baradā</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2610 oape:bibl:1912">Baradā</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -6349,7 +6353,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -6367,7 +6371,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -6387,7 +6391,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Mufīd</title>
+               <title change="#d9e105" level="j" ref="oclc:1034548778 jaraid:bibl:t1r2374 oape:bibl:20">al-Mufīd</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6405,7 +6409,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ṣadā al-Mufīd</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2405 oape:bibl:1970">Ṣadā al-Mufīd</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6441,7 +6445,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -6459,7 +6463,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Silāḥ</title>
+               <title level="j">Silāḥ</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:734077 oape:place:236">Salonica</placeName></pubPlace>
                </imprint>
@@ -6477,7 +6481,26 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ghālib</title>
+               <title level="j">al-Ghālib</title>
+               <imprint>
+                  <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople</placeName></pubPlace>
+               </imprint>
+            </monogr>
+            <note type="events"> <listEvent>
+               <event notAfter="1912-08-16" source="@muqtabas+484-eap, 2" subtype="S" type="censorship">
+                  <label>S</label>
+                  <desc> <date notAfter="1912-08-16" type="documented">1912-08-16</date> </desc>
+                  <note type="comments">suspended for slander</note>
+                  <listBibl>
+                     <bibl ana="@muqtabas+484-eap, 2"> <bibl>Muqtabas (j) 11 Aug 1912 (#961):2</bibl> </bibl>
+                  </listBibl>
+               </event>
+               </listEvent> </note>
+         </biblStruct>
+         <biblStruct type="periodical">
+            <monogr>
+               <title level="j">Ṭanīn</title>
+               <textLang mainLang="ota"/>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople </placeName></pubPlace>
                </imprint>
@@ -6495,25 +6518,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Ṭanīn</title>
-               <imprint>
-                  <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople </placeName></pubPlace>
-               </imprint>
-            </monogr>
-            <note type="events"> <listEvent>
-               <event notAfter="1912-08-16" source="@muqtabas+484-eap, 2" subtype="S" type="censorship">
-                  <label>S</label>
-                  <desc> <date notAfter="1912-08-16" type="documented">1912-08-16</date> </desc>
-                  <note type="comments">suspended for slander</note>
-                  <listBibl>
-                     <bibl ana="@muqtabas+484-eap, 2"> <bibl>Muqtabas (j) 11 Aug 1912 (#961):2</bibl> </bibl>
-                  </listBibl>
-               </event>
-               </listEvent> </note>
-         </biblStruct>
-         <biblStruct type="periodical">
-            <monogr>
-               <title type="j">Ṣadā al-Mufīd</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2405 oape:bibl:1970">Ṣadā al-Mufīd</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6531,7 +6536,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-ʿArab</title>
+               <title level="j" ref="oape:bibl:3460">Lisān al-ʿArab</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6549,7 +6554,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-ʿArab</title>
+               <title level="j" ref="oape:bibl:3460">Lisān al-ʿArab</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6567,7 +6572,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Fatā al-ʿArabī</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2409 oape:bibl:1983">al-Fatā al-ʿArabī</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6585,9 +6590,9 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Muʾayyad</title>
+               <title level="j">al-Muʾayyad</title>
                <imprint>
-                  <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire</placeName></pubPlace>
+                  <pubPlace><placeName>Cairo</placeName></pubPlace>
                </imprint>
             </monogr>
             <note type="events"> <listEvent>
@@ -6603,9 +6608,9 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-ʿUmrān</title>
+               <title level="j" ref="oape:bibl:202">al-ʿUmrān</title>
                <imprint>
-                  <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire</placeName></pubPlace>
+                  <pubPlace><placeName>Cairo</placeName></pubPlace>
                </imprint>
             </monogr>
             <note type="events"> <listEvent>
@@ -6621,13 +6626,13 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Ḥaqāʾiq</title>
+               <title change="#d9e105" level="j" ref="oclc:644997575 jaraid:bibl:t1r3156 oape:bibl:13">al-Ḥaqāʾiq</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName></pubPlace>
                </imprint>
             </monogr>
             <note type="events"> <listEvent>
-               <event notAfter="1913-08-31" source="" subtype="CP" type="lifeCycle">
+               <event notAfter="1913-08-31" subtype="CP" type="lifeCycle">
                   <label>CP</label>
                   <desc> <date notAfter="1913-08-31" type="documented">1913-08-31</date> </desc>
                   <note type="comments">ceased publication after the third volume</note>
@@ -6637,7 +6642,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">banned papers</title>
+               <title level="j">banned papers</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName></pubPlace>
                </imprint>
@@ -6655,7 +6660,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -6674,7 +6679,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Qabas</title>
+               <title change="#d9e105" level="j" ref="oclc:792756309 jaraid:bibl:t1r2620 oape:bibl:52">al-Qabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -6693,7 +6698,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -6712,7 +6717,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Fatā al-ʿArabī</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2409 oape:bibl:1983">al-Fatā al-ʿArabī</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6730,7 +6735,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Dustūr</title>
+               <title level="j" ref="oape:bibl:3470">al-Dustūr</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:293253 oape:place:12">Jaffa</placeName> </pubPlace>
                </imprint>
@@ -6750,7 +6755,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Fatā al-ʿArab</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2416 oape:bibl:2055">Fatā al-ʿArab</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6768,7 +6773,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Filasṭīn</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2822 oape:bibl:1856">Filasṭīn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:293253 oape:place:12">Jaffa</placeName> </pubPlace>
                </imprint>
@@ -6786,7 +6791,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Filasṭīn</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2822 oape:bibl:1856">Filasṭīn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:293253 oape:place:12">Jaffa</placeName> </pubPlace>
                </imprint>
@@ -6804,7 +6809,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Filasṭīn</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2822 oape:bibl:1856">Filasṭīn</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:293253 oape:place:12">Jaffa</placeName> </pubPlace>
                </imprint>
@@ -6822,7 +6827,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Iʾtilāf al-ʿUthmānī</title>
+               <title level="j">al-Iʾtilāf al-ʿUthmānī</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6840,7 +6845,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">al-Mufīd</title>
+               <title change="#d9e105" level="j" ref="oclc:1034548778 jaraid:bibl:t1r2374 oape:bibl:20">al-Mufīd</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6858,7 +6863,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -6876,7 +6881,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Bayān</title>
+               <title level="j">Bayān</title>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -6894,7 +6899,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Nahr al-ʿĀṣī</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2699 oape:bibl:2179">Nahr al-ʿĀṣī</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:170017 oape:place:175">Hama</placeName></pubPlace>
                </imprint>
@@ -6912,7 +6917,7 @@
          </biblStruct>
          <biblStruct subtype="newspaper" type="periodical">
             <monogr>
-               <title type="j">al-Muqtabas</title>
+               <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50">al-Muqtabas</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -6930,9 +6935,9 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct type="periodical" oape:frequency="fortnightly" subtype="journal">
             <monogr>
-               <title type="j">al-Marʾāh</title>
+               <title level="j" ref="oape:bibl:3472">al-Marʾāh</title>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -6950,7 +6955,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Lisān al-Ḥāl</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r112 oape:bibl:349">Lisān al-Ḥāl</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6969,7 +6974,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title type="j">Fatāt Lubnān</title>
+               <title change="#d9e105" level="j" ref="jaraid:bibl:t1r3071 oape:bibl:2066">Fatāt Lubnān</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -6985,9 +6990,9 @@
                </event>
                </listEvent> </note>
          </biblStruct>
-         <biblStruct type="periodical">
+         <biblStruct type="periodical" subtype="journal">
             <monogr>
-               <title type="j">Majallat al-Āthār</title>
+               <title level="j">al-Āthār</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
                </imprint>
@@ -7024,6 +7029,8 @@
          <biblStruct type="periodical">
             <monogr>
                <title level="j">al-Madīna</title>
+               <textLang mainLang="ar"/>
+               <editor type="owner"><persName xml:lang="ar-Latn-x-ijmes">ʿAbd al-Ḥamīd al-Zahrāwī</persName></editor>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:745044 oape:place:3">Istanbul</placeName> </pubPlace>
                </imprint>
