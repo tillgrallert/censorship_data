@@ -501,7 +501,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j" xml:lang="ar-Latn-x-ijmes">al-Salām (al-Bāriza)</title>
+               <title level="j" xml:lang="ar-Latn-x-ijmes" ref="oape:bibl:174">al-Salām (al-Bāriza)</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:745044 oape:place:3" xml:lang="en">Istanbul</placeName> </pubPlace>
                </imprint>
@@ -1159,6 +1159,7 @@
                </listEvent> </note>
          </biblStruct>
          <biblStruct type="periodical">
+            <!-- not found in the bibliography -->
             <monogr>
                <title level="j">al-ʿUrqūb</title>
                <imprint>
@@ -1612,6 +1613,8 @@
          <biblStruct type="periodical">
             <monogr>
                <title level="j">Riyāḥāt al-Afkār</title>
+               <textLang mainLang="ota" otherLangs="ar fr"/>
+               <editor type="owner"><persName xml:lang="ar-Latn-x-ijmes">Ṭāhir Efendi</persName></editor>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -1742,16 +1745,6 @@
                      <bibl>T</bibl>
                   </listBibl>
                </event>
-               </listEvent> </note>
-         </biblStruct>
-         <biblStruct type="periodical">
-            <monogr>
-               <title level="j" ref="oape:bibl:515">al-Nashra al-Usbūʿiyya</title>
-               <imprint>
-                  <pubPlace> <placeName change="#d9e95" ref="geon:276781 oape:place:26">Beirut</placeName> </pubPlace>
-               </imprint>
-            </monogr>
-            <note type="events"> <listEvent>
                <event cert="high" source="@bashir+996a; @Jessup+1910, 549-550" subtype="PR" type="censorship" when="1890-09-15">
                   <label>PR</label>
                   <desc> <date type="documented" when="1890-09-15">1890-09-15</date> <date type="terminus" when="1890-09-01">1890-09-01</date> </desc>
@@ -1767,15 +1760,16 @@
          <biblStruct type="periodical">
             <monogr>
                <title level="j">Sur Hintak</title>
+               <textLang mainLang="hy"/>
                <imprint>
-                  <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire </placeName></pubPlace>
+                  <pubPlace><placeName xml:lang="en">USA</placeName></pubPlace>
                </imprint>
             </monogr>
             <note type="events"> <listEvent>
                <event source="@bashir+1004" subtype="BI" type="censorship" when="1890-03-12">
                   <label>BI</label>
                   <desc> <date type="documented" when="1890-03-12">1890-03-12</date> </desc>
-                  <note type="comments">prohibition of import of the Armenian paper <title level="j">Sur Hintak</title> from the USA into the Ottoman Empire</note>
+                  <note type="comments">prohibition of import of the Armenian paper <title level="j">Sur Hintak</title> from the USA into the <placeName>Ottoman Empire</placeName></note>
                   <listBibl>
                      <bibl ana="@bashir+1004"> <bibl>Bashīr 12 Mar 1890 (#1004)</bibl> </bibl>
                      <bibl>T</bibl>
@@ -1862,6 +1856,8 @@
          <biblStruct type="periodical">
             <monogr>
                <title level="j">Ruḥta al-Shām</title>
+               <textLang mainLang="ar" otherLangs="ota"/>
+               <editor type="owner"><persName>Khālid Efendi al-Qārislī</persName></editor>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -1899,6 +1895,8 @@
          <biblStruct type="periodical">
             <monogr>
                <title level="j">Rawḍat al-shām</title>
+               <editor type="owner"><persName>Khālid Efendi al-Qārislī</persName></editor>
+               <textLang mainLang="ar" otherLangs="ota"/>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -1937,7 +1935,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title level="j"ref="oape:bibl:697">al-Fallāḥ</title>
+               <title level="j" ref="oape:bibl:697">al-Fallāḥ</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:360630 oape:place:226">Cairo</placeName></pubPlace>
                </imprint>
@@ -1974,6 +1972,7 @@
          <biblStruct type="periodical">
             <monogr>
                <title change="#d9e105" level="j" ref="jaraid:bibl:t1r567 oape:bibl:179">al-Shām</title>
+               <editor type="owner"><persName>Muṣṭafā Wāṣif Efendi</persName></editor>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
