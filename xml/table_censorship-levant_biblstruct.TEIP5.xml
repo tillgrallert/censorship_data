@@ -4254,10 +4254,11 @@
                <event source="@tf-oib+1655" subtype="PR" type="censorship" when="1908-01-04">
                   <label>PR</label>
                   <desc> <date type="documented" when="1908-01-04">1908-01-04</date> </desc>
-                  <note type="comments"/>
+                  <note type="comments">Permit for republication after suspension for unmentioned reasons granted by the Vali of Beirut on 22 Kan I 1323</note>
                   <listBibl>
                      <bibl ana="@tf-oib+1655"> <bibl>Thamarāt 6 Jan 1908 (#1655)</bibl> </bibl>
                      <bibl>T</bibl>
+                     <bibl><ref target="https://gpa.eastview.com/crl/mena/newspapers/aliq19080106-01.1.6"/></bibl>
                   </listBibl>
                </event>
                </listEvent> </note>
@@ -7041,6 +7042,27 @@
                   <note type="comments">Arabic newspaper published by ʿAbd al-Ḥamīd al-Zahrāwī for <foreign>takhdīsh al-adhhān</foreign> </note>
                   <listBibl>
                      <bibl ana="@Khalidi+1984, 463-464;  @muqtabas+415-eap, 1">{Khalidi 1984}</bibl>
+                  </listBibl>
+               </event>
+               </listEvent> </note>
+         </biblStruct>
+         <biblStruct type="periodical">
+            <monogr>
+               <title level="j">al-Ḥaqīqa</title>
+               <textLang mainLang="ar"/>
+               <imprint>
+                  <pubPlace> <placeName>Beirut</placeName> </pubPlace>
+               </imprint>
+            </monogr>
+            <note type="events"> <listEvent>
+               <event source="" subtype="S" type="censorship">
+                  <label>S</label>
+                  <desc> <date type="documented" when="1913-06-16"/></desc>
+                  <note type="comments">al-Ḥaqīqa was indefinitely suspended from publication by decision of the al-Dīwān al-ʿUrfī.</note>
+                  <listBibl>
+                     <bibl>
+                        <ref target="https://gpa.eastview.com/crl/mena/newspapers/bshr19130616-01.1.2"/>
+                     </bibl>
                   </listBibl>
                </event>
                </listEvent> </note>
