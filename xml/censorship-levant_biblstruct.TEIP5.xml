@@ -190,7 +190,9 @@
                      <date type="documented" when="1902-11-24">1902-11-24</date>
                   </desc>
                   <note type="comments">No reason given</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">Iq 11:6</cell>
+                  </listBibl>
                </event>
                <event source="@tf-oib+1484" subtype="S" type="censorship" when="1904-05-14">
                   <label>S</label>
@@ -275,7 +277,9 @@
                      <date type="documented" when="1894-02-12">1894-02-12</date>
                   </desc>
                   <note type="comments">Printing a deleted expression</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">Thamarāt 12 Feb. 1894 (#967):1-2</cell>
+                  </listBibl>
                </event>
                <event subtype="S" type="censorship" when="1895-01-19">
                   <label>S</label>
@@ -381,13 +385,15 @@
                      ref="jaraid:bibl:t1r999 oape:bibl:1585" resp="#xslt">al-Miṣbāḥ</title> in Beirut before he moved to Cairo</note>
                   <listBibl/>
                </event>
-               <event notAfter="1901-01-28" source="" subtype="CP" type="lifeCycle">
+               <event notAfter="1901-01-28" subtype="CP" type="lifeCycle">
                   <label>CP</label>
                   <desc>
                      <date notAfter="1901-01-28" type="documented">1901-01-28</date>
                   </desc>
                   <note type="comments">the paper ceased publication after a few issues</note>
-                  <listBibl/>
+                  <listBibl>
+                     <bibl ana="@tf-oib+1316, 6"/>
+                  </listBibl>
                </event>
                </listEvent></note>
          </biblStruct>
@@ -543,13 +549,15 @@
                </imprint>
             </monogr>
             <note type="events"> <listEvent>
-               <event source="" subtype="W" type="censorship" when="1880-10-25">
+               <event subtype="W" type="censorship" when="1880-10-25">
                   <label>W</label>
                   <desc>
                      <date type="documented" when="1880-10-25">1880-10-25</date>
                   </desc>
                   <note type="comments">False news and rumors</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">Thamarāt 25 Oct. 1880 (#303):4</cell>
+                  </listBibl>
                </event>
                </listEvent> </note>
          </biblStruct>
@@ -687,13 +695,15 @@
                </imprint>
             </monogr>
             <note type="events"><listEvent>
-               <event notAfter="1909-09-09" notBefore="1909-05-01" source="" subtype="Trial" type="censorship">
+               <event notAfter="1909-09-09" notBefore="1909-05-01" subtype="Trial" type="censorship">
                   <label>Trial</label>
                   <desc>
                      <date notAfter="1909-09-09" notBefore="1909-05-01" type="documented">1912, summer</date>
                   </desc>
                   <note type="comments">Ban to enforce the publication of compliant articles. Life imprisonment for the responsible editor <persName>Fahmī Efendi Ghazzī</persName> </note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6"> <ref target="Devey+1912g BoaBeo4082306107Şamda+1912"/> </cell>
+                  </listBibl>
                </event>
                </listEvent></note>
          </biblStruct>
@@ -744,13 +754,15 @@
                   <note type="comments">Violation of the basic principle of the Press Law</note>
                   <listBibl/>
                </event>
-               <event source="" subtype="S" type="censorship" when="1903-09-03">
+               <event subtype="S" type="censorship" when="1903-09-03">
                   <label>S</label>
                   <desc>
                      <date type="documented" when="1903-09-03">1903-09-03</date>
                   </desc>
                   <note type="comments">Violation of the basic principle of the Press Law</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">TF 1452:5</cell>
+                  </listBibl>
                </event>
                <event source="@lisan+4432" subtype="W" type="censorship" when="1903-10-22">
                   <label>W</label>
@@ -983,21 +995,25 @@
                </imprint>
             </monogr>
             <note type="events"><listEvent>
-               <event notAfter="1911-01-23" source="" subtype="P" type="censorship">
+               <event notAfter="1911-01-23" subtype="P" type="censorship">
                   <label>P</label>
                   <desc>
                      <date notAfter="1911-01-23" type="documented">1911-01-23</date>
                   </desc>
                   <note type="comments">bi-weekly published by <persName>ʿIsā Efendi Dāwud al-ʿIsā</persName> </note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6"> <ref target="muqtabas+229-eap@2"/> </cell>
+                  </listBibl>
                </event>
-               <event notAfter="1913-12-01" source="" subtype="S" type="censorship">
+               <event notAfter="1913-12-01" subtype="S" type="censorship">
                   <label>S</label>
                   <desc>
                      <date notAfter="1913-12-01" type="documented">1913-12-01</date>
                   </desc>
                   <note type="comments"/>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6"> <ref target="qabas+23-eap@3"/> </cell>
+                  </listBibl>
                </event>
                <event source="@qabas+27-eap, 2" subtype="RP" type="censorship" when="1913-12-17">
                   <label>RP</label>
@@ -1354,13 +1370,15 @@
                   <note type="comments">Violation of the basic principle of the Press Law. No gap in publication dates after #3879 ( <date when="1901-11-22">22 Nov</date> )</note>
                   <listBibl/>
                </event>
-               <event source="" subtype="W" type="censorship" when="1903-01-22">
+               <event subtype="W" type="censorship" when="1903-01-22">
                   <label>W</label>
                   <desc>
                      <date type="documented" when="1903-01-22">1903-01-22</date>
                   </desc>
                   <note type="comments">Publication of an article which violated the principles of the Press Law</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">Iq 11:6</cell>
+                  </listBibl>
                </event>
                <event cert="high" source="@lisan+4446" subtype="S" type="censorship" when="1903-11-01">
                   <label>S</label>
@@ -1802,13 +1820,15 @@
                </imprint>
             </monogr>
             <note type="events"> <listEvent>
-               <event source="" subtype="1" type="lifeCycle" when="1900-07-16">
+               <event subtype="1" type="lifeCycle" when="1900-07-16">
                   <label>1</label>
                   <desc>
                      <date type="documented" when="1900-07-16">1900-07-16</date>
                   </desc>
                   <note type="comments">The first issue of this Protestant paper was published</note>
-                  <listBibl/>
+                  <listBibl>
+                     <tei:cell> <ref target="tf-oib+1293@6"/> </tei:cell>
+                  </listBibl>
                </event>
                </listEvent> </note>
          </biblStruct>
@@ -2010,13 +2030,15 @@
                   <note type="comments">One month gap in publication between #396 and #397</note>
                   <listBibl/>
                </event>
-               <event source="" subtype="W" type="censorship" when="1883-02-19">
+               <event subtype="W" type="censorship" when="1883-02-19">
                   <label>W</label>
                   <desc>
                      <date type="documented" when="1883-02-19">1883-02-19</date>
                   </desc>
                   <note type="comments">Personal invective</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">Thamarāt 19 Feb. 1883 (#416):4</cell>
+                  </listBibl>
                </event>
                <event source="@thamarat+640" subtype="W" type="censorship" when="1887-07-18">
                   <label>W</label>
