@@ -170,7 +170,7 @@
                   <note type="comments">New fortnightly journal published by the Jesuits in Beirut</note>
                   <listBibl><bibl type="pandoc">@tf-oib+1164, 3</bibl></listBibl>
                </event>
-               <event source="" subtype="S" type="censorship" when="1902-11-24">
+               <event subtype="S" type="censorship" when="1902-11-24">
                   <label>S</label>
                   <desc>
                      <date type="documented" when="1902-11-24">1902-11-24</date>
@@ -257,7 +257,7 @@
                   <note type="comments">Failure to print the necessary titles and praises with the Sultan's name</note>
                   <listBibl><bibl type="pandoc">@tf-oib+734</bibl><bibl type="pandoc">@tf-oib+744</bibl></listBibl>
                </event>
-               <event source="" subtype="W" type="censorship" when="1894-02-12">
+               <event subtype="W" type="censorship" when="1894-02-12">
                   <label>W</label>
                   <desc>
                      <date type="documented" when="1894-02-12">1894-02-12</date>
@@ -2037,13 +2037,15 @@
                   <note type="comments">Violation of the censor's warning</note>
                   <listBibl><bibl type="pandoc">@thamarat+980b</bibl></listBibl>
                </event>
-               <event source="" subtype="S" type="censorship" when="1896-10-28">
+               <event subtype="S" type="censorship" when="1896-10-28">
                   <label>S</label>
                   <desc>
                      <date type="documented" when="1896-10-28">1896-10-28</date>
                   </desc>
                   <note type="comments">Publishing deleted material</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">TF 1104:2</cell>
+                  </listBibl>
                </event>
                <event source="@tf-oib+1234, 4" subtype="W" type="censorship" when="1899-06-07">
                   <label>W</label>
@@ -2079,13 +2081,15 @@
                   <note type="comments">Violation of the basic principle of the Press Law</note>
                   <listBibl><bibl type="pandoc">@tf-oib+1358</bibl><bibl type="pandoc">@tf-oib+1359</bibl></listBibl>
                </event>
-               <event source="" subtype="S" type="censorship" when="1903-04-07">
+               <event subtype="S" type="censorship" when="1903-04-07">
                   <label>S</label>
                   <desc>
                      <date type="documented" when="1903-04-07">1903-04-07</date>
                   </desc>
                   <note type="comments">Violation of the basic principle of the Press Law</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">TF 1426:4</cell>
+                  </listBibl>
                </event>
                <event source="@tf-oib+1476" subtype="W" type="censorship" when="1904-04-18">
                   <label>W</label>
@@ -2283,13 +2287,15 @@
                </imprint>
             </monogr>
             <note type="events"><listEvent>
-               <event cert="high" source="" subtype="S" type="censorship" when="1898-04-29">
+               <event cert="high" subtype="S" type="censorship" when="1898-04-29">
                   <label>S</label>
                   <desc>
                      <date type="documented" when="1898-04-29">1898-04-29</date>
                   </desc>
                   <note type="comments">No reason given</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">TF 1183:5</cell>
+                  </listBibl>
                </event>
                <event source="@tf-oib+1183" subtype="PR" type="censorship" when="1898-06-06">
                   <label>PR</label>
@@ -2444,13 +2450,15 @@
                   <note type="comments">Violation of the basic principle of the Press Law</note>
                   <listBibl><bibl type="pandoc">@tf-oib+1359</bibl></listBibl>
                </event>
-               <event source="" subtype="S" type="censorship" when="1902-01-18">
+               <event subtype="S" type="censorship" when="1902-01-18">
                   <label>S</label>
                   <desc>
                      <date type="documented" when="1902-01-18">1902-01-18</date>
                   </desc>
                   <note type="comments">No reason given</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">TF 1365:5</cell>
+                  </listBibl>
                </event>
                <event cert="high" source="@bashir+1680; @lisan+4736" subtype="S" type="censorship" when="1904-10-01">
                   <label>S</label>
@@ -2548,13 +2556,15 @@
                   <note type="comments">Orders from Constantinople to cease publication of al-Bashīr</note>
                   <listBibl><bibl type="pandoc">@thamarat-oib-2-59, 4</bibl></listBibl>
                </event>
-               <event source="" subtype="W" type="censorship" when="1880-12-11">
+               <event subtype="W" type="censorship" when="1880-12-11">
                   <label>W</label>
                   <desc>
                      <date type="documented" when="1880-12-11">1880-12-11</date>
                   </desc>
                   <note type="comments">Corrupted news (mentioned in the following warning)</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6"> <ref target="thamarat-oib-7-347@3" type="SentenCitationID"/> </cell>
+                  </listBibl>
                </event>
                <event source="@thamarat-oib-7-347, 3" subtype="W" type="censorship" when="1881-09-12">
                   <label>W</label>
