@@ -2720,13 +2720,15 @@
                </imprint>
             </monogr>
             <note type="events"><listEvent>
-               <event notAfter="1913-12-01" source="" subtype="RP" type="censorship">
+               <event notAfter="1913-12-01" subtype="RP" type="censorship">
                   <label>RP</label>
                   <desc>
                      <date notAfter="1913-12-01" type="documented">1913-12-01</date>
                   </desc>
                   <note type="comments">the first issue of the new newspaper <title change="#d10e133" level="j" ref="NA" resp="#xslt">al-Dustūr</title> , published in Jaffa to replace <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2822 oape:bibl:1856" resp="#xslt">Filasṭīn</title> , which has been suspended, arrived in Damascus. The responsible director is <persName>Jamīl Efendi al-Khālidī</persName> , the editor in chief is <persName>Yūsuf Efendi al-ʿĪsā</persName> </note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6"> <ref target="qabas+23-eap@3"/> </cell>
+                  </listBibl>
                </event>
                </listEvent></note>
          </biblStruct>
@@ -2899,13 +2901,17 @@
                   <note type="comments">Abd al-Bāsiṭ Efendi al-Unsī received the permit to publish the newspaper al-Iqbāl</note>
                   <listBibl><bibl type="pandoc">@tf-oib+1261, 4</bibl></listBibl>
                </event>
-               <event cert="high" source="" subtype="S" type="censorship" when="1903-09-13">
+               <event cert="high" subtype="S" type="censorship" when="1903-09-13">
                   <label>S</label>
                   <desc>
                      <date type="documented" when="1903-09-13">1903-09-13</date>
+                     <date type="onset" when="1903-09-12"/>
+                    <date type="terminus" when="1903-10-11"/>
                   </desc>
                   <note type="comments">Publication of articles which violated the basic principle of the Press Law</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">TF 1449:5, Iq 53:6</cell>
+                  </listBibl>
                </event>
                <event cert="high" source="@tf-oib+1468" subtype="S" type="censorship" when="1904-02-14">
                   <label>S</label>
@@ -2915,13 +2921,15 @@
                   <note type="comments">Disregarding the censor's warning</note>
                   <listBibl><bibl type="pandoc">@tf-oib+1468</bibl></listBibl>
                </event>
-               <event source="" subtype="PR" type="censorship" when="1904-02-14">
+               <event subtype="PR" type="censorship" when="1904-02-14">
                   <label>PR</label>
                   <desc>
-                     <date type="documented" when="1904-02-14">1904-10-31</date>
+                     <date type="documented" when="1904-10-31">1904-10-31</date>
                   </desc>
                   <note type="comments">recommenced publication</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6"> Iqbāl #70 </cell>
+                  </listBibl>
                </event>
                <event source="@lisan+6141" subtype="Trial" type="censorship" when="1909-10-07">
                   <label>Trial</label>
@@ -3241,13 +3249,15 @@
                </imprint>
             </monogr>
             <note type="events"><listEvent>
-               <event notAfter="1901-01-28" source="" subtype="1" type="lifeCycle" xml:lang="en">
+               <event notAfter="1901-01-28" subtype="1" type="lifeCycle" xml:lang="en">
                   <label>1</label>
                   <desc>
                      <date notAfter="1901-01-28" type="documented" xml:lang="en">1901-01-28</date>
                   </desc>
                   <note type="comments">The first issue arrived in Beirut, published by Najīb Efendi Ghannāja</note>
-                  <listBibl/>
+                  <listBibl>
+                     <ref target="tf-oib+1316@6"/>
+                  </listBibl>
                </event>
                </listEvent></note>
          </biblStruct>
@@ -3330,13 +3340,15 @@
                   <note type="comments">Violation of the basic principle of the Press Law</note>
                   <listBibl><bibl type="pandoc">@bashir+1478a</bibl><bibl type="pandoc">@mahabba+9-eap</bibl><bibl type="pandoc">@tf-oib+1321</bibl></listBibl>
                </event>
-               <event source="" subtype="S" type="censorship" when="1903-03-08">
+               <event subtype="S" type="censorship" when="1903-03-08">
                   <label>S</label>
                   <desc>
                      <date type="documented" when="1903-03-08">1903-03-08</date>
                   </desc>
                   <note type="comments">Violation of the basic principle of the Press Law</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">TF 1422:5</cell>
+                  </listBibl>
                </event>
                <event cert="high" source="@thamarat+1653a, 4" subtype="S" type="censorship" when="1907-12-03">
                   <label>S</label>
@@ -3492,13 +3504,15 @@
                   <note type="comments">After Muḥammad Kurd ʿAlī was cleared from the alleged treason, all <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2679 oape:bibl:3194" resp="#xslt">al-Umma</title> reverted back to its old name <title change="#d9e105" level="j" ref="oclc:70845599 jaraid:bibl:t1r2590 oape:bibl:50" resp="#xslt">al-Muqtabas</title> .</note>
                   <listBibl><bibl type="pandoc">@muqtabas+57-eap</bibl></listBibl>
                </event>
-               <event notAfter="1909-09-09" notBefore="1909-05-01" source="" subtype="Trial" type="censorship">
+               <event notAfter="1909-09-09" notBefore="1909-05-01" subtype="Trial" type="censorship">
                   <label>Trial</label>
                   <desc>
                      <date notAfter="1909-09-09" notBefore="1909-05-01" type="documented">1912, summer</date>
                   </desc>
                   <note type="comments">Arrest of Aḥmad Kurd ʿAlī; attempted arrest of Muḥammad Kurd ʿAlī </note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6"> <ref target="{Devey+1912e Devey+1912f Devey+1912g"/> </cell>
+                  </listBibl>
                </event>
                <event cert="high" source="@muqtabas+482-eap; @Devey+1912e " subtype="S" type="censorship" when="1912-04-16">
                   <label>S</label>
@@ -4544,13 +4558,15 @@
                </imprint>
             </monogr>
             <note type="events"><listEvent>
-               <event source="" subtype="BI" type="censorship" when="1913-03-24">
+               <event subtype="BI" type="censorship" when="1913-03-24">
                   <label>BI</label>
                   <desc>
                      <date type="documented" when="1913-03-24">1913-03-24</date>
                   </desc>
                   <note type="comments">Ban on import into the Ottoman Empire </note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6"> <ref target="muqtabas+574-eap@3"/> </cell>
+                  </listBibl>
                </event>
                </listEvent></note>
          </biblStruct>
@@ -4953,13 +4969,15 @@
                </imprint>
             </monogr>
             <note type="events"><listEvent>
-               <event source="" subtype="S" type="censorship" when="1903-10-23">
+               <event subtype="S" type="censorship" when="1903-10-23">
                   <label>S</label>
                   <desc>
                      <date type="documented" when="1903-10-23">1903-10-23</date>
                   </desc>
                   <note type="comments">Publication of articles which violated the basic principle of the Press Law</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">TF 1455:6</cell>
+                  </listBibl>
                </event>
                <event source="@lisan+4446" subtype="W" type="censorship" when="1903-11-01">
                   <label>W</label>
@@ -5016,13 +5034,15 @@
                </imprint>
             </monogr>
             <note type="events"><listEvent>
-               <event notAfter="1901-01-28" source="" subtype="1" type="lifeCycle" xml:lang="en">
+               <event notAfter="1901-01-28" subtype="1" type="lifeCycle" xml:lang="en">
                   <label>1</label>
                   <desc>
                      <date notAfter="1901-01-28" type="documented" xml:lang="en">1901-01-28</date>
                   </desc>
                   <note type="comments">The first issue was published by Sajʿān Efendi ʿĀrij</note>
-                  <listBibl/>
+                  <listBibl>
+                     <ref target="tf-oib+1316@6"/>
+                  </listBibl>
                </event>
                </listEvent></note>
          </biblStruct>
@@ -5131,13 +5151,15 @@
                   <note type="comments">For errors, perhaps because of a slip of the pen</note>
                   <listBibl><bibl type="pandoc">@thamarat+1042, 2</bibl></listBibl>
                </event>
-               <event source="" subtype="S" type="censorship" when="1895-10-07">
+               <event subtype="S" type="censorship" when="1895-10-07">
                   <label>S</label>
                   <desc>
                      <date type="documented" when="1895-10-07">1895-10-07</date>
                   </desc>
                   <note type="comments">No reason given</note>
-                  <listBibl/>
+                  <listBibl>
+                     <cell n="6">Thamarāt 7 Oct. 1895 (#1048):1</cell>
+                  </listBibl>
                </event>
                <event cert="high" source="@tf-oib+1506, 5" subtype="S" type="censorship" when="1905-01-12">
                   <label>S</label>
@@ -5184,7 +5206,9 @@
       <body>
          <div type="notes">
             <head>Legend</head>
-            <p>The table is based on the table of suspensions, bans, and warnings provided by Cioeta, "Ottoman Censorship," 1979:182-185, which covered the years 1878-1908. I augmented his data with my readings, checked for corresponding gaps in publication when possible, corrected the dating, and added information on the years 1908-1914.</p>
+            <p>This data set is based on the table of suspensions, bans, and warnings provided by Cioeta, "Ottoman Censorship," 1979:182-185, which covered the years 1878-1908. I augmented his data with my own readings, checked for corresponding gaps in publication when possible, corrected the dating, and added information on the years 1908-1914.</p>
+            <p>This file has been converted from the original table and as of 2022-02-13 not all data has made it. Particularly the duration of suspensions is still missing.</p>
+            <p>The formatting of sources needs work and Cioeta's references to Thamarāt al-Funūn need to be checked for dating, as he confused sharqī and gharbī calendars.</p>
             <note type="footnote" xml:id="fnText1"> <ref target="#fnRef1" type="noteAnchor">1</ref>Dates provide the date of the warning, if known. Otherwise they represent the date of publication for the periodical they were printed in. The dates are always different from Cioeta's as he confused the Ottoman fiscal ( <title change="#d10e133" level="j" ref="NA" resp="#xslt">mālī</title> ) or Julian calendars for Gregorian reckoning.</note>
             <note type="footnote" xml:id="fnText2"> <ref target="#fnRef2" type="noteAnchor">2</ref><list>
                <item>BI: Ban on import</item>
