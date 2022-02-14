@@ -3,7 +3,15 @@
       <fileDesc>
          <titleStmt>
             <title>Censorship in Beirut and Damascus, 1877-1914</title>
-            <author xml:id="pers_TG"> <persName> <forename>Till</forename> <surname>Grallert</surname> </persName> </author>
+            <author> <persName> <forename>Till</forename> <surname>Grallert</surname> </persName> </author>
+             <respStmt>
+                 <resp>Contributed data based on various published and unpublished sources</resp>
+                 <persName xml:id="pers_TG"><forename>Till</forename> <surname>Grallert</surname> </persName>
+             </respStmt>
+             <respStmt>
+                 <resp>Contributed data through his 1979 article</resp>
+                 <persName xml:id="pers_DC"><forename>Donald</forename> <surname>Cioeta</surname></persName>
+             </respStmt>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -20,7 +28,8 @@
             <p>Bibliographic notes are marked with the <gi>ref</gi> element. This element carries the attribute <att>type</att> identifying the source of the reference – usually a reference managing software. <tag>ref type="SenteCitationID"</tag> identifies Sente as the reference manager. The <att>target</att> attribute contains the placeholder tag used by the software identified in <att>type</att> to refer to an individual reference or a group of references.</p>
          </refsDecl>
       </encodingDesc>
-      <revisionDesc>
+      <revisionDesc xml:lang="en">
+          <change when="2022-02-14" who="#pers_TG">Fixed the mark-up of sources by transforming everything to <tag>bibl type="pandoc"</tag> with the BibTex Key as the value.</change>
          <change when="2022-02-10" who="#pers_TG" xml:lang="en">Grouped <gi>biblStruct</gi> by periodical and gathered all relevant events under this new single biblStruct. Sorted list by title.</change>
          <change when="2022-02-10" who="#pers_TG" xml:id="d10e133" xml:lang="en">Added references to local authority file (<ref target="/BachUni/BachBibliothek/GitHub/OpenArabicPE/authority-files/data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml" xml:lang="en">/BachUni/BachBibliothek/GitHub/OpenArabicPE/authority-files/data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml</ref>) and to OCLC (WorldCat) IDs to <gi xml:lang="en">titles</gi>s without such references based on  <gi xml:lang="en">biblStruct</gi>s mentioned in the authority file (bibliography).</change>
          <change when="2022-02-10" who="#pers_TG" xml:id="d10e119" xml:lang="en">Added references to local authority file (<ref target="/BachUni/BachBibliothek/GitHub/OpenArabicPE/authority-files/data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml" xml:lang="en">/BachUni/BachBibliothek/GitHub/OpenArabicPE/authority-files/data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml</ref>) and to OCLC (WorldCat) IDs to <gi xml:lang="en">titles</gi>s without such references based on  <gi xml:lang="en">biblStruct</gi>s mentioned in the authority file (bibliography).</change>
@@ -683,7 +692,7 @@
                   </desc>
                   <note type="comments">Ban to enforce the publication of compliant articles. Life imprisonment for the responsible editor <persName>Fahmī Efendi Ghazzī</persName> </note>
                   <listBibl>
-                      <bibl type="SenteCitationID">Devey+1912g</bibl><bibl type="SenteCitationID">BoaBeo4082306107Şamda+1912</bibl> 
+                      <bibl type="pandoc">@Devey+1912g</bibl><bibl type="pandoc">@BoaBeo4082306107Şamda+1912</bibl> 
                   </listBibl>
                </event>
                </listEvent></note>
@@ -979,7 +988,7 @@
                   </desc>
                   <note type="comments">bi-weekly published by <persName>ʿIsā Efendi Dāwud al-ʿIsā</persName> </note>
                   <listBibl>
-                      <bibl type="SenteCitationID">muqtabas+229-eap@2</bibl> 
+                      <bibl type="pandoc">@muqtabas+229-eap, 2</bibl> 
                   </listBibl>
                </event>
                <event notAfter="1913-12-01" subtype="S" type="censorship">
@@ -989,7 +998,7 @@
                   </desc>
                   <note type="comments"/>
                   <listBibl>
-                      <bibl type="SenteCitationID">qabas+23-eap@3</bibl> 
+                      <bibl type="pandoc">@qabas+23-eap, 3</bibl> 
                   </listBibl>
                </event>
                <event source="@qabas+27-eap, 2" subtype="RP" type="censorship" when="1913-12-17">
@@ -1780,7 +1789,7 @@
                   </desc>
                   <note type="comments">The first issue of this Protestant paper was published</note>
                   <listBibl>
-                      <bibl type="SenteCitationID">tf-oib+1293@6</bibl> 
+                      <bibl type="pandoc">@tf-oib+1293, 6</bibl> 
                   </listBibl>
                </event>
                </listEvent> </note>
@@ -2563,7 +2572,7 @@
                   </desc>
                   <note type="comments">Corrupted news (mentioned in the following warning)</note>
                   <listBibl>
-                      <bibl type="SenteCitationID">thamarat-oib-7-347@3</bibl> 
+                      <bibl type="pandoc">@thamarat-oib-7-347, 3</bibl> 
                   </listBibl>
                </event>
                <event source="@thamarat-oib-7-347, 3" subtype="W" type="censorship" when="1881-09-12">
@@ -2727,7 +2736,7 @@
                   </desc>
                   <note type="comments">the first issue of the new newspaper <title change="#d10e133" level="j" ref="NA" resp="#xslt">al-Dustūr</title> , published in Jaffa to replace <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2822 oape:bibl:1856" resp="#xslt">Filasṭīn</title> , which has been suspended, arrived in Damascus. The responsible director is <persName>Jamīl Efendi al-Khālidī</persName> , the editor in chief is <persName>Yūsuf Efendi al-ʿĪsā</persName> </note>
                   <listBibl>
-                      <bibl type="SenteCitationID">qabas+23-eap@3</bibl> 
+                      <bibl type="pandoc">@qabas+23-eap, 3</bibl> 
                   </listBibl>
                </event>
                </listEvent></note>
@@ -3256,7 +3265,7 @@
                   </desc>
                   <note type="comments">The first issue arrived in Beirut, published by Najīb Efendi Ghannāja</note>
                   <listBibl>
-                     <bibl type="SenteCitationID">tf-oib+1316@6</bibl>
+                     <bibl type="pandoc">@tf-oib+1316, 6</bibl>
                   </listBibl>
                </event>
                </listEvent></note>
@@ -3511,7 +3520,7 @@
                   </desc>
                   <note type="comments">Arrest of Aḥmad Kurd ʿAlī; attempted arrest of Muḥammad Kurd ʿAlī </note>
                   <listBibl>
-                      <bibl type="SenteCitationID">{Devey+1912e</bibl><bibl type="SenteCitationID">Devey+1912f</bibl><bibl type="SenteCitationID">Devey+1912g</bibl> 
+                      <bibl type="pandoc">@Devey+1912e</bibl><bibl type="pandoc">@Devey+1912f</bibl><bibl type="pandoc">@Devey+1912g</bibl> 
                   </listBibl>
                </event>
                <event cert="high" source="@muqtabas+482-eap; @Devey+1912e " subtype="S" type="censorship" when="1912-04-16">
@@ -4565,7 +4574,7 @@
                   </desc>
                   <note type="comments">Ban on import into the Ottoman Empire </note>
                   <listBibl>
-                      <bibl type="SenteCitationID">muqtabas+574-eap@3</bibl> 
+                      <bibl type="pandoc">@muqtabas+574-eap, 3</bibl> 
                   </listBibl>
                </event>
                </listEvent></note>
@@ -5041,7 +5050,7 @@
                   </desc>
                   <note type="comments">The first issue was published by Sajʿān Efendi ʿĀrij</note>
                   <listBibl>
-                     <bibl type="SenteCitationID">tf-oib+1316@6</bibl>
+                     <bibl type="pandoc">@tf-oib+1316, 6</bibl>
                   </listBibl>
                </event>
                </listEvent></note>
@@ -5209,8 +5218,8 @@
             <p>This data set is based on the table of suspensions, bans, and warnings provided by Cioeta, "Ottoman Censorship," 1979:182-185, which covered the years 1878-1908. I augmented his data with my own readings, checked for corresponding gaps in publication when possible, corrected the dating, and added information on the years 1908-1914.</p>
             <p>This file has been converted from the original table and as of 2022-02-13 not all data has made it. Particularly the duration of suspensions is still missing.</p>
             <p>The formatting of sources needs work and Cioeta's references to Thamarāt al-Funūn need to be checked for dating, as he confused sharqī and gharbī calendars.</p>
-            <note type="footnote" xml:id="fnText1"> <bibl type="SenteCitationID">#fnRef1</bibl>Dates provide the date of the warning, if known. Otherwise they represent the date of publication for the periodical they were printed in. The dates are always different from Cioeta's as he confused the Ottoman fiscal ( <title change="#d10e133" level="j" ref="NA" resp="#xslt">mālī</title> ) or Julian calendars for Gregorian reckoning.</note>
-            <note type="footnote" xml:id="fnText2"> <bibl type="SenteCitationID">#fnRef2</bibl><list>
+            <note type="footnote" xml:id="fnText1"> <ref target="#fnRef1" type="noteAnchor">1</ref>Dates provide the date of the warning, if known. Otherwise they represent the date of publication for the periodical they were printed in. The dates are always different from Cioeta's as he confused the Ottoman fiscal ( <title change="#d10e133" level="j" ref="NA" resp="#xslt">mālī</title> ) or Julian calendars for Gregorian reckoning.</note>
+            <note type="footnote" xml:id="fnText2"> <ref target="#fnRef2" type="noteAnchor">2</ref><list>
                <item>BI: Ban on import</item>
                <item>CP: Ceased publication</item>
                <item>P: Permit or first publication</item>
@@ -5221,10 +5230,10 @@
                <item>W: Warning ( <emph style="font-style:italic">ikhṭar</emph> )</item>
                <item>1: First issue published.</item>
                </list></note>
-            <note type="footnote" xml:id="fnText5"> <bibl type="SenteCitationID">#fnRef5</bibl>Sources abbreviated as "TF" ( <emph style="font-style:italic">Thamarāt al-Funūn</emph> ) and "Iq" ( <emph style="font-style:italic">al-Iqbāl</emph> ) were solely provided by Cioeta</note>
-            <note type="footnote" xml:id="fnText6"> <bibl type="SenteCitationID">#fnRef6</bibl>Cioeta sometimes chose to present the officially designated period of suspension, while on other occasions, he presented the actual period of suspension. Here, I generally opted for the officially decreed period of suspension.</note>
-            <note type="footnote" xml:id="fnText3"> <bibl type="SenteCitationID">#fnRef3</bibl>My data.</note>
-            <note type="footnote" xml:id="fnText4"> <bibl type="SenteCitationID">#fnRef4</bibl>Cioeta's data.</note>
+            <note type="footnote" xml:id="fnText5"> <ref target="#fnRef5" type="noteAnchor">5</ref>Sources abbreviated as "TF" ( <emph style="font-style:italic">Thamarāt al-Funūn</emph> ) and "Iq" ( <emph style="font-style:italic">al-Iqbāl</emph> ) were solely provided by Cioeta</note>
+            <note type="footnote" xml:id="fnText6"> <ref target="#fnRef6" type="noteAnchor">6</ref>Cioeta sometimes chose to present the officially designated period of suspension, while on other occasions, he presented the actual period of suspension. Here, I generally opted for the officially decreed period of suspension.</note>
+            <note type="footnote" xml:id="fnText3"> <ref target="#fnRef3" type="noteAnchor">T</ref>My data.</note>
+            <note type="footnote" xml:id="fnText4"> <ref target="#fnRef4" type="noteAnchor">C</ref>Cioeta's data.</note>
          </div>
       </body>
    </text>
