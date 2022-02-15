@@ -793,7 +793,8 @@
                      <date type="documented" when="1906-09-16">1906-09-16</date>
                   </desc>
                   <note type="comments">Mistakes resulting from careless editing. Repetition of the offence will cause suspension</note>
-                  <listBibl><bibl type="pandoc">@thamarat+1590</bibl></listBibl>
+                  <listBibl><bibl type="pandoc">@thamarat+1590, 5</bibl>
+               </listBibl>
                </event>
                <event cert="high" source="@thamarat+1660a, 5" subtype="S" type="censorship" when="1908-02-12">
                   <label>S</label>
@@ -2477,7 +2478,7 @@
                      <date type="terminus" when="1904-12-16">1904-12-16</date>
                   </desc>
                   <note type="comments">Publication of uncensored phrases</note>
-                  <listBibl><bibl type="pandoc">@bashir+1680</bibl><bibl type="pandoc">@lisan+4736</bibl></listBibl>
+                  <listBibl><bibl type="pandoc">@bashir+1680, 2</bibl><bibl type="pandoc">@lisan+4736</bibl></listBibl>
                </event>
                <event source="@bashir+1680; @lisan+4736" subtype="PR" type="censorship" when="1904-12-14">
                   <label>PR</label>
@@ -2485,7 +2486,7 @@
                      <date type="documented" when="1904-12-14">1904-12-14</date>
                   </desc>
                   <note type="comments">Permit for resuming publication after one month of suspension (since <date when="1904-11-15">7 Ram 1322 [15 Nov 1904]</date> )</note>
-                  <listBibl><bibl type="pandoc">@bashir+1680</bibl><bibl type="pandoc">@lisan+4736</bibl></listBibl>
+                  <listBibl><bibl type="pandoc">@bashir+1680, 2</bibl><bibl type="pandoc">@lisan+4736</bibl></listBibl>
                </event>
                <event source="@muqtabas+188-eap, 2; @iqbal+9-366, 5" subtype="Trial" type="censorship" when="1910-09-24">
                   <label>Trial</label>
@@ -2879,8 +2880,9 @@
          <biblStruct type="periodical">
             <monogr>
                <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2049 oape:bibl:1769" resp="#xslt">al-Intiqād</title>
+               <textLang mainLang="ar"/>
                <imprint>
-                  <pubPlace>?</pubPlace>
+                  <pubPlace>Istanbul</pubPlace>
                </imprint>
             </monogr>
             <note type="events"><listEvent>
@@ -4946,7 +4948,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title change="#d10e133" level="j" ref="NA" resp="#xslt">İştirāk</title>
+               <title change="#d10e133" level="j" ref="NA" resp="#xslt" xml:lang="ota-Latn-TR">İştirāk</title>
                <textLang mainLang="ota"/>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople </placeName></pubPlace>
@@ -4965,7 +4967,8 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title change="#d10e133" level="j" ref="NA" resp="#xslt">ʿAlimdār</title>
+               <title change="#d10e133" level="j" ref="NA" resp="#xslt" xml:lang="ota-Latn-x-ijmes">ʿAlimdār</title>
+                <textLang mainLang="ota"/>
                <imprint>
                   <pubPlace>?</pubPlace>
                </imprint>
@@ -5011,7 +5014,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title change="#d10e133" level="j" ref="NA" resp="#xslt">Ḥawādis̱-i Müḳtebese</title>
+               <title change="#d10e133" level="j" ref="NA" resp="#xslt" xml:lang="ota-Latn-x-ijmes">Ḥawādis̱-i Müḳtebese</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -5095,6 +5098,7 @@
          <biblStruct type="periodical">
             <monogr>
                <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2706 oape:bibl:493" resp="#xslt">Ṣadā al-Shahbāʾ</title>
+                <textLang mainLang="ar" otherLangs="ota"></textLang>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:170063 oape:place:15">Aleppo</placeName></pubPlace>
                </imprint>
@@ -5113,7 +5117,7 @@
                   <desc>
                      <date notAfter="1910-08-15" type="documented">1910-08-15</date>
                   </desc>
-                  <note type="comments">Recommended publication in Arabic and Turkish after some unspecified period</note>
+                  <note type="comments">Recommenced publication in Arabic and Turkish after some unspecified period</note>
                   <listBibl><bibl type="pandoc">@iqbal+9-360, 8</bibl></listBibl>
                </event>
                </listEvent></note>
