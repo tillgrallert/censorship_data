@@ -2892,6 +2892,17 @@
                   <note type="comments"> <title change="#d9e105" level="j" ref="jaraid:bibl:t1r2049 oape:bibl:1769" resp="#xslt">al-Intiqād</title>was warned by the al-Majlis al-ʿArafī / al-ʿUrfī (educational council?) for having published something violating the personal rights of <persName>Muḥammad ʿAbīd Allah</persName> , the Nāʾib of Izmir and owner of the newspaper <title change="#d9e105" level="j" ref="oape:bibl:44" resp="#xslt">al-ʿArab</title> </note>
                   <listBibl><bibl type="pandoc">@al-quds-2-158, 3</bibl></listBibl>
                </event>
+               <event type="censorship" subtype="S">
+                  <label>S</label>
+                  <desc>
+                     <date type="documented" when="1911-04-22"/>
+                  </desc>
+                  <note type="comments">the al-Dīwān al-ʿUrfī in Constantinople just banned (*ʿaṭala*) the newspaper <title level="j">al-Intiqād</title> from publication due to the owner ʿAbd al-Razzāq Efendi al-Baghdādī not having had a permission to publish a newspaper of any name.
+                  </note>
+                  <listBibl>
+                     <bibl type="pandoc">@muqtabas+254-eap, 2</bibl>
+                  </listBibl>
+               </event>
                </listEvent></note>
          </biblStruct>
          <biblStruct type="periodical">
