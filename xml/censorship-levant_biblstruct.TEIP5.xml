@@ -1077,6 +1077,8 @@
          <biblStruct type="periodical">
             <monogr>
                <title change="#d10e133" level="j" ref="NA" resp="#xslt">Kashf al-Ḥijāb</title>
+               <editor type="owner"><persName xml:lang="ar-Latn-x-ijmes">Muḥammad Mīdānī Efendi</persName></editor>
+               <textLang mainLang="ar"/>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -5015,6 +5017,7 @@
          <biblStruct type="periodical">
             <monogr>
                <title change="#d10e133" level="j" ref="NA" resp="#xslt" xml:lang="ota-Latn-x-ijmes">Ḥawādis̱-i Müḳtebese</title>
+               <editor type="owner"><persName xml:lang="ar-Latn-x-ijmes">Muṣṭafā Wāṣif Efendi</persName></editor>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
