@@ -761,6 +761,8 @@
          <biblStruct type="periodical">
             <monogr>
                <title change="#d10e133" level="j" ref="NA" resp="#pers_TG">Arnāwūṭ</title>
+               <title level="j" xml:lang="tr">Arnavud</title>
+               <title level="j" xml:lang="ota">آرناؤد</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:745044 oape:place:3">Constantinople</placeName></pubPlace>
                </imprint>
@@ -1187,7 +1189,8 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title change="#d10e133" level="j" ref="NA" resp="#pers_TG">Güneş</title>
+               <title change="#d10e133" level="j" ref="NA" resp="#pers_TG" xml:lang="tr">Güneş</title>
+               <title level="j" xml:lang="ota">كونش</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="oape:place:1">Ottoman Empire </placeName></pubPlace>
                </imprint>
