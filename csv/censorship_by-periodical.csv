@@ -1,73 +1,73 @@
 "publication.id","publication.title","publication.loc.id","publication.loc","W","S","PR","BI"
-NA,"all newspapers",NA,NA,10,1,NA,NA
-"wiki:Q6559136","Lisān al-Ḥāl","geon:276781","Beirut",8,10,1,NA
-"wiki:Q108084719","al-Bashīr","geon:276781","Beirut",9,4,1,NA
-"wiki:Q12183306","al-Aḥwāl","geon:276781","Beirut",6,9,3,NA
+NA,"all newspapers",NA,NA,10,1,0,0
+"wiki:Q6559136","Lisān al-Ḥāl","geon:276781","Beirut",8,10,1,0
+"wiki:Q108084719","al-Bashīr","geon:276781","Beirut",9,4,1,0
+"wiki:Q12183306","al-Aḥwāl","geon:276781","Beirut",6,9,3,0
 "wiki:Q124973713","Thamarāt al-Funūn","geon:276781","Beirut",9,5,2,1
-"wiki:Q124973683","Bayrūt","geon:276781","Beirut",7,4,2,NA
-"wiki:Q124972753","al-Miṣbāḥ","geon:276781","Beirut",5,5,1,NA
-"wiki:Q124970897","al-Janna","geon:276781","Beirut",3,5,1,NA
-"wiki:Q124970741","al-Taqaddum","geon:276781","Beirut",3,4,NA,NA
-"wiki:Q124964359","al-Muqtabas","geon:170654","Damascus",NA,4,NA,NA
-"wiki:Q124974031","Ṭarābulus","geon:266826","Tripoli",NA,3,1,NA
-"wiki:Q124972025","al-ʿArab","geon:745044","Istanbul",NA,2,NA,NA
-"wiki:Q124971844","al-Shahbāʾ","geon:170063","Aleppo",NA,2,NA,NA
-"wiki:Q124972384","al-Muʾayyad","geon:360630","Cairo",NA,NA,NA,2
-"wiki:Q124972811","al-Mufīd","geon:276781","Beirut",NA,2,NA,NA
-"wiki:Q124972481","al-Maḥabba","geon:276781","Beirut",2,2,1,NA
-"wiki:Q124972743","al-Mashriq","geon:276781","Beirut",NA,2,NA,NA
-"wiki:Q12183832","al-Iqbāl","geon:276781","Beirut",NA,2,1,NA
-"wiki:Q124970562","al-Intiqād","geon:745044","Istanbul",NA,2,NA,NA
-"wiki:Q286468","al-Ahrām","geon:361058","Alexandria",NA,NA,NA,2
-NA,"a number / all newspapers",NA,NA,2,NA,NA,NA
-"wiki:Q125629449","Ṭanẓīmāt","geon:745044","Istanbul",NA,1,NA,NA
-"wiki:Q125629494","Ṭanīn","geon:745044","Istanbul",NA,1,NA,NA
-"wiki:Q127427566","Ṣadā al-Mufīd","geon:276781","Beirut",NA,1,NA,NA
-"wiki:Q12207336","Ḥadīqat al-Akhbār","geon:276781","Beirut",1,1,NA,NA
-NA,"İştirāk",NA,NA,NA,NA,1,NA
-NA,"all Egyptian newspapers",NA,NA,NA,NA,NA,1
-"wiki:Q124970924","al-Ḥāris","geon:276781","Beirut",NA,1,NA,NA
-"wiki:Q124971021","al-Ḥaqīqa","geon:2464470","Tunis",NA,1,NA,NA
-"wiki:Q124971025","al-Ḥaqīqa","geon:276781","Beirut",NA,1,NA,NA
-NA,"al-ʿUrqūb",NA,NA,1,NA,NA,NA
-"wiki:Q124972094","al-ʿUmrān","geon:360630","Cairo",NA,NA,NA,1
-"wiki:Q124964171","al-Umma","geon:170654","Damascus",NA,NA,1,NA
-"wiki:Q124964202","al-Shām","geon:170654","Damascus",NA,1,1,NA
-"wiki:Q124973208","al-Nashra al-Usbūʿiyya","geon:276781","Beirut",NA,1,1,NA
-"wiki:Q124972827","al-Muqtaṭaf","geon:276781","Beirut",1,NA,NA,NA
-"wiki:Q124972487","al-Maḥrūsa","geon:360630","Cairo",NA,1,1,NA
-"wiki:Q124972802","al-Maʿlūmāt","geon:745044","Istanbul",NA,1,NA,NA
-"wiki:Q124972854","al-Manār","geon:276781","Beirut",1,NA,NA,NA
-"wiki:Q124972663","al-Madaniyya","geon:745044","Istanbul",NA,1,NA,NA
-"wiki:Q124970913","al-Jawāʾib","geon:745044","Istanbul",NA,NA,NA,1
-NA,"al-Jarīda al-Adabiyya",NA,NA,NA,NA,NA,1
-"wiki:Q65563187","al-Janān","geon:276781","Beirut",1,NA,1,NA
-"wiki:Q124970507","al-Iʿtilāf al-ʿUthmānī","geon:276781","Beirut",NA,1,NA,NA
-"wiki:Q124970494","al-Iʿtidāl","geon:170063","Aleppo",NA,1,NA,NA
-"wiki:Q124973551","al-Hilāl al-ʿUthmānī","geon:745044","Istanbul",NA,1,NA,NA
-"wiki:Q124972146","al-Fatā al-ʿArabī","geon:276781","Beirut",NA,1,NA,NA
-"wiki:Q124972193","al-Fallāḥ","geon:360630","Cairo",NA,1,NA,NA
-"wiki:Q124970295","al-Arz","geon:8041193","Jounieh",NA,1,1,NA
-NA,"Sur Hintak",NA,NA,NA,NA,NA,1
-NA,"Some newspapers",NA,NA,1,NA,NA,NA
-"wiki:Q125629475","Silāḥ","geon:734077","Salonica",NA,1,NA,NA
-NA,"Shams",NA,NA,NA,NA,NA,1
-NA,"Shahrāʾ",NA,NA,NA,1,NA,NA
-NA,"Ser Basti",NA,NA,NA,NA,NA,1
-"wiki:Q124964327","Rūḥān al-Shām","geon:170654","Damascus",NA,1,NA,NA
-"wiki:Q124973868","Rawḍat al-Maʿārif","geon:276781","Beirut",NA,1,NA,NA
-NA,"Nahḍa al-ʿArab",NA,NA,NA,NA,NA,1
-"wiki:Q124974866","Nahr al-ʿĀṣī","geon:170017","Hama",NA,NA,1,NA
-"wiki:Q124974682","Mirʾāt al-Aḥwāl","geon:745044","Istanbul",NA,NA,NA,1
-NA,"Meşrutiyet",NA,NA,NA,NA,NA,1
-NA,"Lātūrkī",NA,NA,NA,1,NA,NA
-"wiki:Q124974267","Lubnān","geon:276781","Beirut",NA,NA,1,NA
-"wiki:Q127427567","Lisān al-ʿArab","geon:276781","Beirut",NA,1,NA,NA
-NA,"Kursī-yi milel",NA,NA,NA,1,NA,NA
-NA,"Güneş",NA,NA,NA,NA,NA,1
-"wiki:Q5448286","Filasṭīn","geon:281184","Jerusalem",NA,1,NA,NA
-"wiki:Q124964326","Dimashq","geon:170654","Damascus",NA,1,1,NA
-NA,"Bayām",NA,NA,NA,NA,1,NA
-NA,"Arnāwūṭ",NA,NA,NA,1,NA,NA
-NA,"All Egyptian newspapers",NA,NA,NA,NA,NA,1
-"wiki:Q4670452","Abū al-Hawl","geon:3448439","Sao Paolo",NA,NA,1,NA
+"wiki:Q124973683","Bayrūt","geon:276781","Beirut",7,4,2,0
+"wiki:Q124972753","al-Miṣbāḥ","geon:276781","Beirut",5,5,1,0
+"wiki:Q124970897","al-Janna","geon:276781","Beirut",3,5,1,0
+"wiki:Q124970741","al-Taqaddum","geon:276781","Beirut",3,4,0,0
+"wiki:Q124964359","al-Muqtabas","geon:170654","Damascus",0,4,0,0
+"wiki:Q124974031","Ṭarābulus","geon:266826","Tripoli",0,3,1,0
+"wiki:Q124972025","al-ʿArab","geon:745044","Istanbul",0,2,0,0
+"wiki:Q124971844","al-Shahbāʾ","geon:170063","Aleppo",0,2,0,0
+"wiki:Q124972384","al-Muʾayyad","geon:360630","Cairo",0,0,0,2
+"wiki:Q124972811","al-Mufīd","geon:276781","Beirut",0,2,0,0
+"wiki:Q124972481","al-Maḥabba","geon:276781","Beirut",2,2,1,0
+"wiki:Q124972743","al-Mashriq","geon:276781","Beirut",0,2,0,0
+"wiki:Q12183832","al-Iqbāl","geon:276781","Beirut",0,2,1,0
+"wiki:Q124970562","al-Intiqād","geon:745044","Istanbul",0,2,0,0
+"wiki:Q286468","al-Ahrām","geon:361058","Alexandria",0,0,0,2
+NA,"a number / all newspapers",NA,NA,2,0,0,0
+"wiki:Q125629449","Ṭanẓīmāt","geon:745044","Istanbul",0,1,0,0
+"wiki:Q125629494","Ṭanīn","geon:745044","Istanbul",0,1,0,0
+"wiki:Q127427566","Ṣadā al-Mufīd","geon:276781","Beirut",0,1,0,0
+"wiki:Q12207336","Ḥadīqat al-Akhbār","geon:276781","Beirut",1,1,0,0
+NA,"İştirāk",NA,NA,0,0,1,0
+NA,"all Egyptian newspapers",NA,NA,0,0,0,1
+"wiki:Q124970924","al-Ḥāris","geon:276781","Beirut",0,1,0,0
+"wiki:Q124971021","al-Ḥaqīqa","geon:2464470","Tunis",0,1,0,0
+"wiki:Q124971025","al-Ḥaqīqa","geon:276781","Beirut",0,1,0,0
+NA,"al-ʿUrqūb",NA,NA,1,0,0,0
+"wiki:Q124972094","al-ʿUmrān","geon:360630","Cairo",0,0,0,1
+"wiki:Q124964171","al-Umma","geon:170654","Damascus",0,0,1,0
+"wiki:Q124964202","al-Shām","geon:170654","Damascus",0,1,1,0
+"wiki:Q124973208","al-Nashra al-Usbūʿiyya","geon:276781","Beirut",0,1,1,0
+"wiki:Q124972827","al-Muqtaṭaf","geon:276781","Beirut",1,0,0,0
+"wiki:Q124972487","al-Maḥrūsa","geon:360630","Cairo",0,1,1,0
+"wiki:Q124972802","al-Maʿlūmāt","geon:745044","Istanbul",0,1,0,0
+"wiki:Q124972854","al-Manār","geon:276781","Beirut",1,0,0,0
+"wiki:Q124972663","al-Madaniyya","geon:745044","Istanbul",0,1,0,0
+"wiki:Q124970913","al-Jawāʾib","geon:745044","Istanbul",0,0,0,1
+NA,"al-Jarīda al-Adabiyya",NA,NA,0,0,0,1
+"wiki:Q65563187","al-Janān","geon:276781","Beirut",1,0,1,0
+"wiki:Q124970507","al-Iʿtilāf al-ʿUthmānī","geon:276781","Beirut",0,1,0,0
+"wiki:Q124970494","al-Iʿtidāl","geon:170063","Aleppo",0,1,0,0
+"wiki:Q124973551","al-Hilāl al-ʿUthmānī","geon:745044","Istanbul",0,1,0,0
+"wiki:Q124972146","al-Fatā al-ʿArabī","geon:276781","Beirut",0,1,0,0
+"wiki:Q124972193","al-Fallāḥ","geon:360630","Cairo",0,1,0,0
+"wiki:Q124970295","al-Arz","geon:8041193","Jounieh",0,1,1,0
+NA,"Sur Hintak",NA,NA,0,0,0,1
+NA,"Some newspapers",NA,NA,1,0,0,0
+"wiki:Q125629475","Silāḥ","geon:734077","Salonica",0,1,0,0
+NA,"Shams",NA,NA,0,0,0,1
+NA,"Shahrāʾ",NA,NA,0,1,0,0
+NA,"Ser Basti",NA,NA,0,0,0,1
+"wiki:Q124964327","Rūḥān al-Shām","geon:170654","Damascus",0,1,0,0
+"wiki:Q124973868","Rawḍat al-Maʿārif","geon:276781","Beirut",0,1,0,0
+NA,"Nahḍa al-ʿArab",NA,NA,0,0,0,1
+"wiki:Q124974866","Nahr al-ʿĀṣī","geon:170017","Hama",0,0,1,0
+"wiki:Q124974682","Mirʾāt al-Aḥwāl","geon:745044","Istanbul",0,0,0,1
+NA,"Meşrutiyet",NA,NA,0,0,0,1
+NA,"Lātūrkī",NA,NA,0,1,0,0
+"wiki:Q124974267","Lubnān","geon:276781","Beirut",0,0,1,0
+"wiki:Q127427567","Lisān al-ʿArab","geon:276781","Beirut",0,1,0,0
+NA,"Kursī-yi milel",NA,NA,0,1,0,0
+NA,"Güneş",NA,NA,0,0,0,1
+"wiki:Q5448286","Filasṭīn","geon:281184","Jerusalem",0,1,0,0
+"wiki:Q124964326","Dimashq","geon:170654","Damascus",0,1,1,0
+NA,"Bayām",NA,NA,0,0,1,0
+NA,"Arnāwūṭ",NA,NA,0,1,0,0
+NA,"All Egyptian newspapers",NA,NA,0,0,0,1
+"wiki:Q4670452","Abū al-Hawl","geon:3448439","Sao Paolo",0,0,1,0
