@@ -27,8 +27,8 @@ NA,"a number / all newspapers",NA,NA,2,0,0,0
 NA,"İştirāk",NA,NA,0,0,1,0
 NA,"all Egyptian newspapers",NA,NA,0,0,0,1
 "wiki:Q124970924","al-Ḥāris","geon:276781","Beirut",0,1,0,0
-"wiki:Q124971021","al-Ḥaqīqa","geon:2464470","Tunis",0,1,0,0
 "wiki:Q124971025","al-Ḥaqīqa","geon:276781","Beirut",0,1,0,0
+NA,"al-Ḥaqīqa",NA,NA,0,1,0,0
 NA,"al-ʿUrqūb",NA,NA,1,0,0,0
 "wiki:Q124972094","al-ʿUmrān","geon:360630","Cairo",0,0,0,1
 "wiki:Q124964171","al-Umma","geon:170654","Damascus",0,0,1,0
@@ -70,4 +70,4 @@ NA,"Güneş",NA,NA,0,0,0,1
 NA,"Bayām",NA,NA,0,0,1,0
 NA,"Arnāwūṭ",NA,NA,0,1,0,0
 NA,"All Egyptian newspapers",NA,NA,0,0,0,1
-"wiki:Q4670452","Abū al-Hawl","geon:3448439","Sao Paolo",0,0,1,0
+NA,"Abū al-Hawl",NA,NA,0,0,1,0
