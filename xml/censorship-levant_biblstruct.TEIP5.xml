@@ -1118,7 +1118,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title change="#d10e133" level="j" ref="NA" resp="#xslt">Faṣl al-Khiṭāb</title>
+               <title change="#d10e133" level="j" ref="NA" resp="#pers_TG">Faṣl al-Khiṭāb</title>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4434,27 +4434,6 @@
          <biblStruct type="periodical">
             <monogr>
                <title change="#d10e119" level="j" ref="jaraid:bibl:t1r2784 oape:bibl:1370" resp="#xslt">al-Nafīr</title>
-               <imprint>
-                  <pubPlace> <placeName change="#d9e95" ref="geon:281184 oape:place:6">Jerusalem</placeName> </pubPlace>
-               </imprint>
-            </monogr>
-            <note type="events"><listEvent>
-               <event source="@al-quds-2-174, 2; @al-quds-2-173, 3" subtype="Trial" type="censorship" when="1910-08-20">
-                  <label>Trial</label>
-                  <desc>
-                     <date type="documented" when="1910-08-20">1910-08-20</date>
-                  </desc>
-                  <note type="comments">the owner of <title change="#d10e133" level="j" ref="NA" resp="#xslt">al-Nafīr</title> is in prison</note>
-                  <listBibl>
-                     <bibl type="pandoc">@al-quds-2-174, 2</bibl>
-                     <bibl type="pandoc">@al-quds-2-173, 3</bibl>
-                  </listBibl>
-               </event>
-               </listEvent></note>
-         </biblStruct>
-         <biblStruct type="periodical">
-            <monogr>
-               <title change="#d10e133" level="j" ref="NA" resp="#xslt">al-Nafīr</title>
                <editor type="owner">
                   <persName xml:lang="ar-Latn-x-ijmes">Jūrjī Ḥanāniyā Efendi Ḥabīb</persName>
                </editor>
@@ -4462,7 +4441,7 @@
                   <pubPlace> <placeName change="#d9e95" ref="geon:281184 oape:place:6">Jerusalem</placeName> </pubPlace>
                </imprint>
             </monogr>
-            <note type="events"> <listEvent>
+            <note type="events"><listEvent>
                <event source="@al-quds-2-173, 3" subtype="Trial" type="censorship" when="1910-03-29">
                   <label>Trial</label>
                   <desc>
@@ -4476,7 +4455,18 @@
                      <bibl type="pandoc">@al-quds-2-173, 3</bibl>
                   </listBibl>
                </event>
-               </listEvent> </note>
+               <event source="@al-quds-2-174, 2; @al-quds-2-173, 3" subtype="Trial" type="censorship" when="1910-08-20">
+                  <label>Trial</label>
+                  <desc>
+                     <date type="documented" when="1910-08-20">1910-08-20</date>
+                  </desc>
+                  <note type="comments">the owner of <title change="#d10e133" level="j" ref="NA" resp="#xslt">al-Nafīr</title> is in prison</note>
+                  <listBibl>
+                     <bibl type="pandoc">@al-quds-2-174, 2</bibl>
+                     <bibl type="pandoc">@al-quds-2-173, 3</bibl>
+                  </listBibl>
+               </event>
+               </listEvent></note>
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
@@ -4644,6 +4634,9 @@
          <biblStruct type="periodical">
             <monogr>
                <title change="#d10e133" level="j" ref="NA" resp="#xslt">al-Rafīq</title>
+               <editor type="owner">
+                  <persName>ʿAbdullah Efendi</persName>
+               </editor>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
@@ -4736,7 +4729,7 @@
          </biblStruct>
          <biblStruct type="periodical">
             <monogr>
-               <title change="#d10e133" level="j" ref="NA" resp="#xslt">al-Rāya al-ʿUthmāniyya</title>
+               <title change="#d10e133" level="j" ref="wiki:Q124971277" resp="#xslt">al-Rāya al-ʿUthmāniyya</title>
                <imprint>
                   <pubPlace><placeName change="#d9e95" ref="geon:360630 oape:place:226">Cairo</placeName></pubPlace>
                </imprint>
@@ -5561,6 +5554,8 @@
          <biblStruct type="periodical">
             <monogr>
                <title change="#d10e133" level="j" ref="NA" resp="#xslt">al-Ḥikma</title>
+               <textLang mainLang="ar"/>
+               <editor type="owner"><persName>ʿAbdullah Efendi</persName></editor>
                <imprint>
                   <pubPlace> <placeName change="#d9e95" ref="geon:170654 oape:place:61">Damascus</placeName> </pubPlace>
                </imprint>
