@@ -6092,6 +6092,11 @@
                      <bibl resp="#pers_TG">Thamarāt 7 Oct. 1895 (#1048):1</bibl>
                   </listBibl>
                </event>
+               <event type="censorship" subtype="S" source="https://openarabicpe.github.io/journal_al-manar/tei/oclc_1588981-v_11-i_11.TEIP5.xml#div_2.d2e1561">
+                  <label>S</label>
+                  <desc><date type="documented" notBefore="1908-12-01" notAfter="1908-12-31"/></desc>
+                  <note type="comments">Orders for suspension from Istanbul for an article in #517, 15 Tam 1903, that originally passed the censor</note>
+               </event>
                <event cert="high" source="@tf-oib+1506, 5" subtype="S" type="censorship" when="1905-01-12">
                   <label>S</label>
                   <desc>
